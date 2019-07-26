@@ -1,0 +1,15 @@
+{
+  "name": "hcmaranam",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MinusGix",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "ws": "^7.1.1"
+  }
+}
