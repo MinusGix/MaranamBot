@@ -19,10 +19,11 @@ module.exports.init = function (MS, moduleName, filename) {
 
     MS.initModuleData('chat', {});
 
+    // Register yourself as a chat controller, give it an event for functions to call when something happens
     MS.addControl("chat-register", (modName, event) => {
         registrar[modName] = event;
 
-        if (!event.send) event.send = () => {};
+        if (!event.send) event.send = (location, data) => {};
     });
     MS.addControl("chat-receive-text", (modName, text, location, ...eargs) => {
         location.mod = modName;
