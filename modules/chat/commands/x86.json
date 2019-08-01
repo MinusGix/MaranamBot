@@ -1,0 +1,5222 @@
+[
+    {
+        "name": "AAA",
+        "url": "https://www.felixcloutier.com/x86/AAA.html",
+        "text": "ASCII Adjust After Addition"
+    },
+    {
+        "name": "AAD",
+        "url": "https://www.felixcloutier.com/x86/AAD.html",
+        "text": "ASCII Adjust AX Before Division"
+    },
+    {
+        "name": "AAM",
+        "url": "https://www.felixcloutier.com/x86/AAM.html",
+        "text": "ASCII Adjust AX After Multiply"
+    },
+    {
+        "name": "AAS",
+        "url": "https://www.felixcloutier.com/x86/AAS.html",
+        "text": "ASCII Adjust AL After Subtraction"
+    },
+    {
+        "name": "ADC",
+        "url": "https://www.felixcloutier.com/x86/ADC.html",
+        "text": "Add with Carry"
+    },
+    {
+        "name": "ADCX",
+        "url": "https://www.felixcloutier.com/x86/ADCX.html",
+        "text": "Unsigned Integer Addition of Two Operands with Carry Flag"
+    },
+    {
+        "name": "ADD",
+        "url": "https://www.felixcloutier.com/x86/ADD.html",
+        "text": "Add"
+    },
+    {
+        "name": "ADDPD",
+        "url": "https://www.felixcloutier.com/x86/ADDPD.html",
+        "text": "Add Packed Double-Precision Floating-Point Values"
+    },
+    {
+        "name": "ADDPS",
+        "url": "https://www.felixcloutier.com/x86/ADDPS.html",
+        "text": "Add Packed Single-Precision Floating-Point Values"
+    },
+    {
+        "name": "ADDSD",
+        "url": "https://www.felixcloutier.com/x86/ADDSD.html",
+        "text": "Add Scalar Double-Precision Floating-Point Values"
+    },
+    {
+        "name": "ADDSS",
+        "url": "https://www.felixcloutier.com/x86/ADDSS.html",
+        "text": "Add Scalar Single-Precision Floating-Point Values"
+    },
+    {
+        "name": "ADDSUBPD",
+        "url": "https://www.felixcloutier.com/x86/ADDSUBPD.html",
+        "text": "Packed Double-FP Add/Subtract"
+    },
+    {
+        "name": "ADDSUBPS",
+        "url": "https://www.felixcloutier.com/x86/ADDSUBPS.html",
+        "text": "Packed Single-FP Add/Subtract"
+    },
+    {
+        "name": "ADOX",
+        "url": "https://www.felixcloutier.com/x86/ADOX.html",
+        "text": "Unsigned Integer Addition of Two Operands with Overflow Flag"
+    },
+    {
+        "name": "AESDEC",
+        "url": "https://www.felixcloutier.com/x86/AESDEC.html",
+        "text": "Perform One Round of an AES Decryption Flow"
+    },
+    {
+        "name": "AESDECLAST",
+        "url": "https://www.felixcloutier.com/x86/AESDECLAST.html",
+        "text": "Perform Last Round of an AES Decryption Flow"
+    },
+    {
+        "name": "AESENC",
+        "url": "https://www.felixcloutier.com/x86/AESENC.html",
+        "text": "Perform One Round of an AES Encryption Flow"
+    },
+    {
+        "name": "AESENCLAST",
+        "url": "https://www.felixcloutier.com/x86/AESENCLAST.html",
+        "text": "Perform Last Round of an AES Encryption Flow"
+    },
+    {
+        "name": "AESIMC",
+        "url": "https://www.felixcloutier.com/x86/AESIMC.html",
+        "text": "Perform the AES InvMixColumn Transformation"
+    },
+    {
+        "name": "AESKEYGENASSIST",
+        "url": "https://www.felixcloutier.com/x86/AESKEYGENASSIST.html",
+        "text": "AES Round Key Generation Assist"
+    },
+    {
+        "name": "AND",
+        "url": "https://www.felixcloutier.com/x86/AND.html",
+        "text": "Logical AND"
+    },
+    {
+        "name": "ANDN",
+        "url": "https://www.felixcloutier.com/x86/ANDN.html",
+        "text": "Logical AND NOT"
+    },
+    {
+        "name": "ANDNPD",
+        "url": "https://www.felixcloutier.com/x86/ANDNPD.html",
+        "text": "Bitwise Logical AND NOT of Packed Double Precision Floating-Point Values"
+    },
+    {
+        "name": "ANDNPS",
+        "url": "https://www.felixcloutier.com/x86/ANDNPS.html",
+        "text": "Bitwise Logical AND NOT of Packed Single Precision Floating-Point Values"
+    },
+    {
+        "name": "ANDPD",
+        "url": "https://www.felixcloutier.com/x86/ANDPD.html",
+        "text": "Bitwise Logical AND of Packed Double Precision Floating-Point Values"
+    },
+    {
+        "name": "ANDPS",
+        "url": "https://www.felixcloutier.com/x86/ANDPS.html",
+        "text": "Bitwise Logical AND of Packed Single Precision Floating-Point Values"
+    },
+    {
+        "name": "ARPL",
+        "url": "https://www.felixcloutier.com/x86/ARPL.html",
+        "text": "Adjust RPL Field of Segment Selector"
+    },
+    {
+        "name": "BEXTR",
+        "url": "https://www.felixcloutier.com/x86/BEXTR.html",
+        "text": "Bit Field Extract"
+    },
+    {
+        "name": "BLENDPD",
+        "url": "https://www.felixcloutier.com/x86/BLENDPD.html",
+        "text": "Blend Packed Double Precision Floating-Point Values"
+    },
+    {
+        "name": "BLENDPS",
+        "url": "https://www.felixcloutier.com/x86/BLENDPS.html",
+        "text": "Blend Packed Single Precision Floating-Point Values"
+    },
+    {
+        "name": "BLENDVPD",
+        "url": "https://www.felixcloutier.com/x86/BLENDVPD.html",
+        "text": "Variable Blend Packed Double Precision Floating-Point Values"
+    },
+    {
+        "name": "BLENDVPS",
+        "url": "https://www.felixcloutier.com/x86/BLENDVPS.html",
+        "text": "Variable Blend Packed Single Precision Floating-Point Values"
+    },
+    {
+        "name": "BLSI",
+        "url": "https://www.felixcloutier.com/x86/BLSI.html",
+        "text": "Extract Lowest Set Isolated Bit"
+    },
+    {
+        "name": "BLSMSK",
+        "url": "https://www.felixcloutier.com/x86/BLSMSK.html",
+        "text": "Get Mask Up to Lowest Set Bit"
+    },
+    {
+        "name": "BLSR",
+        "url": "https://www.felixcloutier.com/x86/BLSR.html",
+        "text": "Reset Lowest Set Bit"
+    },
+    {
+        "name": "BNDCL",
+        "url": "https://www.felixcloutier.com/x86/BNDCL.html",
+        "text": "Check Lower Bound"
+    },
+    {
+        "name": "BNDCN",
+        "url": "https://www.felixcloutier.com/x86/BNDCU:BNDCN.html",
+        "text": "Check Upper Bound"
+    },
+    {
+        "name": "BNDCU",
+        "url": "https://www.felixcloutier.com/x86/BNDCU:BNDCN.html",
+        "text": "Check Upper Bound"
+    },
+    {
+        "name": "BNDLDX",
+        "url": "https://www.felixcloutier.com/x86/BNDLDX.html",
+        "text": "Load Extended Bounds Using Address Translation"
+    },
+    {
+        "name": "BNDMK",
+        "url": "https://www.felixcloutier.com/x86/BNDMK.html",
+        "text": "Make Bounds"
+    },
+    {
+        "name": "BNDMOV",
+        "url": "https://www.felixcloutier.com/x86/BNDMOV.html",
+        "text": "Move Bounds"
+    },
+    {
+        "name": "BNDSTX",
+        "url": "https://www.felixcloutier.com/x86/BNDSTX.html",
+        "text": "Store Extended Bounds Using Address Translation"
+    },
+    {
+        "name": "BOUND",
+        "url": "https://www.felixcloutier.com/x86/BOUND.html",
+        "text": "Check Array Index Against Bounds"
+    },
+    {
+        "name": "BSF",
+        "url": "https://www.felixcloutier.com/x86/BSF.html",
+        "text": "Bit Scan Forward"
+    },
+    {
+        "name": "BSR",
+        "url": "https://www.felixcloutier.com/x86/BSR.html",
+        "text": "Bit Scan Reverse"
+    },
+    {
+        "name": "BSWAP",
+        "url": "https://www.felixcloutier.com/x86/BSWAP.html",
+        "text": "Byte Swap"
+    },
+    {
+        "name": "BT",
+        "url": "https://www.felixcloutier.com/x86/BT.html",
+        "text": "Bit Test"
+    },
+    {
+        "name": "BTC",
+        "url": "https://www.felixcloutier.com/x86/BTC.html",
+        "text": "Bit Test and Complement"
+    },
+    {
+        "name": "BTR",
+        "url": "https://www.felixcloutier.com/x86/BTR.html",
+        "text": "Bit Test and Reset"
+    },
+    {
+        "name": "BTS",
+        "url": "https://www.felixcloutier.com/x86/BTS.html",
+        "text": "Bit Test and Set"
+    },
+    {
+        "name": "BZHI",
+        "url": "https://www.felixcloutier.com/x86/BZHI.html",
+        "text": "Zero High Bits Starting with Specified Bit Position"
+    },
+    {
+        "name": "CALL",
+        "url": "https://www.felixcloutier.com/x86/CALL.html",
+        "text": "Call Procedure"
+    },
+    {
+        "name": "CBW",
+        "url": "https://www.felixcloutier.com/x86/CBW:CWDE:CDQE.html",
+        "text": "Convert Byte to Word/Convert Word to Doubleword/Convert Doubleword to Quadword"
+    },
+    {
+        "name": "CDQ",
+        "url": "https://www.felixcloutier.com/x86/CWD:CDQ:CQO.html",
+        "text": "Convert Word to Doubleword/Convert Doubleword to Quadword"
+    },
+    {
+        "name": "CDQE",
+        "url": "https://www.felixcloutier.com/x86/CBW:CWDE:CDQE.html",
+        "text": "Convert Byte to Word/Convert Word to Doubleword/Convert Doubleword to Quadword"
+    },
+    {
+        "name": "CLAC",
+        "url": "https://www.felixcloutier.com/x86/CLAC.html",
+        "text": "Clear AC Flag in EFLAGS Register"
+    },
+    {
+        "name": "CLC",
+        "url": "https://www.felixcloutier.com/x86/CLC.html",
+        "text": "Clear Carry Flag"
+    },
+    {
+        "name": "CLD",
+        "url": "https://www.felixcloutier.com/x86/CLD.html",
+        "text": "Clear Direction Flag"
+    },
+    {
+        "name": "CLDEMOTE",
+        "url": "https://www.felixcloutier.com/x86/CLDEMOTE.html",
+        "text": "Cache Line Demote"
+    },
+    {
+        "name": "CLFLUSH",
+        "url": "https://www.felixcloutier.com/x86/CLFLUSH.html",
+        "text": "Flush Cache Line"
+    },
+    {
+        "name": "CLFLUSHOPT",
+        "url": "https://www.felixcloutier.com/x86/CLFLUSHOPT.html",
+        "text": "Flush Cache Line Optimized"
+    },
+    {
+        "name": "CLI",
+        "url": "https://www.felixcloutier.com/x86/CLI.html",
+        "text": "Clear Interrupt Flag"
+    },
+    {
+        "name": "CLTS",
+        "url": "https://www.felixcloutier.com/x86/CLTS.html",
+        "text": "Clear Task-Switched Flag in CR0"
+    },
+    {
+        "name": "CLWB",
+        "url": "https://www.felixcloutier.com/x86/CLWB.html",
+        "text": "Cache Line Write Back"
+    },
+    {
+        "name": "CMC",
+        "url": "https://www.felixcloutier.com/x86/CMC.html",
+        "text": "Complement Carry Flag"
+    },
+    {
+        "name": "CMOVcc",
+        "url": "https://www.felixcloutier.com/x86/CMOVcc.html",
+        "text": "Conditional Move"
+    },
+    {
+        "name": "CMP",
+        "url": "https://www.felixcloutier.com/x86/CMP.html",
+        "text": "Compare Two Operands"
+    },
+    {
+        "name": "CMPPD",
+        "url": "https://www.felixcloutier.com/x86/CMPPD.html",
+        "text": "Compare Packed Double-Precision Floating-Point Values"
+    },
+    {
+        "name": "CMPPS",
+        "url": "https://www.felixcloutier.com/x86/CMPPS.html",
+        "text": "Compare Packed Single-Precision Floating-Point Values"
+    },
+    {
+        "name": "CMPS",
+        "url": "https://www.felixcloutier.com/x86/CMPS:CMPSB:CMPSW:CMPSD:CMPSQ.html",
+        "text": "Compare String Operands"
+    },
+    {
+        "name": "CMPSB",
+        "url": "https://www.felixcloutier.com/x86/CMPS:CMPSB:CMPSW:CMPSD:CMPSQ.html",
+        "text": "Compare String Operands"
+    },
+    {
+        "name": "CMPSD",
+        "url": "https://www.felixcloutier.com/x86/CMPS:CMPSB:CMPSW:CMPSD:CMPSQ.html",
+        "text": "Compare String Operands"
+    },
+    {
+        "name": "CMPSD",
+        "url": "https://www.felixcloutier.com/x86/CMPSD.html",
+        "text": "Compare Scalar Double-Precision Floating-Point Value"
+    },
+    {
+        "name": "CMPSQ",
+        "url": "https://www.felixcloutier.com/x86/CMPS:CMPSB:CMPSW:CMPSD:CMPSQ.html",
+        "text": "Compare String Operands"
+    },
+    {
+        "name": "CMPSS",
+        "url": "https://www.felixcloutier.com/x86/CMPSS.html",
+        "text": "Compare Scalar Single-Precision Floating-Point Value"
+    },
+    {
+        "name": "CMPSW",
+        "url": "https://www.felixcloutier.com/x86/CMPS:CMPSB:CMPSW:CMPSD:CMPSQ.html",
+        "text": "Compare String Operands"
+    },
+    {
+        "name": "CMPXCHG",
+        "url": "https://www.felixcloutier.com/x86/CMPXCHG.html",
+        "text": "Compare and Exchange"
+    },
+    {
+        "name": "CMPXCHG16B",
+        "url": "https://www.felixcloutier.com/x86/CMPXCHG8B:CMPXCHG16B.html",
+        "text": "Compare and Exchange Bytes"
+    },
+    {
+        "name": "CMPXCHG8B",
+        "url": "https://www.felixcloutier.com/x86/CMPXCHG8B:CMPXCHG16B.html",
+        "text": "Compare and Exchange Bytes"
+    },
+    {
+        "name": "COMISD",
+        "url": "https://www.felixcloutier.com/x86/COMISD.html",
+        "text": "Compare Scalar Ordered Double-Precision Floating-Point Values and Set EFLAGS"
+    },
+    {
+        "name": "COMISS",
+        "url": "https://www.felixcloutier.com/x86/COMISS.html",
+        "text": "Compare Scalar Ordered Single-Precision Floating-Point Values and Set EFLAGS"
+    },
+    {
+        "name": "CPUID",
+        "url": "https://www.felixcloutier.com/x86/CPUID.html",
+        "text": "CPU Identification"
+    },
+    {
+        "name": "CQO",
+        "url": "https://www.felixcloutier.com/x86/CWD:CDQ:CQO.html",
+        "text": "Convert Word to Doubleword/Convert Doubleword to Quadword"
+    },
+    {
+        "name": "CRC32",
+        "url": "https://www.felixcloutier.com/x86/CRC32.html",
+        "text": "Accumulate CRC32 Value"
+    },
+    {
+        "name": "CVTDQ2PD",
+        "url": "https://www.felixcloutier.com/x86/CVTDQ2PD.html",
+        "text": "Convert Packed Doubleword Integers to Packed Double-Precision Floating-Point Values"
+    },
+    {
+        "name": "CVTDQ2PS",
+        "url": "https://www.felixcloutier.com/x86/CVTDQ2PS.html",
+        "text": "Convert Packed Doubleword Integers to Packed Single-Precision Floating-Point Values"
+    },
+    {
+        "name": "CVTPD2DQ",
+        "url": "https://www.felixcloutier.com/x86/CVTPD2DQ.html",
+        "text": "Convert Packed Double-Precision Floating-Point Values to Packed Doubleword Integers"
+    },
+    {
+        "name": "CVTPD2PI",
+        "url": "https://www.felixcloutier.com/x86/CVTPD2PI.html",
+        "text": "Convert Packed Double-Precision FP Values to Packed Dword Integers"
+    },
+    {
+        "name": "CVTPD2PS",
+        "url": "https://www.felixcloutier.com/x86/CVTPD2PS.html",
+        "text": "Convert Packed Double-Precision Floating-Point Values to Packed Single-Precision Floating-Point Values"
+    },
+    {
+        "name": "CVTPI2PD",
+        "url": "https://www.felixcloutier.com/x86/CVTPI2PD.html",
+        "text": "Convert Packed Dword Integers to Packed Double-Precision FP Values"
+    },
+    {
+        "name": "CVTPI2PS",
+        "url": "https://www.felixcloutier.com/x86/CVTPI2PS.html",
+        "text": "Convert Packed Dword Integers to Packed Single-Precision FP Values"
+    },
+    {
+        "name": "CVTPS2DQ",
+        "url": "https://www.felixcloutier.com/x86/CVTPS2DQ.html",
+        "text": "Convert Packed Single-Precision Floating-Point Values to Packed Signed Doubleword Integer Values"
+    },
+    {
+        "name": "CVTPS2PD",
+        "url": "https://www.felixcloutier.com/x86/CVTPS2PD.html",
+        "text": "Convert Packed Single-Precision Floating-Point Values to Packed Double-Precision Floating-Point Values"
+    },
+    {
+        "name": "CVTPS2PI",
+        "url": "https://www.felixcloutier.com/x86/CVTPS2PI.html",
+        "text": "Convert Packed Single-Precision FP Values to Packed Dword Integers"
+    },
+    {
+        "name": "CVTSD2SI",
+        "url": "https://www.felixcloutier.com/x86/CVTSD2SI.html",
+        "text": "Convert Scalar Double-Precision Floating-Point Value to Doubleword Integer"
+    },
+    {
+        "name": "CVTSD2SS",
+        "url": "https://www.felixcloutier.com/x86/CVTSD2SS.html",
+        "text": "Convert Scalar Double-Precision Floating-Point Value to Scalar Single-Precision Floating-Point Value"
+    },
+    {
+        "name": "CVTSI2SD",
+        "url": "https://www.felixcloutier.com/x86/CVTSI2SD.html",
+        "text": "Convert Doubleword Integer to Scalar Double-Precision Floating-Point Value"
+    },
+    {
+        "name": "CVTSI2SS",
+        "url": "https://www.felixcloutier.com/x86/CVTSI2SS.html",
+        "text": "Convert Doubleword Integer to Scalar Single-Precision Floating-Point Value"
+    },
+    {
+        "name": "CVTSS2SD",
+        "url": "https://www.felixcloutier.com/x86/CVTSS2SD.html",
+        "text": "Convert Scalar Single-Precision Floating-Point Value to Scalar Double-Precision Floating-Point Value"
+    },
+    {
+        "name": "CVTSS2SI",
+        "url": "https://www.felixcloutier.com/x86/CVTSS2SI.html",
+        "text": "Convert Scalar Single-Precision Floating-Point Value to Doubleword Integer"
+    },
+    {
+        "name": "CVTTPD2DQ",
+        "url": "https://www.felixcloutier.com/x86/CVTTPD2DQ.html",
+        "text": "Convert with Truncation Packed Double-Precision Floating-Point Values to Packed Doubleword Integers"
+    },
+    {
+        "name": "CVTTPD2PI",
+        "url": "https://www.felixcloutier.com/x86/CVTTPD2PI.html",
+        "text": "Convert with Truncation Packed Double-Precision FP Values to Packed Dword Integers"
+    },
+    {
+        "name": "CVTTPS2DQ",
+        "url": "https://www.felixcloutier.com/x86/CVTTPS2DQ.html",
+        "text": "Convert with Truncation Packed Single-Precision Floating-Point Values to Packed Signed Doubleword Integer Values"
+    },
+    {
+        "name": "CVTTPS2PI",
+        "url": "https://www.felixcloutier.com/x86/CVTTPS2PI.html",
+        "text": "Convert with Truncation Packed Single-Precision FP Values to Packed Dword Integers"
+    },
+    {
+        "name": "CVTTSD2SI",
+        "url": "https://www.felixcloutier.com/x86/CVTTSD2SI.html",
+        "text": "Convert with Truncation Scalar Double-Precision Floating-Point Value to Signed Integer"
+    },
+    {
+        "name": "CVTTSS2SI",
+        "url": "https://www.felixcloutier.com/x86/CVTTSS2SI.html",
+        "text": "Convert with Truncation Scalar Single-Precision Floating-Point Value to Integer"
+    },
+    {
+        "name": "CWD",
+        "url": "https://www.felixcloutier.com/x86/CWD:CDQ:CQO.html",
+        "text": "Convert Word to Doubleword/Convert Doubleword to Quadword"
+    },
+    {
+        "name": "CWDE",
+        "url": "https://www.felixcloutier.com/x86/CBW:CWDE:CDQE.html",
+        "text": "Convert Byte to Word/Convert Word to Doubleword/Convert Doubleword to Quadword"
+    },
+    {
+        "name": "DAA",
+        "url": "https://www.felixcloutier.com/x86/DAA.html",
+        "text": "Decimal Adjust AL after Addition"
+    },
+    {
+        "name": "DAS",
+        "url": "https://www.felixcloutier.com/x86/DAS.html",
+        "text": "Decimal Adjust AL after Subtraction"
+    },
+    {
+        "name": "DEC",
+        "url": "https://www.felixcloutier.com/x86/DEC.html",
+        "text": "Decrement by 1"
+    },
+    {
+        "name": "DIV",
+        "url": "https://www.felixcloutier.com/x86/DIV.html",
+        "text": "Unsigned Divide"
+    },
+    {
+        "name": "DIVPD",
+        "url": "https://www.felixcloutier.com/x86/DIVPD.html",
+        "text": "Divide Packed Double-Precision Floating-Point Values"
+    },
+    {
+        "name": "DIVPS",
+        "url": "https://www.felixcloutier.com/x86/DIVPS.html",
+        "text": "Divide Packed Single-Precision Floating-Point Values"
+    },
+    {
+        "name": "DIVSD",
+        "url": "https://www.felixcloutier.com/x86/DIVSD.html",
+        "text": "Divide Scalar Double-Precision Floating-Point Value"
+    },
+    {
+        "name": "DIVSS",
+        "url": "https://www.felixcloutier.com/x86/DIVSS.html",
+        "text": "Divide Scalar Single-Precision Floating-Point Values"
+    },
+    {
+        "name": "DPPD",
+        "url": "https://www.felixcloutier.com/x86/DPPD.html",
+        "text": "Dot Product of Packed Double Precision Floating-Point Values"
+    },
+    {
+        "name": "DPPS",
+        "url": "https://www.felixcloutier.com/x86/DPPS.html",
+        "text": "Dot Product of Packed Single Precision Floating-Point Values"
+    },
+    {
+        "name": "EMMS",
+        "url": "https://www.felixcloutier.com/x86/EMMS.html",
+        "text": "Empty MMX Technology State"
+    },
+    {
+        "name": "ENTER",
+        "url": "https://www.felixcloutier.com/x86/ENTER.html",
+        "text": "Make Stack Frame for Procedure Parameters"
+    },
+    {
+        "name": "EXTRACTPS",
+        "url": "https://www.felixcloutier.com/x86/EXTRACTPS.html",
+        "text": "Extract Packed Floating-Point Values"
+    },
+    {
+        "name": "F2XM1",
+        "url": "https://www.felixcloutier.com/x86/F2XM1.html",
+        "text": "Compute 2x–1"
+    },
+    {
+        "name": "FABS",
+        "url": "https://www.felixcloutier.com/x86/FABS.html",
+        "text": "Absolute Value"
+    },
+    {
+        "name": "FADD",
+        "url": "https://www.felixcloutier.com/x86/FADD:FADDP:FIADD.html",
+        "text": "Add"
+    },
+    {
+        "name": "FADDP",
+        "url": "https://www.felixcloutier.com/x86/FADD:FADDP:FIADD.html",
+        "text": "Add"
+    },
+    {
+        "name": "FBLD",
+        "url": "https://www.felixcloutier.com/x86/FBLD.html",
+        "text": "Load Binary Coded Decimal"
+    },
+    {
+        "name": "FBSTP",
+        "url": "https://www.felixcloutier.com/x86/FBSTP.html",
+        "text": "Store BCD Integer and Pop"
+    },
+    {
+        "name": "FCHS",
+        "url": "https://www.felixcloutier.com/x86/FCHS.html",
+        "text": "Change Sign"
+    },
+    {
+        "name": "FCLEX",
+        "url": "https://www.felixcloutier.com/x86/FCLEX:FNCLEX.html",
+        "text": "Clear Exceptions"
+    },
+    {
+        "name": "FCMOVcc",
+        "url": "https://www.felixcloutier.com/x86/FCMOVcc.html",
+        "text": "Floating-Point Conditional Move"
+    },
+    {
+        "name": "FCOM",
+        "url": "https://www.felixcloutier.com/x86/FCOM:FCOMP:FCOMPP.html",
+        "text": "Compare Floating Point Values"
+    },
+    {
+        "name": "FCOMI",
+        "url": "https://www.felixcloutier.com/x86/FCOMI:FCOMIP:FUCOMI:FUCOMIP.html",
+        "text": "Compare Floating Point Values and Set EFLAGS"
+    },
+    {
+        "name": "FCOMIP",
+        "url": "https://www.felixcloutier.com/x86/FCOMI:FCOMIP:FUCOMI:FUCOMIP.html",
+        "text": "Compare Floating Point Values and Set EFLAGS"
+    },
+    {
+        "name": "FCOMP",
+        "url": "https://www.felixcloutier.com/x86/FCOM:FCOMP:FCOMPP.html",
+        "text": "Compare Floating Point Values"
+    },
+    {
+        "name": "FCOMPP",
+        "url": "https://www.felixcloutier.com/x86/FCOM:FCOMP:FCOMPP.html",
+        "text": "Compare Floating Point Values"
+    },
+    {
+        "name": "FCOS",
+        "url": "https://www.felixcloutier.com/x86/FCOS.html",
+        "text": "Cosine"
+    },
+    {
+        "name": "FDECSTP",
+        "url": "https://www.felixcloutier.com/x86/FDECSTP.html",
+        "text": "Decrement Stack-Top Pointer"
+    },
+    {
+        "name": "FDIV",
+        "url": "https://www.felixcloutier.com/x86/FDIV:FDIVP:FIDIV.html",
+        "text": "Divide"
+    },
+    {
+        "name": "FDIVP",
+        "url": "https://www.felixcloutier.com/x86/FDIV:FDIVP:FIDIV.html",
+        "text": "Divide"
+    },
+    {
+        "name": "FDIVR",
+        "url": "https://www.felixcloutier.com/x86/FDIVR:FDIVRP:FIDIVR.html",
+        "text": "Reverse Divide"
+    },
+    {
+        "name": "FDIVRP",
+        "url": "https://www.felixcloutier.com/x86/FDIVR:FDIVRP:FIDIVR.html",
+        "text": "Reverse Divide"
+    },
+    {
+        "name": "FFREE",
+        "url": "https://www.felixcloutier.com/x86/FFREE.html",
+        "text": "Free Floating-Point Register"
+    },
+    {
+        "name": "FIADD",
+        "url": "https://www.felixcloutier.com/x86/FADD:FADDP:FIADD.html",
+        "text": "Add"
+    },
+    {
+        "name": "FICOM",
+        "url": "https://www.felixcloutier.com/x86/FICOM:FICOMP.html",
+        "text": "Compare Integer"
+    },
+    {
+        "name": "FICOMP",
+        "url": "https://www.felixcloutier.com/x86/FICOM:FICOMP.html",
+        "text": "Compare Integer"
+    },
+    {
+        "name": "FIDIV",
+        "url": "https://www.felixcloutier.com/x86/FDIV:FDIVP:FIDIV.html",
+        "text": "Divide"
+    },
+    {
+        "name": "FIDIVR",
+        "url": "https://www.felixcloutier.com/x86/FDIVR:FDIVRP:FIDIVR.html",
+        "text": "Reverse Divide"
+    },
+    {
+        "name": "FILD",
+        "url": "https://www.felixcloutier.com/x86/FILD.html",
+        "text": "Load Integer"
+    },
+    {
+        "name": "FIMUL",
+        "url": "https://www.felixcloutier.com/x86/FMUL:FMULP:FIMUL.html",
+        "text": "Multiply"
+    },
+    {
+        "name": "FINCSTP",
+        "url": "https://www.felixcloutier.com/x86/FINCSTP.html",
+        "text": "Increment Stack-Top Pointer"
+    },
+    {
+        "name": "FINIT",
+        "url": "https://www.felixcloutier.com/x86/FINIT:FNINIT.html",
+        "text": "Initialize Floating-Point Unit"
+    },
+    {
+        "name": "FIST",
+        "url": "https://www.felixcloutier.com/x86/FIST:FISTP.html",
+        "text": "Store Integer"
+    },
+    {
+        "name": "FISTP",
+        "url": "https://www.felixcloutier.com/x86/FIST:FISTP.html",
+        "text": "Store Integer"
+    },
+    {
+        "name": "FISTTP",
+        "url": "https://www.felixcloutier.com/x86/FISTTP.html",
+        "text": "Store Integer with Truncation"
+    },
+    {
+        "name": "FISUB",
+        "url": "https://www.felixcloutier.com/x86/FSUB:FSUBP:FISUB.html",
+        "text": "Subtract"
+    },
+    {
+        "name": "FISUBR",
+        "url": "https://www.felixcloutier.com/x86/FSUBR:FSUBRP:FISUBR.html",
+        "text": "Reverse Subtract"
+    },
+    {
+        "name": "FLD",
+        "url": "https://www.felixcloutier.com/x86/FLD.html",
+        "text": "Load Floating Point Value"
+    },
+    {
+        "name": "FLD1",
+        "url": "https://www.felixcloutier.com/x86/FLD1:FLDL2T:FLDL2E:FLDPI:FLDLG2:FLDLN2:FLDZ.html",
+        "text": "Load Constant"
+    },
+    {
+        "name": "FLDCW",
+        "url": "https://www.felixcloutier.com/x86/FLDCW.html",
+        "text": "Load x87 FPU Control Word"
+    },
+    {
+        "name": "FLDENV",
+        "url": "https://www.felixcloutier.com/x86/FLDENV.html",
+        "text": "Load x87 FPU Environment"
+    },
+    {
+        "name": "FLDL2E",
+        "url": "https://www.felixcloutier.com/x86/FLD1:FLDL2T:FLDL2E:FLDPI:FLDLG2:FLDLN2:FLDZ.html",
+        "text": "Load Constant"
+    },
+    {
+        "name": "FLDL2T",
+        "url": "https://www.felixcloutier.com/x86/FLD1:FLDL2T:FLDL2E:FLDPI:FLDLG2:FLDLN2:FLDZ.html",
+        "text": "Load Constant"
+    },
+    {
+        "name": "FLDLG2",
+        "url": "https://www.felixcloutier.com/x86/FLD1:FLDL2T:FLDL2E:FLDPI:FLDLG2:FLDLN2:FLDZ.html",
+        "text": "Load Constant"
+    },
+    {
+        "name": "FLDLN2",
+        "url": "https://www.felixcloutier.com/x86/FLD1:FLDL2T:FLDL2E:FLDPI:FLDLG2:FLDLN2:FLDZ.html",
+        "text": "Load Constant"
+    },
+    {
+        "name": "FLDPI",
+        "url": "https://www.felixcloutier.com/x86/FLD1:FLDL2T:FLDL2E:FLDPI:FLDLG2:FLDLN2:FLDZ.html",
+        "text": "Load Constant"
+    },
+    {
+        "name": "FLDZ",
+        "url": "https://www.felixcloutier.com/x86/FLD1:FLDL2T:FLDL2E:FLDPI:FLDLG2:FLDLN2:FLDZ.html",
+        "text": "Load Constant"
+    },
+    {
+        "name": "FMUL",
+        "url": "https://www.felixcloutier.com/x86/FMUL:FMULP:FIMUL.html",
+        "text": "Multiply"
+    },
+    {
+        "name": "FMULP",
+        "url": "https://www.felixcloutier.com/x86/FMUL:FMULP:FIMUL.html",
+        "text": "Multiply"
+    },
+    {
+        "name": "FNCLEX",
+        "url": "https://www.felixcloutier.com/x86/FCLEX:FNCLEX.html",
+        "text": "Clear Exceptions"
+    },
+    {
+        "name": "FNINIT",
+        "url": "https://www.felixcloutier.com/x86/FINIT:FNINIT.html",
+        "text": "Initialize Floating-Point Unit"
+    },
+    {
+        "name": "FNOP",
+        "url": "https://www.felixcloutier.com/x86/FNOP.html",
+        "text": "No Operation"
+    },
+    {
+        "name": "FNSAVE",
+        "url": "https://www.felixcloutier.com/x86/FSAVE:FNSAVE.html",
+        "text": "Store x87 FPU State"
+    },
+    {
+        "name": "FNSTCW",
+        "url": "https://www.felixcloutier.com/x86/FSTCW:FNSTCW.html",
+        "text": "Store x87 FPU Control Word"
+    },
+    {
+        "name": "FNSTENV",
+        "url": "https://www.felixcloutier.com/x86/FSTENV:FNSTENV.html",
+        "text": "Store x87 FPU Environment"
+    },
+    {
+        "name": "FNSTSW",
+        "url": "https://www.felixcloutier.com/x86/FSTSW:FNSTSW.html",
+        "text": "Store x87 FPU Status Word"
+    },
+    {
+        "name": "FPATAN",
+        "url": "https://www.felixcloutier.com/x86/FPATAN.html",
+        "text": "Partial Arctangent"
+    },
+    {
+        "name": "FPREM",
+        "url": "https://www.felixcloutier.com/x86/FPREM.html",
+        "text": "Partial Remainder"
+    },
+    {
+        "name": "FPREM1",
+        "url": "https://www.felixcloutier.com/x86/FPREM1.html",
+        "text": "Partial Remainder"
+    },
+    {
+        "name": "FPTAN",
+        "url": "https://www.felixcloutier.com/x86/FPTAN.html",
+        "text": "Partial Tangent"
+    },
+    {
+        "name": "FRNDINT",
+        "url": "https://www.felixcloutier.com/x86/FRNDINT.html",
+        "text": "Round to Integer"
+    },
+    {
+        "name": "FRSTOR",
+        "url": "https://www.felixcloutier.com/x86/FRSTOR.html",
+        "text": "Restore x87 FPU State"
+    },
+    {
+        "name": "FSAVE",
+        "url": "https://www.felixcloutier.com/x86/FSAVE:FNSAVE.html",
+        "text": "Store x87 FPU State"
+    },
+    {
+        "name": "FSCALE",
+        "url": "https://www.felixcloutier.com/x86/FSCALE.html",
+        "text": "Scale"
+    },
+    {
+        "name": "FSIN",
+        "url": "https://www.felixcloutier.com/x86/FSIN.html",
+        "text": "Sine"
+    },
+    {
+        "name": "FSINCOS",
+        "url": "https://www.felixcloutier.com/x86/FSINCOS.html",
+        "text": "Sine and Cosine"
+    },
+    {
+        "name": "FSQRT",
+        "url": "https://www.felixcloutier.com/x86/FSQRT.html",
+        "text": "Square Root"
+    },
+    {
+        "name": "FST",
+        "url": "https://www.felixcloutier.com/x86/FST:FSTP.html",
+        "text": "Store Floating Point Value"
+    },
+    {
+        "name": "FSTCW",
+        "url": "https://www.felixcloutier.com/x86/FSTCW:FNSTCW.html",
+        "text": "Store x87 FPU Control Word"
+    },
+    {
+        "name": "FSTENV",
+        "url": "https://www.felixcloutier.com/x86/FSTENV:FNSTENV.html",
+        "text": "Store x87 FPU Environment"
+    },
+    {
+        "name": "FSTP",
+        "url": "https://www.felixcloutier.com/x86/FST:FSTP.html",
+        "text": "Store Floating Point Value"
+    },
+    {
+        "name": "FSTSW",
+        "url": "https://www.felixcloutier.com/x86/FSTSW:FNSTSW.html",
+        "text": "Store x87 FPU Status Word"
+    },
+    {
+        "name": "FSUB",
+        "url": "https://www.felixcloutier.com/x86/FSUB:FSUBP:FISUB.html",
+        "text": "Subtract"
+    },
+    {
+        "name": "FSUBP",
+        "url": "https://www.felixcloutier.com/x86/FSUB:FSUBP:FISUB.html",
+        "text": "Subtract"
+    },
+    {
+        "name": "FSUBR",
+        "url": "https://www.felixcloutier.com/x86/FSUBR:FSUBRP:FISUBR.html",
+        "text": "Reverse Subtract"
+    },
+    {
+        "name": "FSUBRP",
+        "url": "https://www.felixcloutier.com/x86/FSUBR:FSUBRP:FISUBR.html",
+        "text": "Reverse Subtract"
+    },
+    {
+        "name": "FTST",
+        "url": "https://www.felixcloutier.com/x86/FTST.html",
+        "text": "TEST"
+    },
+    {
+        "name": "FUCOM",
+        "url": "https://www.felixcloutier.com/x86/FUCOM:FUCOMP:FUCOMPP.html",
+        "text": "Unordered Compare Floating Point Values"
+    },
+    {
+        "name": "FUCOMI",
+        "url": "https://www.felixcloutier.com/x86/FCOMI:FCOMIP:FUCOMI:FUCOMIP.html",
+        "text": "Compare Floating Point Values and Set EFLAGS"
+    },
+    {
+        "name": "FUCOMIP",
+        "url": "https://www.felixcloutier.com/x86/FCOMI:FCOMIP:FUCOMI:FUCOMIP.html",
+        "text": "Compare Floating Point Values and Set EFLAGS"
+    },
+    {
+        "name": "FUCOMP",
+        "url": "https://www.felixcloutier.com/x86/FUCOM:FUCOMP:FUCOMPP.html",
+        "text": "Unordered Compare Floating Point Values"
+    },
+    {
+        "name": "FUCOMPP",
+        "url": "https://www.felixcloutier.com/x86/FUCOM:FUCOMP:FUCOMPP.html",
+        "text": "Unordered Compare Floating Point Values"
+    },
+    {
+        "name": "FWAIT",
+        "url": "https://www.felixcloutier.com/x86/WAIT:FWAIT.html",
+        "text": "Wait"
+    },
+    {
+        "name": "FXAM",
+        "url": "https://www.felixcloutier.com/x86/FXAM.html",
+        "text": "Examine Floating-Point"
+    },
+    {
+        "name": "FXCH",
+        "url": "https://www.felixcloutier.com/x86/FXCH.html",
+        "text": "Exchange Register Contents"
+    },
+    {
+        "name": "FXRSTOR",
+        "url": "https://www.felixcloutier.com/x86/FXRSTOR.html",
+        "text": "Restore x87 FPU, MMX, XMM, and MXCSR State"
+    },
+    {
+        "name": "FXSAVE",
+        "url": "https://www.felixcloutier.com/x86/FXSAVE.html",
+        "text": "Save x87 FPU, MMX Technology, and SSE State"
+    },
+    {
+        "name": "FXTRACT",
+        "url": "https://www.felixcloutier.com/x86/FXTRACT.html",
+        "text": "Extract Exponent and Significand"
+    },
+    {
+        "name": "FYL2X",
+        "url": "https://www.felixcloutier.com/x86/FYL2X.html",
+        "text": "Compute y ∗ log2x"
+    },
+    {
+        "name": "FYL2XP1",
+        "url": "https://www.felixcloutier.com/x86/FYL2XP1.html",
+        "text": "Compute y ∗ log2(x +1)"
+    },
+    {
+        "name": "GF2P8AFFINEINVQB",
+        "url": "https://www.felixcloutier.com/x86/GF2P8AFFINEINVQB.html",
+        "text": "Galois Field Affine Transformation Inverse"
+    },
+    {
+        "name": "GF2P8AFFINEQB",
+        "url": "https://www.felixcloutier.com/x86/GF2P8AFFINEQB.html",
+        "text": "Galois Field Affine Transformation"
+    },
+    {
+        "name": "GF2P8MULB",
+        "url": "https://www.felixcloutier.com/x86/GF2P8MULB.html",
+        "text": "Galois Field Multiply Bytes"
+    },
+    {
+        "name": "HADDPD",
+        "url": "https://www.felixcloutier.com/x86/HADDPD.html",
+        "text": "Packed Double-FP Horizontal Add"
+    },
+    {
+        "name": "HADDPS",
+        "url": "https://www.felixcloutier.com/x86/HADDPS.html",
+        "text": "Packed Single-FP Horizontal Add"
+    },
+    {
+        "name": "HLT",
+        "url": "https://www.felixcloutier.com/x86/HLT.html",
+        "text": "Halt"
+    },
+    {
+        "name": "HSUBPD",
+        "url": "https://www.felixcloutier.com/x86/HSUBPD.html",
+        "text": "Packed Double-FP Horizontal Subtract"
+    },
+    {
+        "name": "HSUBPS",
+        "url": "https://www.felixcloutier.com/x86/HSUBPS.html",
+        "text": "Packed Single-FP Horizontal Subtract"
+    },
+    {
+        "name": "IDIV",
+        "url": "https://www.felixcloutier.com/x86/IDIV.html",
+        "text": "Signed Divide"
+    },
+    {
+        "name": "IMUL",
+        "url": "https://www.felixcloutier.com/x86/IMUL.html",
+        "text": "Signed Multiply"
+    },
+    {
+        "name": "IN",
+        "url": "https://www.felixcloutier.com/x86/IN.html",
+        "text": "Input from Port"
+    },
+    {
+        "name": "INC",
+        "url": "https://www.felixcloutier.com/x86/INC.html",
+        "text": "Increment by 1"
+    },
+    {
+        "name": "INS",
+        "url": "https://www.felixcloutier.com/x86/INS:INSB:INSW:INSD.html",
+        "text": "Input from Port to String"
+    },
+    {
+        "name": "INSB",
+        "url": "https://www.felixcloutier.com/x86/INS:INSB:INSW:INSD.html",
+        "text": "Input from Port to String"
+    },
+    {
+        "name": "INSD",
+        "url": "https://www.felixcloutier.com/x86/INS:INSB:INSW:INSD.html",
+        "text": "Input from Port to String"
+    },
+    {
+        "name": "INSERTPS",
+        "url": "https://www.felixcloutier.com/x86/INSERTPS.html",
+        "text": "Insert Scalar Single-Precision Floating-Point Value"
+    },
+    {
+        "name": "INSW",
+        "url": "https://www.felixcloutier.com/x86/INS:INSB:INSW:INSD.html",
+        "text": "Input from Port to String"
+    },
+    {
+        "name": "INT n",
+        "url": "https://www.felixcloutier.com/x86/INTn:INTO:INT3:INT1.html",
+        "text": "Call to Interrupt Procedure"
+    },
+    {
+        "name": "INT1",
+        "url": "https://www.felixcloutier.com/x86/INTn:INTO:INT3:INT1.html",
+        "text": "Call to Interrupt Procedure"
+    },
+    {
+        "name": "INT3",
+        "url": "https://www.felixcloutier.com/x86/INTn:INTO:INT3:INT1.html",
+        "text": "Call to Interrupt Procedure"
+    },
+    {
+        "name": "INTO",
+        "url": "https://www.felixcloutier.com/x86/INTn:INTO:INT3:INT1.html",
+        "text": "Call to Interrupt Procedure"
+    },
+    {
+        "name": "INVD",
+        "url": "https://www.felixcloutier.com/x86/INVD.html",
+        "text": "Invalidate Internal Caches"
+    },
+    {
+        "name": "INVLPG",
+        "url": "https://www.felixcloutier.com/x86/INVLPG.html",
+        "text": "Invalidate TLB Entries"
+    },
+    {
+        "name": "INVPCID",
+        "url": "https://www.felixcloutier.com/x86/INVPCID.html",
+        "text": "Invalidate Process-Context Identifier"
+    },
+    {
+        "name": "IRET",
+        "url": "https://www.felixcloutier.com/x86/IRET:IRETD.html",
+        "text": "Interrupt Return"
+    },
+    {
+        "name": "IRETD",
+        "url": "https://www.felixcloutier.com/x86/IRET:IRETD.html",
+        "text": "Interrupt Return"
+    },
+    {
+        "name": "JMP",
+        "url": "https://www.felixcloutier.com/x86/JMP.html",
+        "text": "Jump"
+    },
+    {
+        "name": "Jcc",
+        "url": "https://www.felixcloutier.com/x86/Jcc.html",
+        "text": "Jump if Condition Is Met"
+    },
+    {
+        "name": "KADDB",
+        "url": "https://www.felixcloutier.com/x86/KADDW:KADDB:KADDQ:KADDD.html",
+        "text": "ADD Two Masks"
+    },
+    {
+        "name": "KADDD",
+        "url": "https://www.felixcloutier.com/x86/KADDW:KADDB:KADDQ:KADDD.html",
+        "text": "ADD Two Masks"
+    },
+    {
+        "name": "KADDQ",
+        "url": "https://www.felixcloutier.com/x86/KADDW:KADDB:KADDQ:KADDD.html",
+        "text": "ADD Two Masks"
+    },
+    {
+        "name": "KADDW",
+        "url": "https://www.felixcloutier.com/x86/KADDW:KADDB:KADDQ:KADDD.html",
+        "text": "ADD Two Masks"
+    },
+    {
+        "name": "KANDB",
+        "url": "https://www.felixcloutier.com/x86/KANDW:KANDB:KANDQ:KANDD.html",
+        "text": "Bitwise Logical AND Masks"
+    },
+    {
+        "name": "KANDD",
+        "url": "https://www.felixcloutier.com/x86/KANDW:KANDB:KANDQ:KANDD.html",
+        "text": "Bitwise Logical AND Masks"
+    },
+    {
+        "name": "KANDNB",
+        "url": "https://www.felixcloutier.com/x86/KANDNW:KANDNB:KANDNQ:KANDND.html",
+        "text": "Bitwise Logical AND NOT Masks"
+    },
+    {
+        "name": "KANDND",
+        "url": "https://www.felixcloutier.com/x86/KANDNW:KANDNB:KANDNQ:KANDND.html",
+        "text": "Bitwise Logical AND NOT Masks"
+    },
+    {
+        "name": "KANDNQ",
+        "url": "https://www.felixcloutier.com/x86/KANDNW:KANDNB:KANDNQ:KANDND.html",
+        "text": "Bitwise Logical AND NOT Masks"
+    },
+    {
+        "name": "KANDNW",
+        "url": "https://www.felixcloutier.com/x86/KANDNW:KANDNB:KANDNQ:KANDND.html",
+        "text": "Bitwise Logical AND NOT Masks"
+    },
+    {
+        "name": "KANDQ",
+        "url": "https://www.felixcloutier.com/x86/KANDW:KANDB:KANDQ:KANDD.html",
+        "text": "Bitwise Logical AND Masks"
+    },
+    {
+        "name": "KANDW",
+        "url": "https://www.felixcloutier.com/x86/KANDW:KANDB:KANDQ:KANDD.html",
+        "text": "Bitwise Logical AND Masks"
+    },
+    {
+        "name": "KMOVB",
+        "url": "https://www.felixcloutier.com/x86/KMOVW:KMOVB:KMOVQ:KMOVD.html",
+        "text": "Move from and to Mask Registers"
+    },
+    {
+        "name": "KMOVD",
+        "url": "https://www.felixcloutier.com/x86/KMOVW:KMOVB:KMOVQ:KMOVD.html",
+        "text": "Move from and to Mask Registers"
+    },
+    {
+        "name": "KMOVQ",
+        "url": "https://www.felixcloutier.com/x86/KMOVW:KMOVB:KMOVQ:KMOVD.html",
+        "text": "Move from and to Mask Registers"
+    },
+    {
+        "name": "KMOVW",
+        "url": "https://www.felixcloutier.com/x86/KMOVW:KMOVB:KMOVQ:KMOVD.html",
+        "text": "Move from and to Mask Registers"
+    },
+    {
+        "name": "KNOTB",
+        "url": "https://www.felixcloutier.com/x86/KNOTW:KNOTB:KNOTQ:KNOTD.html",
+        "text": "NOT Mask Register"
+    },
+    {
+        "name": "KNOTD",
+        "url": "https://www.felixcloutier.com/x86/KNOTW:KNOTB:KNOTQ:KNOTD.html",
+        "text": "NOT Mask Register"
+    },
+    {
+        "name": "KNOTQ",
+        "url": "https://www.felixcloutier.com/x86/KNOTW:KNOTB:KNOTQ:KNOTD.html",
+        "text": "NOT Mask Register"
+    },
+    {
+        "name": "KNOTW",
+        "url": "https://www.felixcloutier.com/x86/KNOTW:KNOTB:KNOTQ:KNOTD.html",
+        "text": "NOT Mask Register"
+    },
+    {
+        "name": "KORB",
+        "url": "https://www.felixcloutier.com/x86/KORW:KORB:KORQ:KORD.html",
+        "text": "Bitwise Logical OR Masks"
+    },
+    {
+        "name": "KORD",
+        "url": "https://www.felixcloutier.com/x86/KORW:KORB:KORQ:KORD.html",
+        "text": "Bitwise Logical OR Masks"
+    },
+    {
+        "name": "KORQ",
+        "url": "https://www.felixcloutier.com/x86/KORW:KORB:KORQ:KORD.html",
+        "text": "Bitwise Logical OR Masks"
+    },
+    {
+        "name": "KORTESTB",
+        "url": "https://www.felixcloutier.com/x86/KORTESTW:KORTESTB:KORTESTQ:KORTESTD.html",
+        "text": "OR Masks And Set Flags"
+    },
+    {
+        "name": "KORTESTD",
+        "url": "https://www.felixcloutier.com/x86/KORTESTW:KORTESTB:KORTESTQ:KORTESTD.html",
+        "text": "OR Masks And Set Flags"
+    },
+    {
+        "name": "KORTESTQ",
+        "url": "https://www.felixcloutier.com/x86/KORTESTW:KORTESTB:KORTESTQ:KORTESTD.html",
+        "text": "OR Masks And Set Flags"
+    },
+    {
+        "name": "KORTESTW",
+        "url": "https://www.felixcloutier.com/x86/KORTESTW:KORTESTB:KORTESTQ:KORTESTD.html",
+        "text": "OR Masks And Set Flags"
+    },
+    {
+        "name": "KORW",
+        "url": "https://www.felixcloutier.com/x86/KORW:KORB:KORQ:KORD.html",
+        "text": "Bitwise Logical OR Masks"
+    },
+    {
+        "name": "KSHIFTLB",
+        "url": "https://www.felixcloutier.com/x86/KSHIFTLW:KSHIFTLB:KSHIFTLQ:KSHIFTLD.html",
+        "text": "Shift Left Mask Registers"
+    },
+    {
+        "name": "KSHIFTLD",
+        "url": "https://www.felixcloutier.com/x86/KSHIFTLW:KSHIFTLB:KSHIFTLQ:KSHIFTLD.html",
+        "text": "Shift Left Mask Registers"
+    },
+    {
+        "name": "KSHIFTLQ",
+        "url": "https://www.felixcloutier.com/x86/KSHIFTLW:KSHIFTLB:KSHIFTLQ:KSHIFTLD.html",
+        "text": "Shift Left Mask Registers"
+    },
+    {
+        "name": "KSHIFTLW",
+        "url": "https://www.felixcloutier.com/x86/KSHIFTLW:KSHIFTLB:KSHIFTLQ:KSHIFTLD.html",
+        "text": "Shift Left Mask Registers"
+    },
+    {
+        "name": "KSHIFTRB",
+        "url": "https://www.felixcloutier.com/x86/KSHIFTRW:KSHIFTRB:KSHIFTRQ:KSHIFTRD.html",
+        "text": "Shift Right Mask Registers"
+    },
+    {
+        "name": "KSHIFTRD",
+        "url": "https://www.felixcloutier.com/x86/KSHIFTRW:KSHIFTRB:KSHIFTRQ:KSHIFTRD.html",
+        "text": "Shift Right Mask Registers"
+    },
+    {
+        "name": "KSHIFTRQ",
+        "url": "https://www.felixcloutier.com/x86/KSHIFTRW:KSHIFTRB:KSHIFTRQ:KSHIFTRD.html",
+        "text": "Shift Right Mask Registers"
+    },
+    {
+        "name": "KSHIFTRW",
+        "url": "https://www.felixcloutier.com/x86/KSHIFTRW:KSHIFTRB:KSHIFTRQ:KSHIFTRD.html",
+        "text": "Shift Right Mask Registers"
+    },
+    {
+        "name": "KTESTB",
+        "url": "https://www.felixcloutier.com/x86/KTESTW:KTESTB:KTESTQ:KTESTD.html",
+        "text": "Packed Bit Test Masks and Set Flags"
+    },
+    {
+        "name": "KTESTD",
+        "url": "https://www.felixcloutier.com/x86/KTESTW:KTESTB:KTESTQ:KTESTD.html",
+        "text": "Packed Bit Test Masks and Set Flags"
+    },
+    {
+        "name": "KTESTQ",
+        "url": "https://www.felixcloutier.com/x86/KTESTW:KTESTB:KTESTQ:KTESTD.html",
+        "text": "Packed Bit Test Masks and Set Flags"
+    },
+    {
+        "name": "KTESTW",
+        "url": "https://www.felixcloutier.com/x86/KTESTW:KTESTB:KTESTQ:KTESTD.html",
+        "text": "Packed Bit Test Masks and Set Flags"
+    },
+    {
+        "name": "KUNPCKBW",
+        "url": "https://www.felixcloutier.com/x86/KUNPCKBW:KUNPCKWD:KUNPCKDQ.html",
+        "text": "Unpack for Mask Registers"
+    },
+    {
+        "name": "KUNPCKDQ",
+        "url": "https://www.felixcloutier.com/x86/KUNPCKBW:KUNPCKWD:KUNPCKDQ.html",
+        "text": "Unpack for Mask Registers"
+    },
+    {
+        "name": "KUNPCKWD",
+        "url": "https://www.felixcloutier.com/x86/KUNPCKBW:KUNPCKWD:KUNPCKDQ.html",
+        "text": "Unpack for Mask Registers"
+    },
+    {
+        "name": "KXNORB",
+        "url": "https://www.felixcloutier.com/x86/KXNORW:KXNORB:KXNORQ:KXNORD.html",
+        "text": "Bitwise Logical XNOR Masks"
+    },
+    {
+        "name": "KXNORD",
+        "url": "https://www.felixcloutier.com/x86/KXNORW:KXNORB:KXNORQ:KXNORD.html",
+        "text": "Bitwise Logical XNOR Masks"
+    },
+    {
+        "name": "KXNORQ",
+        "url": "https://www.felixcloutier.com/x86/KXNORW:KXNORB:KXNORQ:KXNORD.html",
+        "text": "Bitwise Logical XNOR Masks"
+    },
+    {
+        "name": "KXNORW",
+        "url": "https://www.felixcloutier.com/x86/KXNORW:KXNORB:KXNORQ:KXNORD.html",
+        "text": "Bitwise Logical XNOR Masks"
+    },
+    {
+        "name": "KXORB",
+        "url": "https://www.felixcloutier.com/x86/KXORW:KXORB:KXORQ:KXORD.html",
+        "text": "Bitwise Logical XOR Masks"
+    },
+    {
+        "name": "KXORD",
+        "url": "https://www.felixcloutier.com/x86/KXORW:KXORB:KXORQ:KXORD.html",
+        "text": "Bitwise Logical XOR Masks"
+    },
+    {
+        "name": "KXORQ",
+        "url": "https://www.felixcloutier.com/x86/KXORW:KXORB:KXORQ:KXORD.html",
+        "text": "Bitwise Logical XOR Masks"
+    },
+    {
+        "name": "KXORW",
+        "url": "https://www.felixcloutier.com/x86/KXORW:KXORB:KXORQ:KXORD.html",
+        "text": "Bitwise Logical XOR Masks"
+    },
+    {
+        "name": "LAHF",
+        "url": "https://www.felixcloutier.com/x86/LAHF.html",
+        "text": "Load Status Flags into AH Register"
+    },
+    {
+        "name": "LAR",
+        "url": "https://www.felixcloutier.com/x86/LAR.html",
+        "text": "Load Access Rights Byte"
+    },
+    {
+        "name": "LDDQU",
+        "url": "https://www.felixcloutier.com/x86/LDDQU.html",
+        "text": "Load Unaligned Integer 128 Bits"
+    },
+    {
+        "name": "LDMXCSR",
+        "url": "https://www.felixcloutier.com/x86/LDMXCSR.html",
+        "text": "Load MXCSR Register"
+    },
+    {
+        "name": "LDS",
+        "url": "https://www.felixcloutier.com/x86/LDS:LES:LFS:LGS:LSS.html",
+        "text": "Load Far Pointer"
+    },
+    {
+        "name": "LEA",
+        "url": "https://www.felixcloutier.com/x86/LEA.html",
+        "text": "Load Effective Address"
+    },
+    {
+        "name": "LEAVE",
+        "url": "https://www.felixcloutier.com/x86/LEAVE.html",
+        "text": "High Level Procedure Exit"
+    },
+    {
+        "name": "LES",
+        "url": "https://www.felixcloutier.com/x86/LDS:LES:LFS:LGS:LSS.html",
+        "text": "Load Far Pointer"
+    },
+    {
+        "name": "LFENCE",
+        "url": "https://www.felixcloutier.com/x86/LFENCE.html",
+        "text": "Load Fence"
+    },
+    {
+        "name": "LFS",
+        "url": "https://www.felixcloutier.com/x86/LDS:LES:LFS:LGS:LSS.html",
+        "text": "Load Far Pointer"
+    },
+    {
+        "name": "LGDT",
+        "url": "https://www.felixcloutier.com/x86/LGDT:LIDT.html",
+        "text": "Load Global/Interrupt Descriptor Table Register"
+    },
+    {
+        "name": "LGS",
+        "url": "https://www.felixcloutier.com/x86/LDS:LES:LFS:LGS:LSS.html",
+        "text": "Load Far Pointer"
+    },
+    {
+        "name": "LIDT",
+        "url": "https://www.felixcloutier.com/x86/LGDT:LIDT.html",
+        "text": "Load Global/Interrupt Descriptor Table Register"
+    },
+    {
+        "name": "LLDT",
+        "url": "https://www.felixcloutier.com/x86/LLDT.html",
+        "text": "Load Local Descriptor Table Register"
+    },
+    {
+        "name": "LMSW",
+        "url": "https://www.felixcloutier.com/x86/LMSW.html",
+        "text": "Load Machine Status Word"
+    },
+    {
+        "name": "LOCK",
+        "url": "https://www.felixcloutier.com/x86/LOCK.html",
+        "text": "Assert LOCK# Signal Prefix"
+    },
+    {
+        "name": "LODS",
+        "url": "https://www.felixcloutier.com/x86/LODS:LODSB:LODSW:LODSD:LODSQ.html",
+        "text": "Load String"
+    },
+    {
+        "name": "LODSB",
+        "url": "https://www.felixcloutier.com/x86/LODS:LODSB:LODSW:LODSD:LODSQ.html",
+        "text": "Load String"
+    },
+    {
+        "name": "LODSD",
+        "url": "https://www.felixcloutier.com/x86/LODS:LODSB:LODSW:LODSD:LODSQ.html",
+        "text": "Load String"
+    },
+    {
+        "name": "LODSQ",
+        "url": "https://www.felixcloutier.com/x86/LODS:LODSB:LODSW:LODSD:LODSQ.html",
+        "text": "Load String"
+    },
+    {
+        "name": "LODSW",
+        "url": "https://www.felixcloutier.com/x86/LODS:LODSB:LODSW:LODSD:LODSQ.html",
+        "text": "Load String"
+    },
+    {
+        "name": "LOOP",
+        "url": "https://www.felixcloutier.com/x86/LOOP:LOOPcc.html",
+        "text": "Loop According to ECX Counter"
+    },
+    {
+        "name": "LOOPcc",
+        "url": "https://www.felixcloutier.com/x86/LOOP:LOOPcc.html",
+        "text": "Loop According to ECX Counter"
+    },
+    {
+        "name": "LSL",
+        "url": "https://www.felixcloutier.com/x86/LSL.html",
+        "text": "Load Segment Limit"
+    },
+    {
+        "name": "LSS",
+        "url": "https://www.felixcloutier.com/x86/LDS:LES:LFS:LGS:LSS.html",
+        "text": "Load Far Pointer"
+    },
+    {
+        "name": "LTR",
+        "url": "https://www.felixcloutier.com/x86/LTR.html",
+        "text": "Load Task Register"
+    },
+    {
+        "name": "LZCNT",
+        "url": "https://www.felixcloutier.com/x86/LZCNT.html",
+        "text": "Count the Number of Leading Zero Bits"
+    },
+    {
+        "name": "MASKMOVDQU",
+        "url": "https://www.felixcloutier.com/x86/MASKMOVDQU.html",
+        "text": "Store Selected Bytes of Double Quadword"
+    },
+    {
+        "name": "MASKMOVQ",
+        "url": "https://www.felixcloutier.com/x86/MASKMOVQ.html",
+        "text": "Store Selected Bytes of Quadword"
+    },
+    {
+        "name": "MAXPD",
+        "url": "https://www.felixcloutier.com/x86/MAXPD.html",
+        "text": "Maximum of Packed Double-Precision Floating-Point Values"
+    },
+    {
+        "name": "MAXPS",
+        "url": "https://www.felixcloutier.com/x86/MAXPS.html",
+        "text": "Maximum of Packed Single-Precision Floating-Point Values"
+    },
+    {
+        "name": "MAXSD",
+        "url": "https://www.felixcloutier.com/x86/MAXSD.html",
+        "text": "Return Maximum Scalar Double-Precision Floating-Point Value"
+    },
+    {
+        "name": "MAXSS",
+        "url": "https://www.felixcloutier.com/x86/MAXSS.html",
+        "text": "Return Maximum Scalar Single-Precision Floating-Point Value"
+    },
+    {
+        "name": "MFENCE",
+        "url": "https://www.felixcloutier.com/x86/MFENCE.html",
+        "text": "Memory Fence"
+    },
+    {
+        "name": "MINPD",
+        "url": "https://www.felixcloutier.com/x86/MINPD.html",
+        "text": "Minimum of Packed Double-Precision Floating-Point Values"
+    },
+    {
+        "name": "MINPS",
+        "url": "https://www.felixcloutier.com/x86/MINPS.html",
+        "text": "Minimum of Packed Single-Precision Floating-Point Values"
+    },
+    {
+        "name": "MINSD",
+        "url": "https://www.felixcloutier.com/x86/MINSD.html",
+        "text": "Return Minimum Scalar Double-Precision Floating-Point Value"
+    },
+    {
+        "name": "MINSS",
+        "url": "https://www.felixcloutier.com/x86/MINSS.html",
+        "text": "Return Minimum Scalar Single-Precision Floating-Point Value"
+    },
+    {
+        "name": "MONITOR",
+        "url": "https://www.felixcloutier.com/x86/MONITOR.html",
+        "text": "Set Up Monitor Address"
+    },
+    {
+        "name": "MOV",
+        "url": "https://www.felixcloutier.com/x86/MOV.html",
+        "text": "Move"
+    },
+    {
+        "name": "MOV",
+        "url": "https://www.felixcloutier.com/x86/MOV-1.html",
+        "text": "Move to/from Control Registers"
+    },
+    {
+        "name": "MOV",
+        "url": "https://www.felixcloutier.com/x86/MOV-2.html",
+        "text": "Move to/from Debug Registers"
+    },
+    {
+        "name": "MOVAPD",
+        "url": "https://www.felixcloutier.com/x86/MOVAPD.html",
+        "text": "Move Aligned Packed Double-Precision Floating-Point Values"
+    },
+    {
+        "name": "MOVAPS",
+        "url": "https://www.felixcloutier.com/x86/MOVAPS.html",
+        "text": "Move Aligned Packed Single-Precision Floating-Point Values"
+    },
+    {
+        "name": "MOVBE",
+        "url": "https://www.felixcloutier.com/x86/MOVBE.html",
+        "text": "Move Data After Swapping Bytes"
+    },
+    {
+        "name": "MOVD",
+        "url": "https://www.felixcloutier.com/x86/MOVD:MOVQ.html",
+        "text": "Move Doubleword/Move Quadword"
+    },
+    {
+        "name": "MOVDDUP",
+        "url": "https://www.felixcloutier.com/x86/MOVDDUP.html",
+        "text": "Replicate Double FP Values"
+    },
+    {
+        "name": "MOVDIR64B",
+        "url": "https://www.felixcloutier.com/x86/MOVDIR64B.html",
+        "text": "Move 64 Bytes as Direct Store"
+    },
+    {
+        "name": "MOVDIRI",
+        "url": "https://www.felixcloutier.com/x86/MOVDIRI.html",
+        "text": "Move Doubleword as Direct Store"
+    },
+    {
+        "name": "MOVDQ2Q",
+        "url": "https://www.felixcloutier.com/x86/MOVDQ2Q.html",
+        "text": "Move Quadword from XMM to MMX Technology Register"
+    },
+    {
+        "name": "MOVDQA",
+        "url": "https://www.felixcloutier.com/x86/MOVDQA:VMOVDQA32:VMOVDQA64.html",
+        "text": "Move Aligned Packed Integer Values"
+    },
+    {
+        "name": "MOVDQU",
+        "url": "https://www.felixcloutier.com/x86/MOVDQU:VMOVDQU8:VMOVDQU16:VMOVDQU32:VMOVDQU64.html",
+        "text": "Move Unaligned Packed Integer Values"
+    },
+    {
+        "name": "MOVHLPS",
+        "url": "https://www.felixcloutier.com/x86/MOVHLPS.html",
+        "text": "Move Packed Single-Precision Floating-Point Values High to Low"
+    },
+    {
+        "name": "MOVHPD",
+        "url": "https://www.felixcloutier.com/x86/MOVHPD.html",
+        "text": "Move High Packed Double-Precision Floating-Point Value"
+    },
+    {
+        "name": "MOVHPS",
+        "url": "https://www.felixcloutier.com/x86/MOVHPS.html",
+        "text": "Move High Packed Single-Precision Floating-Point Values"
+    },
+    {
+        "name": "MOVLHPS",
+        "url": "https://www.felixcloutier.com/x86/MOVLHPS.html",
+        "text": "Move Packed Single-Precision Floating-Point Values Low to High"
+    },
+    {
+        "name": "MOVLPD",
+        "url": "https://www.felixcloutier.com/x86/MOVLPD.html",
+        "text": "Move Low Packed Double-Precision Floating-Point Value"
+    },
+    {
+        "name": "MOVLPS",
+        "url": "https://www.felixcloutier.com/x86/MOVLPS.html",
+        "text": "Move Low Packed Single-Precision Floating-Point Values"
+    },
+    {
+        "name": "MOVMSKPD",
+        "url": "https://www.felixcloutier.com/x86/MOVMSKPD.html",
+        "text": "Extract Packed Double-Precision Floating-Point Sign Mask"
+    },
+    {
+        "name": "MOVMSKPS",
+        "url": "https://www.felixcloutier.com/x86/MOVMSKPS.html",
+        "text": "Extract Packed Single-Precision Floating-Point Sign Mask"
+    },
+    {
+        "name": "MOVNTDQ",
+        "url": "https://www.felixcloutier.com/x86/MOVNTDQ.html",
+        "text": "Store Packed Integers Using Non-Temporal Hint"
+    },
+    {
+        "name": "MOVNTDQA",
+        "url": "https://www.felixcloutier.com/x86/MOVNTDQA.html",
+        "text": "Load Double Quadword Non-Temporal Aligned Hint"
+    },
+    {
+        "name": "MOVNTI",
+        "url": "https://www.felixcloutier.com/x86/MOVNTI.html",
+        "text": "Store Doubleword Using Non-Temporal Hint"
+    },
+    {
+        "name": "MOVNTPD",
+        "url": "https://www.felixcloutier.com/x86/MOVNTPD.html",
+        "text": "Store Packed Double-Precision Floating-Point Values Using Non-Temporal Hint"
+    },
+    {
+        "name": "MOVNTPS",
+        "url": "https://www.felixcloutier.com/x86/MOVNTPS.html",
+        "text": "Store Packed Single-Precision Floating-Point Values Using Non-Temporal Hint"
+    },
+    {
+        "name": "MOVNTQ",
+        "url": "https://www.felixcloutier.com/x86/MOVNTQ.html",
+        "text": "Store of Quadword Using Non-Temporal Hint"
+    },
+    {
+        "name": "MOVQ",
+        "url": "https://www.felixcloutier.com/x86/MOVD:MOVQ.html",
+        "text": "Move Doubleword/Move Quadword"
+    },
+    {
+        "name": "MOVQ",
+        "url": "https://www.felixcloutier.com/x86/MOVQ.html",
+        "text": "Move Quadword"
+    },
+    {
+        "name": "MOVQ2DQ",
+        "url": "https://www.felixcloutier.com/x86/MOVQ2DQ.html",
+        "text": "Move Quadword from MMX Technology to XMM Register"
+    },
+    {
+        "name": "MOVS",
+        "url": "https://www.felixcloutier.com/x86/MOVS:MOVSB:MOVSW:MOVSD:MOVSQ.html",
+        "text": "Move Data from String to String"
+    },
+    {
+        "name": "MOVSB",
+        "url": "https://www.felixcloutier.com/x86/MOVS:MOVSB:MOVSW:MOVSD:MOVSQ.html",
+        "text": "Move Data from String to String"
+    },
+    {
+        "name": "MOVSD",
+        "url": "https://www.felixcloutier.com/x86/MOVS:MOVSB:MOVSW:MOVSD:MOVSQ.html",
+        "text": "Move Data from String to String"
+    },
+    {
+        "name": "MOVSD",
+        "url": "https://www.felixcloutier.com/x86/MOVSD.html",
+        "text": "Move or Merge Scalar Double-Precision Floating-Point Value"
+    },
+    {
+        "name": "MOVSHDUP",
+        "url": "https://www.felixcloutier.com/x86/MOVSHDUP.html",
+        "text": "Replicate Single FP Values"
+    },
+    {
+        "name": "MOVSLDUP",
+        "url": "https://www.felixcloutier.com/x86/MOVSLDUP.html",
+        "text": "Replicate Single FP Values"
+    },
+    {
+        "name": "MOVSQ",
+        "url": "https://www.felixcloutier.com/x86/MOVS:MOVSB:MOVSW:MOVSD:MOVSQ.html",
+        "text": "Move Data from String to String"
+    },
+    {
+        "name": "MOVSS",
+        "url": "https://www.felixcloutier.com/x86/MOVSS.html",
+        "text": "Move or Merge Scalar Single-Precision Floating-Point Value"
+    },
+    {
+        "name": "MOVSW",
+        "url": "https://www.felixcloutier.com/x86/MOVS:MOVSB:MOVSW:MOVSD:MOVSQ.html",
+        "text": "Move Data from String to String"
+    },
+    {
+        "name": "MOVSX",
+        "url": "https://www.felixcloutier.com/x86/MOVSX:MOVSXD.html",
+        "text": "Move with Sign-Extension"
+    },
+    {
+        "name": "MOVSXD",
+        "url": "https://www.felixcloutier.com/x86/MOVSX:MOVSXD.html",
+        "text": "Move with Sign-Extension"
+    },
+    {
+        "name": "MOVUPD",
+        "url": "https://www.felixcloutier.com/x86/MOVUPD.html",
+        "text": "Move Unaligned Packed Double-Precision Floating-Point Values"
+    },
+    {
+        "name": "MOVUPS",
+        "url": "https://www.felixcloutier.com/x86/MOVUPS.html",
+        "text": "Move Unaligned Packed Single-Precision Floating-Point Values"
+    },
+    {
+        "name": "MOVZX",
+        "url": "https://www.felixcloutier.com/x86/MOVZX.html",
+        "text": "Move with Zero-Extend"
+    },
+    {
+        "name": "MPSADBW",
+        "url": "https://www.felixcloutier.com/x86/MPSADBW.html",
+        "text": "Compute Multiple Packed Sums of Absolute Difference"
+    },
+    {
+        "name": "MUL",
+        "url": "https://www.felixcloutier.com/x86/MUL.html",
+        "text": "Unsigned Multiply"
+    },
+    {
+        "name": "MULPD",
+        "url": "https://www.felixcloutier.com/x86/MULPD.html",
+        "text": "Multiply Packed Double-Precision Floating-Point Values"
+    },
+    {
+        "name": "MULPS",
+        "url": "https://www.felixcloutier.com/x86/MULPS.html",
+        "text": "Multiply Packed Single-Precision Floating-Point Values"
+    },
+    {
+        "name": "MULSD",
+        "url": "https://www.felixcloutier.com/x86/MULSD.html",
+        "text": "Multiply Scalar Double-Precision Floating-Point Value"
+    },
+    {
+        "name": "MULSS",
+        "url": "https://www.felixcloutier.com/x86/MULSS.html",
+        "text": "Multiply Scalar Single-Precision Floating-Point Values"
+    },
+    {
+        "name": "MULX",
+        "url": "https://www.felixcloutier.com/x86/MULX.html",
+        "text": "Unsigned Multiply Without Affecting Flags"
+    },
+    {
+        "name": "MWAIT",
+        "url": "https://www.felixcloutier.com/x86/MWAIT.html",
+        "text": "Monitor Wait"
+    },
+    {
+        "name": "NEG",
+        "url": "https://www.felixcloutier.com/x86/NEG.html",
+        "text": "Two's Complement Negation"
+    },
+    {
+        "name": "NOP",
+        "url": "https://www.felixcloutier.com/x86/NOP.html",
+        "text": "No Operation"
+    },
+    {
+        "name": "NOT",
+        "url": "https://www.felixcloutier.com/x86/NOT.html",
+        "text": "One's Complement Negation"
+    },
+    {
+        "name": "OR",
+        "url": "https://www.felixcloutier.com/x86/OR.html",
+        "text": "Logical Inclusive OR"
+    },
+    {
+        "name": "ORPD",
+        "url": "https://www.felixcloutier.com/x86/ORPD.html",
+        "text": "Bitwise Logical OR of Packed Double Precision Floating-Point Values"
+    },
+    {
+        "name": "ORPS",
+        "url": "https://www.felixcloutier.com/x86/ORPS.html",
+        "text": "Bitwise Logical OR of Packed Single Precision Floating-Point Values"
+    },
+    {
+        "name": "OUT",
+        "url": "https://www.felixcloutier.com/x86/OUT.html",
+        "text": "Output to Port"
+    },
+    {
+        "name": "OUTS",
+        "url": "https://www.felixcloutier.com/x86/OUTS:OUTSB:OUTSW:OUTSD.html",
+        "text": "Output String to Port"
+    },
+    {
+        "name": "OUTSB",
+        "url": "https://www.felixcloutier.com/x86/OUTS:OUTSB:OUTSW:OUTSD.html",
+        "text": "Output String to Port"
+    },
+    {
+        "name": "OUTSD",
+        "url": "https://www.felixcloutier.com/x86/OUTS:OUTSB:OUTSW:OUTSD.html",
+        "text": "Output String to Port"
+    },
+    {
+        "name": "OUTSW",
+        "url": "https://www.felixcloutier.com/x86/OUTS:OUTSB:OUTSW:OUTSD.html",
+        "text": "Output String to Port"
+    },
+    {
+        "name": "PABSB",
+        "url": "https://www.felixcloutier.com/x86/PABSB:PABSW:PABSD:PABSQ.html",
+        "text": "Packed Absolute Value"
+    },
+    {
+        "name": "PABSD",
+        "url": "https://www.felixcloutier.com/x86/PABSB:PABSW:PABSD:PABSQ.html",
+        "text": "Packed Absolute Value"
+    },
+    {
+        "name": "PABSQ",
+        "url": "https://www.felixcloutier.com/x86/PABSB:PABSW:PABSD:PABSQ.html",
+        "text": "Packed Absolute Value"
+    },
+    {
+        "name": "PABSW",
+        "url": "https://www.felixcloutier.com/x86/PABSB:PABSW:PABSD:PABSQ.html",
+        "text": "Packed Absolute Value"
+    },
+    {
+        "name": "PACKSSDW",
+        "url": "https://www.felixcloutier.com/x86/PACKSSWB:PACKSSDW.html",
+        "text": "Pack with Signed Saturation"
+    },
+    {
+        "name": "PACKSSWB",
+        "url": "https://www.felixcloutier.com/x86/PACKSSWB:PACKSSDW.html",
+        "text": "Pack with Signed Saturation"
+    },
+    {
+        "name": "PACKUSDW",
+        "url": "https://www.felixcloutier.com/x86/PACKUSDW.html",
+        "text": "Pack with Unsigned Saturation"
+    },
+    {
+        "name": "PACKUSWB",
+        "url": "https://www.felixcloutier.com/x86/PACKUSWB.html",
+        "text": "Pack with Unsigned Saturation"
+    },
+    {
+        "name": "PADDB",
+        "url": "https://www.felixcloutier.com/x86/PADDB:PADDW:PADDD:PADDQ.html",
+        "text": "Add Packed Integers"
+    },
+    {
+        "name": "PADDD",
+        "url": "https://www.felixcloutier.com/x86/PADDB:PADDW:PADDD:PADDQ.html",
+        "text": "Add Packed Integers"
+    },
+    {
+        "name": "PADDQ",
+        "url": "https://www.felixcloutier.com/x86/PADDB:PADDW:PADDD:PADDQ.html",
+        "text": "Add Packed Integers"
+    },
+    {
+        "name": "PADDSB",
+        "url": "https://www.felixcloutier.com/x86/PADDSB:PADDSW.html",
+        "text": "Add Packed Signed Integers with Signed Saturation"
+    },
+    {
+        "name": "PADDSW",
+        "url": "https://www.felixcloutier.com/x86/PADDSB:PADDSW.html",
+        "text": "Add Packed Signed Integers with Signed Saturation"
+    },
+    {
+        "name": "PADDUSB",
+        "url": "https://www.felixcloutier.com/x86/PADDUSB:PADDUSW.html",
+        "text": "Add Packed Unsigned Integers with Unsigned Saturation"
+    },
+    {
+        "name": "PADDUSW",
+        "url": "https://www.felixcloutier.com/x86/PADDUSB:PADDUSW.html",
+        "text": "Add Packed Unsigned Integers with Unsigned Saturation"
+    },
+    {
+        "name": "PADDW",
+        "url": "https://www.felixcloutier.com/x86/PADDB:PADDW:PADDD:PADDQ.html",
+        "text": "Add Packed Integers"
+    },
+    {
+        "name": "PALIGNR",
+        "url": "https://www.felixcloutier.com/x86/PALIGNR.html",
+        "text": "Packed Align Right"
+    },
+    {
+        "name": "PAND",
+        "url": "https://www.felixcloutier.com/x86/PAND.html",
+        "text": "Logical AND"
+    },
+    {
+        "name": "PANDN",
+        "url": "https://www.felixcloutier.com/x86/PANDN.html",
+        "text": "Logical AND NOT"
+    },
+    {
+        "name": "PAUSE",
+        "url": "https://www.felixcloutier.com/x86/PAUSE.html",
+        "text": "Spin Loop Hint"
+    },
+    {
+        "name": "PAVGB",
+        "url": "https://www.felixcloutier.com/x86/PAVGB:PAVGW.html",
+        "text": "Average Packed Integers"
+    },
+    {
+        "name": "PAVGW",
+        "url": "https://www.felixcloutier.com/x86/PAVGB:PAVGW.html",
+        "text": "Average Packed Integers"
+    },
+    {
+        "name": "PBLENDVB",
+        "url": "https://www.felixcloutier.com/x86/PBLENDVB.html",
+        "text": "Variable Blend Packed Bytes"
+    },
+    {
+        "name": "PBLENDW",
+        "url": "https://www.felixcloutier.com/x86/PBLENDW.html",
+        "text": "Blend Packed Words"
+    },
+    {
+        "name": "PCLMULQDQ",
+        "url": "https://www.felixcloutier.com/x86/PCLMULQDQ.html",
+        "text": "Carry-Less Multiplication Quadword"
+    },
+    {
+        "name": "PCMPEQB",
+        "url": "https://www.felixcloutier.com/x86/PCMPEQB:PCMPEQW:PCMPEQD.html",
+        "text": "Compare Packed Data for Equal"
+    },
+    {
+        "name": "PCMPEQD",
+        "url": "https://www.felixcloutier.com/x86/PCMPEQB:PCMPEQW:PCMPEQD.html",
+        "text": "Compare Packed Data for Equal"
+    },
+    {
+        "name": "PCMPEQQ",
+        "url": "https://www.felixcloutier.com/x86/PCMPEQQ.html",
+        "text": "Compare Packed Qword Data for Equal"
+    },
+    {
+        "name": "PCMPEQW",
+        "url": "https://www.felixcloutier.com/x86/PCMPEQB:PCMPEQW:PCMPEQD.html",
+        "text": "Compare Packed Data for Equal"
+    },
+    {
+        "name": "PCMPESTRI",
+        "url": "https://www.felixcloutier.com/x86/PCMPESTRI.html",
+        "text": "Packed Compare Explicit Length Strings, Return Index"
+    },
+    {
+        "name": "PCMPESTRM",
+        "url": "https://www.felixcloutier.com/x86/PCMPESTRM.html",
+        "text": "Packed Compare Explicit Length Strings, Return Mask"
+    },
+    {
+        "name": "PCMPGTB",
+        "url": "https://www.felixcloutier.com/x86/PCMPGTB:PCMPGTW:PCMPGTD.html",
+        "text": "Compare Packed Signed Integers for Greater Than"
+    },
+    {
+        "name": "PCMPGTD",
+        "url": "https://www.felixcloutier.com/x86/PCMPGTB:PCMPGTW:PCMPGTD.html",
+        "text": "Compare Packed Signed Integers for Greater Than"
+    },
+    {
+        "name": "PCMPGTQ",
+        "url": "https://www.felixcloutier.com/x86/PCMPGTQ.html",
+        "text": "Compare Packed Data for Greater Than"
+    },
+    {
+        "name": "PCMPGTW",
+        "url": "https://www.felixcloutier.com/x86/PCMPGTB:PCMPGTW:PCMPGTD.html",
+        "text": "Compare Packed Signed Integers for Greater Than"
+    },
+    {
+        "name": "PCMPISTRI",
+        "url": "https://www.felixcloutier.com/x86/PCMPISTRI.html",
+        "text": "Packed Compare Implicit Length Strings, Return Index"
+    },
+    {
+        "name": "PCMPISTRM",
+        "url": "https://www.felixcloutier.com/x86/PCMPISTRM.html",
+        "text": "Packed Compare Implicit Length Strings, Return Mask"
+    },
+    {
+        "name": "PDEP",
+        "url": "https://www.felixcloutier.com/x86/PDEP.html",
+        "text": "Parallel Bits Deposit"
+    },
+    {
+        "name": "PEXT",
+        "url": "https://www.felixcloutier.com/x86/PEXT.html",
+        "text": "Parallel Bits Extract"
+    },
+    {
+        "name": "PEXTRB",
+        "url": "https://www.felixcloutier.com/x86/PEXTRB:PEXTRD:PEXTRQ.html",
+        "text": "Extract Byte/Dword/Qword"
+    },
+    {
+        "name": "PEXTRD",
+        "url": "https://www.felixcloutier.com/x86/PEXTRB:PEXTRD:PEXTRQ.html",
+        "text": "Extract Byte/Dword/Qword"
+    },
+    {
+        "name": "PEXTRQ",
+        "url": "https://www.felixcloutier.com/x86/PEXTRB:PEXTRD:PEXTRQ.html",
+        "text": "Extract Byte/Dword/Qword"
+    },
+    {
+        "name": "PEXTRW",
+        "url": "https://www.felixcloutier.com/x86/PEXTRW.html",
+        "text": "Extract Word"
+    },
+    {
+        "name": "PHADDD",
+        "url": "https://www.felixcloutier.com/x86/PHADDW:PHADDD.html",
+        "text": "Packed Horizontal Add"
+    },
+    {
+        "name": "PHADDSW",
+        "url": "https://www.felixcloutier.com/x86/PHADDSW.html",
+        "text": "Packed Horizontal Add and Saturate"
+    },
+    {
+        "name": "PHADDW",
+        "url": "https://www.felixcloutier.com/x86/PHADDW:PHADDD.html",
+        "text": "Packed Horizontal Add"
+    },
+    {
+        "name": "PHMINPOSUW",
+        "url": "https://www.felixcloutier.com/x86/PHMINPOSUW.html",
+        "text": "Packed Horizontal Word Minimum"
+    },
+    {
+        "name": "PHSUBD",
+        "url": "https://www.felixcloutier.com/x86/PHSUBW:PHSUBD.html",
+        "text": "Packed Horizontal Subtract"
+    },
+    {
+        "name": "PHSUBSW",
+        "url": "https://www.felixcloutier.com/x86/PHSUBSW.html",
+        "text": "Packed Horizontal Subtract and Saturate"
+    },
+    {
+        "name": "PHSUBW",
+        "url": "https://www.felixcloutier.com/x86/PHSUBW:PHSUBD.html",
+        "text": "Packed Horizontal Subtract"
+    },
+    {
+        "name": "PINSRB",
+        "url": "https://www.felixcloutier.com/x86/PINSRB:PINSRD:PINSRQ.html",
+        "text": "Insert Byte/Dword/Qword"
+    },
+    {
+        "name": "PINSRD",
+        "url": "https://www.felixcloutier.com/x86/PINSRB:PINSRD:PINSRQ.html",
+        "text": "Insert Byte/Dword/Qword"
+    },
+    {
+        "name": "PINSRQ",
+        "url": "https://www.felixcloutier.com/x86/PINSRB:PINSRD:PINSRQ.html",
+        "text": "Insert Byte/Dword/Qword"
+    },
+    {
+        "name": "PINSRW",
+        "url": "https://www.felixcloutier.com/x86/PINSRW.html",
+        "text": "Insert Word"
+    },
+    {
+        "name": "PMADDUBSW",
+        "url": "https://www.felixcloutier.com/x86/PMADDUBSW.html",
+        "text": "Multiply and Add Packed Signed and Unsigned Bytes"
+    },
+    {
+        "name": "PMADDWD",
+        "url": "https://www.felixcloutier.com/x86/PMADDWD.html",
+        "text": "Multiply and Add Packed Integers"
+    },
+    {
+        "name": "PMAXSB",
+        "url": "https://www.felixcloutier.com/x86/PMAXSB:PMAXSW:PMAXSD:PMAXSQ.html",
+        "text": "Maximum of Packed Signed Integers"
+    },
+    {
+        "name": "PMAXSD",
+        "url": "https://www.felixcloutier.com/x86/PMAXSB:PMAXSW:PMAXSD:PMAXSQ.html",
+        "text": "Maximum of Packed Signed Integers"
+    },
+    {
+        "name": "PMAXSQ",
+        "url": "https://www.felixcloutier.com/x86/PMAXSB:PMAXSW:PMAXSD:PMAXSQ.html",
+        "text": "Maximum of Packed Signed Integers"
+    },
+    {
+        "name": "PMAXSW",
+        "url": "https://www.felixcloutier.com/x86/PMAXSB:PMAXSW:PMAXSD:PMAXSQ.html",
+        "text": "Maximum of Packed Signed Integers"
+    },
+    {
+        "name": "PMAXUB",
+        "url": "https://www.felixcloutier.com/x86/PMAXUB:PMAXUW.html",
+        "text": "Maximum of Packed Unsigned Integers"
+    },
+    {
+        "name": "PMAXUD",
+        "url": "https://www.felixcloutier.com/x86/PMAXUD:PMAXUQ.html",
+        "text": "Maximum of Packed Unsigned Integers"
+    },
+    {
+        "name": "PMAXUQ",
+        "url": "https://www.felixcloutier.com/x86/PMAXUD:PMAXUQ.html",
+        "text": "Maximum of Packed Unsigned Integers"
+    },
+    {
+        "name": "PMAXUW",
+        "url": "https://www.felixcloutier.com/x86/PMAXUB:PMAXUW.html",
+        "text": "Maximum of Packed Unsigned Integers"
+    },
+    {
+        "name": "PMINSB",
+        "url": "https://www.felixcloutier.com/x86/PMINSB:PMINSW.html",
+        "text": "Minimum of Packed Signed Integers"
+    },
+    {
+        "name": "PMINSD",
+        "url": "https://www.felixcloutier.com/x86/PMINSD:PMINSQ.html",
+        "text": "Minimum of Packed Signed Integers"
+    },
+    {
+        "name": "PMINSQ",
+        "url": "https://www.felixcloutier.com/x86/PMINSD:PMINSQ.html",
+        "text": "Minimum of Packed Signed Integers"
+    },
+    {
+        "name": "PMINSW",
+        "url": "https://www.felixcloutier.com/x86/PMINSB:PMINSW.html",
+        "text": "Minimum of Packed Signed Integers"
+    },
+    {
+        "name": "PMINUB",
+        "url": "https://www.felixcloutier.com/x86/PMINUB:PMINUW.html",
+        "text": "Minimum of Packed Unsigned Integers"
+    },
+    {
+        "name": "PMINUD",
+        "url": "https://www.felixcloutier.com/x86/PMINUD:PMINUQ.html",
+        "text": "Minimum of Packed Unsigned Integers"
+    },
+    {
+        "name": "PMINUQ",
+        "url": "https://www.felixcloutier.com/x86/PMINUD:PMINUQ.html",
+        "text": "Minimum of Packed Unsigned Integers"
+    },
+    {
+        "name": "PMINUW",
+        "url": "https://www.felixcloutier.com/x86/PMINUB:PMINUW.html",
+        "text": "Minimum of Packed Unsigned Integers"
+    },
+    {
+        "name": "PMOVMSKB",
+        "url": "https://www.felixcloutier.com/x86/PMOVMSKB.html",
+        "text": "Move Byte Mask"
+    },
+    {
+        "name": "PMOVSX",
+        "url": "https://www.felixcloutier.com/x86/PMOVSX.html",
+        "text": "Packed Move with Sign Extend"
+    },
+    {
+        "name": "PMOVZX",
+        "url": "https://www.felixcloutier.com/x86/PMOVZX.html",
+        "text": "Packed Move with Zero Extend"
+    },
+    {
+        "name": "PMULDQ",
+        "url": "https://www.felixcloutier.com/x86/PMULDQ.html",
+        "text": "Multiply Packed Doubleword Integers"
+    },
+    {
+        "name": "PMULHRSW",
+        "url": "https://www.felixcloutier.com/x86/PMULHRSW.html",
+        "text": "Packed Multiply High with Round and Scale"
+    },
+    {
+        "name": "PMULHUW",
+        "url": "https://www.felixcloutier.com/x86/PMULHUW.html",
+        "text": "Multiply Packed Unsigned Integers and Store High Result"
+    },
+    {
+        "name": "PMULHW",
+        "url": "https://www.felixcloutier.com/x86/PMULHW.html",
+        "text": "Multiply Packed Signed Integers and Store High Result"
+    },
+    {
+        "name": "PMULLD",
+        "url": "https://www.felixcloutier.com/x86/PMULLD:PMULLQ.html",
+        "text": "Multiply Packed Integers and Store Low Result"
+    },
+    {
+        "name": "PMULLQ",
+        "url": "https://www.felixcloutier.com/x86/PMULLD:PMULLQ.html",
+        "text": "Multiply Packed Integers and Store Low Result"
+    },
+    {
+        "name": "PMULLW",
+        "url": "https://www.felixcloutier.com/x86/PMULLW.html",
+        "text": "Multiply Packed Signed Integers and Store Low Result"
+    },
+    {
+        "name": "PMULUDQ",
+        "url": "https://www.felixcloutier.com/x86/PMULUDQ.html",
+        "text": "Multiply Packed Unsigned Doubleword Integers"
+    },
+    {
+        "name": "POP",
+        "url": "https://www.felixcloutier.com/x86/POP.html",
+        "text": "Pop a Value from the Stack"
+    },
+    {
+        "name": "POPA",
+        "url": "https://www.felixcloutier.com/x86/POPA:POPAD.html",
+        "text": "Pop All General-Purpose Registers"
+    },
+    {
+        "name": "POPAD",
+        "url": "https://www.felixcloutier.com/x86/POPA:POPAD.html",
+        "text": "Pop All General-Purpose Registers"
+    },
+    {
+        "name": "POPCNT",
+        "url": "https://www.felixcloutier.com/x86/POPCNT.html",
+        "text": "Return the Count of Number of Bits Set to 1"
+    },
+    {
+        "name": "POPF",
+        "url": "https://www.felixcloutier.com/x86/POPF:POPFD:POPFQ.html",
+        "text": "Pop Stack into EFLAGS Register"
+    },
+    {
+        "name": "POPFD",
+        "url": "https://www.felixcloutier.com/x86/POPF:POPFD:POPFQ.html",
+        "text": "Pop Stack into EFLAGS Register"
+    },
+    {
+        "name": "POPFQ",
+        "url": "https://www.felixcloutier.com/x86/POPF:POPFD:POPFQ.html",
+        "text": "Pop Stack into EFLAGS Register"
+    },
+    {
+        "name": "POR",
+        "url": "https://www.felixcloutier.com/x86/POR.html",
+        "text": "Bitwise Logical OR"
+    },
+    {
+        "name": "PREFETCHW",
+        "url": "https://www.felixcloutier.com/x86/PREFETCHW.html",
+        "text": "Prefetch Data into Caches in Anticipation of a Write"
+    },
+    {
+        "name": "PREFETCHh",
+        "url": "https://www.felixcloutier.com/x86/PREFETCHh.html",
+        "text": "Prefetch Data Into Caches"
+    },
+    {
+        "name": "PSADBW",
+        "url": "https://www.felixcloutier.com/x86/PSADBW.html",
+        "text": "Compute Sum of Absolute Differences"
+    },
+    {
+        "name": "PSHUFB",
+        "url": "https://www.felixcloutier.com/x86/PSHUFB.html",
+        "text": "Packed Shuffle Bytes"
+    },
+    {
+        "name": "PSHUFD",
+        "url": "https://www.felixcloutier.com/x86/PSHUFD.html",
+        "text": "Shuffle Packed Doublewords"
+    },
+    {
+        "name": "PSHUFHW",
+        "url": "https://www.felixcloutier.com/x86/PSHUFHW.html",
+        "text": "Shuffle Packed High Words"
+    },
+    {
+        "name": "PSHUFLW",
+        "url": "https://www.felixcloutier.com/x86/PSHUFLW.html",
+        "text": "Shuffle Packed Low Words"
+    },
+    {
+        "name": "PSHUFW",
+        "url": "https://www.felixcloutier.com/x86/PSHUFW.html",
+        "text": "Shuffle Packed Words"
+    },
+    {
+        "name": "PSIGNB",
+        "url": "https://www.felixcloutier.com/x86/PSIGNB:PSIGNW:PSIGND.html",
+        "text": "Packed SIGN"
+    },
+    {
+        "name": "PSIGND",
+        "url": "https://www.felixcloutier.com/x86/PSIGNB:PSIGNW:PSIGND.html",
+        "text": "Packed SIGN"
+    },
+    {
+        "name": "PSIGNW",
+        "url": "https://www.felixcloutier.com/x86/PSIGNB:PSIGNW:PSIGND.html",
+        "text": "Packed SIGN"
+    },
+    {
+        "name": "PSLLD",
+        "url": "https://www.felixcloutier.com/x86/PSLLW:PSLLD:PSLLQ.html",
+        "text": "Shift Packed Data Left Logical"
+    },
+    {
+        "name": "PSLLDQ",
+        "url": "https://www.felixcloutier.com/x86/PSLLDQ.html",
+        "text": "Shift Double Quadword Left Logical"
+    },
+    {
+        "name": "PSLLQ",
+        "url": "https://www.felixcloutier.com/x86/PSLLW:PSLLD:PSLLQ.html",
+        "text": "Shift Packed Data Left Logical"
+    },
+    {
+        "name": "PSLLW",
+        "url": "https://www.felixcloutier.com/x86/PSLLW:PSLLD:PSLLQ.html",
+        "text": "Shift Packed Data Left Logical"
+    },
+    {
+        "name": "PSRAD",
+        "url": "https://www.felixcloutier.com/x86/PSRAW:PSRAD:PSRAQ.html",
+        "text": "Shift Packed Data Right Arithmetic"
+    },
+    {
+        "name": "PSRAQ",
+        "url": "https://www.felixcloutier.com/x86/PSRAW:PSRAD:PSRAQ.html",
+        "text": "Shift Packed Data Right Arithmetic"
+    },
+    {
+        "name": "PSRAW",
+        "url": "https://www.felixcloutier.com/x86/PSRAW:PSRAD:PSRAQ.html",
+        "text": "Shift Packed Data Right Arithmetic"
+    },
+    {
+        "name": "PSRLD",
+        "url": "https://www.felixcloutier.com/x86/PSRLW:PSRLD:PSRLQ.html",
+        "text": "Shift Packed Data Right Logical"
+    },
+    {
+        "name": "PSRLDQ",
+        "url": "https://www.felixcloutier.com/x86/PSRLDQ.html",
+        "text": "Shift Double Quadword Right Logical"
+    },
+    {
+        "name": "PSRLQ",
+        "url": "https://www.felixcloutier.com/x86/PSRLW:PSRLD:PSRLQ.html",
+        "text": "Shift Packed Data Right Logical"
+    },
+    {
+        "name": "PSRLW",
+        "url": "https://www.felixcloutier.com/x86/PSRLW:PSRLD:PSRLQ.html",
+        "text": "Shift Packed Data Right Logical"
+    },
+    {
+        "name": "PSUBB",
+        "url": "https://www.felixcloutier.com/x86/PSUBB:PSUBW:PSUBD.html",
+        "text": "Subtract Packed Integers"
+    },
+    {
+        "name": "PSUBD",
+        "url": "https://www.felixcloutier.com/x86/PSUBB:PSUBW:PSUBD.html",
+        "text": "Subtract Packed Integers"
+    },
+    {
+        "name": "PSUBQ",
+        "url": "https://www.felixcloutier.com/x86/PSUBQ.html",
+        "text": "Subtract Packed Quadword Integers"
+    },
+    {
+        "name": "PSUBSB",
+        "url": "https://www.felixcloutier.com/x86/PSUBSB:PSUBSW.html",
+        "text": "Subtract Packed Signed Integers with Signed Saturation"
+    },
+    {
+        "name": "PSUBSW",
+        "url": "https://www.felixcloutier.com/x86/PSUBSB:PSUBSW.html",
+        "text": "Subtract Packed Signed Integers with Signed Saturation"
+    },
+    {
+        "name": "PSUBUSB",
+        "url": "https://www.felixcloutier.com/x86/PSUBUSB:PSUBUSW.html",
+        "text": "Subtract Packed Unsigned Integers with Unsigned Saturation"
+    },
+    {
+        "name": "PSUBUSW",
+        "url": "https://www.felixcloutier.com/x86/PSUBUSB:PSUBUSW.html",
+        "text": "Subtract Packed Unsigned Integers with Unsigned Saturation"
+    },
+    {
+        "name": "PSUBW",
+        "url": "https://www.felixcloutier.com/x86/PSUBB:PSUBW:PSUBD.html",
+        "text": "Subtract Packed Integers"
+    },
+    {
+        "name": "PTEST",
+        "url": "https://www.felixcloutier.com/x86/PTEST.html",
+        "text": "Logical Compare"
+    },
+    {
+        "name": "PTWRITE",
+        "url": "https://www.felixcloutier.com/x86/PTWRITE.html",
+        "text": "Write Data to a Processor Trace Packet"
+    },
+    {
+        "name": "PUNPCKHBW",
+        "url": "https://www.felixcloutier.com/x86/PUNPCKHBW:PUNPCKHWD:PUNPCKHDQ:PUNPCKHQDQ.html",
+        "text": "Unpack High Data"
+    },
+    {
+        "name": "PUNPCKHDQ",
+        "url": "https://www.felixcloutier.com/x86/PUNPCKHBW:PUNPCKHWD:PUNPCKHDQ:PUNPCKHQDQ.html",
+        "text": "Unpack High Data"
+    },
+    {
+        "name": "PUNPCKHQDQ",
+        "url": "https://www.felixcloutier.com/x86/PUNPCKHBW:PUNPCKHWD:PUNPCKHDQ:PUNPCKHQDQ.html",
+        "text": "Unpack High Data"
+    },
+    {
+        "name": "PUNPCKHWD",
+        "url": "https://www.felixcloutier.com/x86/PUNPCKHBW:PUNPCKHWD:PUNPCKHDQ:PUNPCKHQDQ.html",
+        "text": "Unpack High Data"
+    },
+    {
+        "name": "PUNPCKLBW",
+        "url": "https://www.felixcloutier.com/x86/PUNPCKLBW:PUNPCKLWD:PUNPCKLDQ:PUNPCKLQDQ.html",
+        "text": "Unpack Low Data"
+    },
+    {
+        "name": "PUNPCKLDQ",
+        "url": "https://www.felixcloutier.com/x86/PUNPCKLBW:PUNPCKLWD:PUNPCKLDQ:PUNPCKLQDQ.html",
+        "text": "Unpack Low Data"
+    },
+    {
+        "name": "PUNPCKLQDQ",
+        "url": "https://www.felixcloutier.com/x86/PUNPCKLBW:PUNPCKLWD:PUNPCKLDQ:PUNPCKLQDQ.html",
+        "text": "Unpack Low Data"
+    },
+    {
+        "name": "PUNPCKLWD",
+        "url": "https://www.felixcloutier.com/x86/PUNPCKLBW:PUNPCKLWD:PUNPCKLDQ:PUNPCKLQDQ.html",
+        "text": "Unpack Low Data"
+    },
+    {
+        "name": "PUSH",
+        "url": "https://www.felixcloutier.com/x86/PUSH.html",
+        "text": "Push Word, Doubleword or Quadword Onto the Stack"
+    },
+    {
+        "name": "PUSHA",
+        "url": "https://www.felixcloutier.com/x86/PUSHA:PUSHAD.html",
+        "text": "Push All General-Purpose Registers"
+    },
+    {
+        "name": "PUSHAD",
+        "url": "https://www.felixcloutier.com/x86/PUSHA:PUSHAD.html",
+        "text": "Push All General-Purpose Registers"
+    },
+    {
+        "name": "PUSHF",
+        "url": "https://www.felixcloutier.com/x86/PUSHF:PUSHFD:PUSHFQ.html",
+        "text": "Push EFLAGS Register onto the Stack"
+    },
+    {
+        "name": "PUSHFD",
+        "url": "https://www.felixcloutier.com/x86/PUSHF:PUSHFD:PUSHFQ.html",
+        "text": "Push EFLAGS Register onto the Stack"
+    },
+    {
+        "name": "PUSHFQ",
+        "url": "https://www.felixcloutier.com/x86/PUSHF:PUSHFD:PUSHFQ.html",
+        "text": "Push EFLAGS Register onto the Stack"
+    },
+    {
+        "name": "PXOR",
+        "url": "https://www.felixcloutier.com/x86/PXOR.html",
+        "text": "Logical Exclusive OR"
+    },
+    {
+        "name": "RCL",
+        "url": "https://www.felixcloutier.com/x86/RCL:RCR:ROL:ROR.html",
+        "text": "Rotate"
+    },
+    {
+        "name": "RCPPS",
+        "url": "https://www.felixcloutier.com/x86/RCPPS.html",
+        "text": "Compute Reciprocals of Packed Single-Precision Floating-Point Values"
+    },
+    {
+        "name": "RCPSS",
+        "url": "https://www.felixcloutier.com/x86/RCPSS.html",
+        "text": "Compute Reciprocal of Scalar Single-Precision Floating-Point Values"
+    },
+    {
+        "name": "RCR",
+        "url": "https://www.felixcloutier.com/x86/RCL:RCR:ROL:ROR.html",
+        "text": "Rotate"
+    },
+    {
+        "name": "RDFSBASE",
+        "url": "https://www.felixcloutier.com/x86/RDFSBASE:RDGSBASE.html",
+        "text": "Read FS/GS Segment Base"
+    },
+    {
+        "name": "RDGSBASE",
+        "url": "https://www.felixcloutier.com/x86/RDFSBASE:RDGSBASE.html",
+        "text": "Read FS/GS Segment Base"
+    },
+    {
+        "name": "RDMSR",
+        "url": "https://www.felixcloutier.com/x86/RDMSR.html",
+        "text": "Read from Model Specific Register"
+    },
+    {
+        "name": "RDPID",
+        "url": "https://www.felixcloutier.com/x86/RDPID.html",
+        "text": "Read Processor ID"
+    },
+    {
+        "name": "RDPKRU",
+        "url": "https://www.felixcloutier.com/x86/RDPKRU.html",
+        "text": "Read Protection Key Rights for User Pages"
+    },
+    {
+        "name": "RDPMC",
+        "url": "https://www.felixcloutier.com/x86/RDPMC.html",
+        "text": "Read Performance-Monitoring Counters"
+    },
+    {
+        "name": "RDRAND",
+        "url": "https://www.felixcloutier.com/x86/RDRAND.html",
+        "text": "Read Random Number"
+    },
+    {
+        "name": "RDSEED",
+        "url": "https://www.felixcloutier.com/x86/RDSEED.html",
+        "text": "Read Random SEED"
+    },
+    {
+        "name": "RDTSC",
+        "url": "https://www.felixcloutier.com/x86/RDTSC.html",
+        "text": "Read Time-Stamp Counter"
+    },
+    {
+        "name": "RDTSCP",
+        "url": "https://www.felixcloutier.com/x86/RDTSCP.html",
+        "text": "Read Time-Stamp Counter and Processor ID"
+    },
+    {
+        "name": "REP",
+        "url": "https://www.felixcloutier.com/x86/REP:REPE:REPZ:REPNE:REPNZ.html",
+        "text": "Repeat String Operation Prefix"
+    },
+    {
+        "name": "REPE",
+        "url": "https://www.felixcloutier.com/x86/REP:REPE:REPZ:REPNE:REPNZ.html",
+        "text": "Repeat String Operation Prefix"
+    },
+    {
+        "name": "REPNE",
+        "url": "https://www.felixcloutier.com/x86/REP:REPE:REPZ:REPNE:REPNZ.html",
+        "text": "Repeat String Operation Prefix"
+    },
+    {
+        "name": "REPNZ",
+        "url": "https://www.felixcloutier.com/x86/REP:REPE:REPZ:REPNE:REPNZ.html",
+        "text": "Repeat String Operation Prefix"
+    },
+    {
+        "name": "REPZ",
+        "url": "https://www.felixcloutier.com/x86/REP:REPE:REPZ:REPNE:REPNZ.html",
+        "text": "Repeat String Operation Prefix"
+    },
+    {
+        "name": "RET",
+        "url": "https://www.felixcloutier.com/x86/RET.html",
+        "text": "Return from Procedure"
+    },
+    {
+        "name": "ROL",
+        "url": "https://www.felixcloutier.com/x86/RCL:RCR:ROL:ROR.html",
+        "text": "Rotate"
+    },
+    {
+        "name": "ROR",
+        "url": "https://www.felixcloutier.com/x86/RCL:RCR:ROL:ROR.html",
+        "text": "Rotate"
+    },
+    {
+        "name": "RORX",
+        "url": "https://www.felixcloutier.com/x86/RORX.html",
+        "text": "Rotate Right Logical Without Affecting Flags"
+    },
+    {
+        "name": "ROUNDPD",
+        "url": "https://www.felixcloutier.com/x86/ROUNDPD.html",
+        "text": "Round Packed Double Precision Floating-Point Values"
+    },
+    {
+        "name": "ROUNDPS",
+        "url": "https://www.felixcloutier.com/x86/ROUNDPS.html",
+        "text": "Round Packed Single Precision Floating-Point Values"
+    },
+    {
+        "name": "ROUNDSD",
+        "url": "https://www.felixcloutier.com/x86/ROUNDSD.html",
+        "text": "Round Scalar Double Precision Floating-Point Values"
+    },
+    {
+        "name": "ROUNDSS",
+        "url": "https://www.felixcloutier.com/x86/ROUNDSS.html",
+        "text": "Round Scalar Single Precision Floating-Point Values"
+    },
+    {
+        "name": "RSM",
+        "url": "https://www.felixcloutier.com/x86/RSM.html",
+        "text": "Resume from System Management Mode"
+    },
+    {
+        "name": "RSQRTPS",
+        "url": "https://www.felixcloutier.com/x86/RSQRTPS.html",
+        "text": "Compute Reciprocals of Square Roots of Packed Single-Precision Floating-Point Values"
+    },
+    {
+        "name": "RSQRTSS",
+        "url": "https://www.felixcloutier.com/x86/RSQRTSS.html",
+        "text": "Compute Reciprocal of Square Root of Scalar Single-Precision Floating-Point Value"
+    },
+    {
+        "name": "SAHF",
+        "url": "https://www.felixcloutier.com/x86/SAHF.html",
+        "text": "Store AH into Flags"
+    },
+    {
+        "name": "SAL",
+        "url": "https://www.felixcloutier.com/x86/SAL:SAR:SHL:SHR.html",
+        "text": "Shift"
+    },
+    {
+        "name": "SAR",
+        "url": "https://www.felixcloutier.com/x86/SAL:SAR:SHL:SHR.html",
+        "text": "Shift"
+    },
+    {
+        "name": "SARX",
+        "url": "https://www.felixcloutier.com/x86/SARX:SHLX:SHRX.html",
+        "text": "Shift Without Affecting Flags"
+    },
+    {
+        "name": "SBB",
+        "url": "https://www.felixcloutier.com/x86/SBB.html",
+        "text": "Integer Subtraction with Borrow"
+    },
+    {
+        "name": "SCAS",
+        "url": "https://www.felixcloutier.com/x86/SCAS:SCASB:SCASW:SCASD.html",
+        "text": "Scan String"
+    },
+    {
+        "name": "SCASB",
+        "url": "https://www.felixcloutier.com/x86/SCAS:SCASB:SCASW:SCASD.html",
+        "text": "Scan String"
+    },
+    {
+        "name": "SCASD",
+        "url": "https://www.felixcloutier.com/x86/SCAS:SCASB:SCASW:SCASD.html",
+        "text": "Scan String"
+    },
+    {
+        "name": "SCASW",
+        "url": "https://www.felixcloutier.com/x86/SCAS:SCASB:SCASW:SCASD.html",
+        "text": "Scan String"
+    },
+    {
+        "name": "SETcc",
+        "url": "https://www.felixcloutier.com/x86/SETcc.html",
+        "text": "Set Byte on Condition"
+    },
+    {
+        "name": "SFENCE",
+        "url": "https://www.felixcloutier.com/x86/SFENCE.html",
+        "text": "Store Fence"
+    },
+    {
+        "name": "SGDT",
+        "url": "https://www.felixcloutier.com/x86/SGDT.html",
+        "text": "Store Global Descriptor Table Register"
+    },
+    {
+        "name": "SHA1MSG1",
+        "url": "https://www.felixcloutier.com/x86/SHA1MSG1.html",
+        "text": "Perform an Intermediate Calculation for the Next Four SHA1 Message Dwords"
+    },
+    {
+        "name": "SHA1MSG2",
+        "url": "https://www.felixcloutier.com/x86/SHA1MSG2.html",
+        "text": "Perform a Final Calculation for the Next Four SHA1 Message Dwords"
+    },
+    {
+        "name": "SHA1NEXTE",
+        "url": "https://www.felixcloutier.com/x86/SHA1NEXTE.html",
+        "text": "Calculate SHA1 State Variable E after Four Rounds"
+    },
+    {
+        "name": "SHA1RNDS4",
+        "url": "https://www.felixcloutier.com/x86/SHA1RNDS4.html",
+        "text": "Perform Four Rounds of SHA1 Operation"
+    },
+    {
+        "name": "SHA256MSG1",
+        "url": "https://www.felixcloutier.com/x86/SHA256MSG1.html",
+        "text": "Perform an Intermediate Calculation for the Next Four SHA256 Message Dwords"
+    },
+    {
+        "name": "SHA256MSG2",
+        "url": "https://www.felixcloutier.com/x86/SHA256MSG2.html",
+        "text": "Perform a Final Calculation for the Next Four SHA256 Message Dwords"
+    },
+    {
+        "name": "SHA256RNDS2",
+        "url": "https://www.felixcloutier.com/x86/SHA256RNDS2.html",
+        "text": "Perform Two Rounds of SHA256 Operation"
+    },
+    {
+        "name": "SHL",
+        "url": "https://www.felixcloutier.com/x86/SAL:SAR:SHL:SHR.html",
+        "text": "Shift"
+    },
+    {
+        "name": "SHLD",
+        "url": "https://www.felixcloutier.com/x86/SHLD.html",
+        "text": "Double Precision Shift Left"
+    },
+    {
+        "name": "SHLX",
+        "url": "https://www.felixcloutier.com/x86/SARX:SHLX:SHRX.html",
+        "text": "Shift Without Affecting Flags"
+    },
+    {
+        "name": "SHR",
+        "url": "https://www.felixcloutier.com/x86/SAL:SAR:SHL:SHR.html",
+        "text": "Shift"
+    },
+    {
+        "name": "SHRD",
+        "url": "https://www.felixcloutier.com/x86/SHRD.html",
+        "text": "Double Precision Shift Right"
+    },
+    {
+        "name": "SHRX",
+        "url": "https://www.felixcloutier.com/x86/SARX:SHLX:SHRX.html",
+        "text": "Shift Without Affecting Flags"
+    },
+    {
+        "name": "SHUFPD",
+        "url": "https://www.felixcloutier.com/x86/SHUFPD.html",
+        "text": "Packed Interleave Shuffle of Pairs of Double-Precision Floating-Point Values"
+    },
+    {
+        "name": "SHUFPS",
+        "url": "https://www.felixcloutier.com/x86/SHUFPS.html",
+        "text": "Packed Interleave Shuffle of Quadruplets of Single-Precision Floating-Point Values"
+    },
+    {
+        "name": "SIDT",
+        "url": "https://www.felixcloutier.com/x86/SIDT.html",
+        "text": "Store Interrupt Descriptor Table Register"
+    },
+    {
+        "name": "SLDT",
+        "url": "https://www.felixcloutier.com/x86/SLDT.html",
+        "text": "Store Local Descriptor Table Register"
+    },
+    {
+        "name": "SMSW",
+        "url": "https://www.felixcloutier.com/x86/SMSW.html",
+        "text": "Store Machine Status Word"
+    },
+    {
+        "name": "SQRTPD",
+        "url": "https://www.felixcloutier.com/x86/SQRTPD.html",
+        "text": "Square Root of Double-Precision Floating-Point Values"
+    },
+    {
+        "name": "SQRTPS",
+        "url": "https://www.felixcloutier.com/x86/SQRTPS.html",
+        "text": "Square Root of Single-Precision Floating-Point Values"
+    },
+    {
+        "name": "SQRTSD",
+        "url": "https://www.felixcloutier.com/x86/SQRTSD.html",
+        "text": "Compute Square Root of Scalar Double-Precision Floating-Point Value"
+    },
+    {
+        "name": "SQRTSS",
+        "url": "https://www.felixcloutier.com/x86/SQRTSS.html",
+        "text": "Compute Square Root of Scalar Single-Precision Value"
+    },
+    {
+        "name": "STAC",
+        "url": "https://www.felixcloutier.com/x86/STAC.html",
+        "text": "Set AC Flag in EFLAGS Register"
+    },
+    {
+        "name": "STC",
+        "url": "https://www.felixcloutier.com/x86/STC.html",
+        "text": "Set Carry Flag"
+    },
+    {
+        "name": "STD",
+        "url": "https://www.felixcloutier.com/x86/STD.html",
+        "text": "Set Direction Flag"
+    },
+    {
+        "name": "STI",
+        "url": "https://www.felixcloutier.com/x86/STI.html",
+        "text": "Set Interrupt Flag"
+    },
+    {
+        "name": "STMXCSR",
+        "url": "https://www.felixcloutier.com/x86/STMXCSR.html",
+        "text": "Store MXCSR Register State"
+    },
+    {
+        "name": "STOS",
+        "url": "https://www.felixcloutier.com/x86/STOS:STOSB:STOSW:STOSD:STOSQ.html",
+        "text": "Store String"
+    },
+    {
+        "name": "STOSB",
+        "url": "https://www.felixcloutier.com/x86/STOS:STOSB:STOSW:STOSD:STOSQ.html",
+        "text": "Store String"
+    },
+    {
+        "name": "STOSD",
+        "url": "https://www.felixcloutier.com/x86/STOS:STOSB:STOSW:STOSD:STOSQ.html",
+        "text": "Store String"
+    },
+    {
+        "name": "STOSQ",
+        "url": "https://www.felixcloutier.com/x86/STOS:STOSB:STOSW:STOSD:STOSQ.html",
+        "text": "Store String"
+    },
+    {
+        "name": "STOSW",
+        "url": "https://www.felixcloutier.com/x86/STOS:STOSB:STOSW:STOSD:STOSQ.html",
+        "text": "Store String"
+    },
+    {
+        "name": "STR",
+        "url": "https://www.felixcloutier.com/x86/STR.html",
+        "text": "Store Task Register"
+    },
+    {
+        "name": "SUB",
+        "url": "https://www.felixcloutier.com/x86/SUB.html",
+        "text": "Subtract"
+    },
+    {
+        "name": "SUBPD",
+        "url": "https://www.felixcloutier.com/x86/SUBPD.html",
+        "text": "Subtract Packed Double-Precision Floating-Point Values"
+    },
+    {
+        "name": "SUBPS",
+        "url": "https://www.felixcloutier.com/x86/SUBPS.html",
+        "text": "Subtract Packed Single-Precision Floating-Point Values"
+    },
+    {
+        "name": "SUBSD",
+        "url": "https://www.felixcloutier.com/x86/SUBSD.html",
+        "text": "Subtract Scalar Double-Precision Floating-Point Value"
+    },
+    {
+        "name": "SUBSS",
+        "url": "https://www.felixcloutier.com/x86/SUBSS.html",
+        "text": "Subtract Scalar Single-Precision Floating-Point Value"
+    },
+    {
+        "name": "SWAPGS",
+        "url": "https://www.felixcloutier.com/x86/SWAPGS.html",
+        "text": "Swap GS Base Register"
+    },
+    {
+        "name": "SYSCALL",
+        "url": "https://www.felixcloutier.com/x86/SYSCALL.html",
+        "text": "Fast System Call"
+    },
+    {
+        "name": "SYSENTER",
+        "url": "https://www.felixcloutier.com/x86/SYSENTER.html",
+        "text": "Fast System Call"
+    },
+    {
+        "name": "SYSEXIT",
+        "url": "https://www.felixcloutier.com/x86/SYSEXIT.html",
+        "text": "Fast Return from Fast System Call"
+    },
+    {
+        "name": "SYSRET",
+        "url": "https://www.felixcloutier.com/x86/SYSRET.html",
+        "text": "Return From Fast System Call"
+    },
+    {
+        "name": "TEST",
+        "url": "https://www.felixcloutier.com/x86/TEST.html",
+        "text": "Logical Compare"
+    },
+    {
+        "name": "TPAUSE",
+        "url": "https://www.felixcloutier.com/x86/TPAUSE.html",
+        "text": "Timed PAUSE"
+    },
+    {
+        "name": "TZCNT",
+        "url": "https://www.felixcloutier.com/x86/TZCNT.html",
+        "text": "Count the Number of Trailing Zero Bits"
+    },
+    {
+        "name": "UCOMISD",
+        "url": "https://www.felixcloutier.com/x86/UCOMISD.html",
+        "text": "Unordered Compare Scalar Double-Precision Floating-Point Values and Set EFLAGS"
+    },
+    {
+        "name": "UCOMISS",
+        "url": "https://www.felixcloutier.com/x86/UCOMISS.html",
+        "text": "Unordered Compare Scalar Single-Precision Floating-Point Values and Set EFLAGS"
+    },
+    {
+        "name": "UD",
+        "url": "https://www.felixcloutier.com/x86/UD.html",
+        "text": "Undefined Instruction"
+    },
+    {
+        "name": "UMONITOR",
+        "url": "https://www.felixcloutier.com/x86/UMONITOR.html",
+        "text": "User Level Set Up Monitor Address"
+    },
+    {
+        "name": "UMWAIT",
+        "url": "https://www.felixcloutier.com/x86/UMWAIT.html",
+        "text": "User Level Monitor Wait"
+    },
+    {
+        "name": "UNPCKHPD",
+        "url": "https://www.felixcloutier.com/x86/UNPCKHPD.html",
+        "text": "Unpack and Interleave High Packed Double-Precision Floating-Point Values"
+    },
+    {
+        "name": "UNPCKHPS",
+        "url": "https://www.felixcloutier.com/x86/UNPCKHPS.html",
+        "text": "Unpack and Interleave High Packed Single-Precision Floating-Point Values"
+    },
+    {
+        "name": "UNPCKLPD",
+        "url": "https://www.felixcloutier.com/x86/UNPCKLPD.html",
+        "text": "Unpack and Interleave Low Packed Double-Precision Floating-Point Values"
+    },
+    {
+        "name": "UNPCKLPS",
+        "url": "https://www.felixcloutier.com/x86/UNPCKLPS.html",
+        "text": "Unpack and Interleave Low Packed Single-Precision Floating-Point Values"
+    },
+    {
+        "name": "VALIGND",
+        "url": "https://www.felixcloutier.com/x86/VALIGND:VALIGNQ.html",
+        "text": "Align Doubleword/Quadword Vectors"
+    },
+    {
+        "name": "VALIGNQ",
+        "url": "https://www.felixcloutier.com/x86/VALIGND:VALIGNQ.html",
+        "text": "Align Doubleword/Quadword Vectors"
+    },
+    {
+        "name": "VBLENDMPD",
+        "url": "https://www.felixcloutier.com/x86/VBLENDMPD:VBLENDMPS.html",
+        "text": "Blend Float64/Float32 Vectors Using an OpMask Control"
+    },
+    {
+        "name": "VBLENDMPS",
+        "url": "https://www.felixcloutier.com/x86/VBLENDMPD:VBLENDMPS.html",
+        "text": "Blend Float64/Float32 Vectors Using an OpMask Control"
+    },
+    {
+        "name": "VBROADCAST",
+        "url": "https://www.felixcloutier.com/x86/VBROADCAST.html",
+        "text": "Load with Broadcast Floating-Point Data"
+    },
+    {
+        "name": "VCOMPRESSPD",
+        "url": "https://www.felixcloutier.com/x86/VCOMPRESSPD.html",
+        "text": "Store Sparse Packed Double-Precision Floating-Point Values into Dense Memory"
+    },
+    {
+        "name": "VCOMPRESSPS",
+        "url": "https://www.felixcloutier.com/x86/VCOMPRESSPS.html",
+        "text": "Store Sparse Packed Single-Precision Floating-Point Values into Dense Memory"
+    },
+    {
+        "name": "VCVTPD2QQ",
+        "url": "https://www.felixcloutier.com/x86/VCVTPD2QQ.html",
+        "text": "Convert Packed Double-Precision Floating-Point Values to Packed Quadword Integers"
+    },
+    {
+        "name": "VCVTPD2UDQ",
+        "url": "https://www.felixcloutier.com/x86/VCVTPD2UDQ.html",
+        "text": "Convert Packed Double-Precision Floating-Point Values to Packed Unsigned Doubleword Integers"
+    },
+    {
+        "name": "VCVTPD2UQQ",
+        "url": "https://www.felixcloutier.com/x86/VCVTPD2UQQ.html",
+        "text": "Convert Packed Double-Precision Floating-Point Values to Packed Unsigned Quadword Integers"
+    },
+    {
+        "name": "VCVTPH2PS",
+        "url": "https://www.felixcloutier.com/x86/VCVTPH2PS.html",
+        "text": "Convert 16-bit FP values to Single-Precision FP values"
+    },
+    {
+        "name": "VCVTPS2PH",
+        "url": "https://www.felixcloutier.com/x86/VCVTPS2PH.html",
+        "text": "Convert Single-Precision FP value to 16-bit FP value"
+    },
+    {
+        "name": "VCVTPS2QQ",
+        "url": "https://www.felixcloutier.com/x86/VCVTPS2QQ.html",
+        "text": "Convert Packed Single Precision Floating-Point Values to Packed Singed Quadword Integer Values"
+    },
+    {
+        "name": "VCVTPS2UDQ",
+        "url": "https://www.felixcloutier.com/x86/VCVTPS2UDQ.html",
+        "text": "Convert Packed Single-Precision Floating-Point Values to Packed Unsigned Doubleword Integer Values"
+    },
+    {
+        "name": "VCVTPS2UQQ",
+        "url": "https://www.felixcloutier.com/x86/VCVTPS2UQQ.html",
+        "text": "Convert Packed Single Precision Floating-Point Values to Packed Unsigned Quadword Integer Values"
+    },
+    {
+        "name": "VCVTQQ2PD",
+        "url": "https://www.felixcloutier.com/x86/VCVTQQ2PD.html",
+        "text": "Convert Packed Quadword Integers to Packed Double-Precision Floating-Point Values"
+    },
+    {
+        "name": "VCVTQQ2PS",
+        "url": "https://www.felixcloutier.com/x86/VCVTQQ2PS.html",
+        "text": "Convert Packed Quadword Integers to Packed Single-Precision Floating-Point Values"
+    },
+    {
+        "name": "VCVTSD2USI",
+        "url": "https://www.felixcloutier.com/x86/VCVTSD2USI.html",
+        "text": "Convert Scalar Double-Precision Floating-Point Value to Unsigned Doubleword Integer"
+    },
+    {
+        "name": "VCVTSS2USI",
+        "url": "https://www.felixcloutier.com/x86/VCVTSS2USI.html",
+        "text": "Convert Scalar Single-Precision Floating-Point Value to Unsigned Doubleword Integer"
+    },
+    {
+        "name": "VCVTTPD2QQ",
+        "url": "https://www.felixcloutier.com/x86/VCVTTPD2QQ.html",
+        "text": "Convert with Truncation Packed Double-Precision Floating-Point Values to Packed Quadword Integers"
+    },
+    {
+        "name": "VCVTTPD2UDQ",
+        "url": "https://www.felixcloutier.com/x86/VCVTTPD2UDQ.html",
+        "text": "Convert with Truncation Packed Double-Precision Floating-Point Values to Packed Unsigned Doubleword Integers"
+    },
+    {
+        "name": "VCVTTPD2UQQ",
+        "url": "https://www.felixcloutier.com/x86/VCVTTPD2UQQ.html",
+        "text": "Convert with Truncation Packed Double-Precision Floating-Point Values to Packed Unsigned Quadword Integers"
+    },
+    {
+        "name": "VCVTTPS2QQ",
+        "url": "https://www.felixcloutier.com/x86/VCVTTPS2QQ.html",
+        "text": "Convert with Truncation Packed Single Precision Floating-Point Values to Packed Singed Quadword Integer Values"
+    },
+    {
+        "name": "VCVTTPS2UDQ",
+        "url": "https://www.felixcloutier.com/x86/VCVTTPS2UDQ.html",
+        "text": "Convert with Truncation Packed Single-Precision Floating-Point Values to Packed Unsigned Doubleword Integer Values"
+    },
+    {
+        "name": "VCVTTPS2UQQ",
+        "url": "https://www.felixcloutier.com/x86/VCVTTPS2UQQ.html",
+        "text": "Convert with Truncation Packed Single Precision Floating-Point Values to Packed Unsigned Quadword Integer Values"
+    },
+    {
+        "name": "VCVTTSD2USI",
+        "url": "https://www.felixcloutier.com/x86/VCVTTSD2USI.html",
+        "text": "Convert with Truncation Scalar Double-Precision Floating-Point Value to Unsigned Integer"
+    },
+    {
+        "name": "VCVTTSS2USI",
+        "url": "https://www.felixcloutier.com/x86/VCVTTSS2USI.html",
+        "text": "Convert with Truncation Scalar Single-Precision Floating-Point Value to Unsigned Integer"
+    },
+    {
+        "name": "VCVTUDQ2PD",
+        "url": "https://www.felixcloutier.com/x86/VCVTUDQ2PD.html",
+        "text": "Convert Packed Unsigned Doubleword Integers to Packed Double-Precision Floating-Point Values"
+    },
+    {
+        "name": "VCVTUDQ2PS",
+        "url": "https://www.felixcloutier.com/x86/VCVTUDQ2PS.html",
+        "text": "Convert Packed Unsigned Doubleword Integers to Packed Single-Precision Floating-Point Values"
+    },
+    {
+        "name": "VCVTUQQ2PD",
+        "url": "https://www.felixcloutier.com/x86/VCVTUQQ2PD.html",
+        "text": "Convert Packed Unsigned Quadword Integers to Packed Double-Precision Floating-Point Values"
+    },
+    {
+        "name": "VCVTUQQ2PS",
+        "url": "https://www.felixcloutier.com/x86/VCVTUQQ2PS.html",
+        "text": "Convert Packed Unsigned Quadword Integers to Packed Single-Precision Floating-Point Values"
+    },
+    {
+        "name": "VCVTUSI2SD",
+        "url": "https://www.felixcloutier.com/x86/VCVTUSI2SD.html",
+        "text": "Convert Unsigned Integer to Scalar Double-Precision Floating-Point Value"
+    },
+    {
+        "name": "VCVTUSI2SS",
+        "url": "https://www.felixcloutier.com/x86/VCVTUSI2SS.html",
+        "text": "Convert Unsigned Integer to Scalar Single-Precision Floating-Point Value"
+    },
+    {
+        "name": "VDBPSADBW",
+        "url": "https://www.felixcloutier.com/x86/VDBPSADBW.html",
+        "text": "Double Block Packed Sum-Absolute-Differences (SAD) on Unsigned Bytes"
+    },
+    {
+        "name": "VERR",
+        "url": "https://www.felixcloutier.com/x86/VERR:VERW.html",
+        "text": "Verify a Segment for Reading or Writing"
+    },
+    {
+        "name": "VERW",
+        "url": "https://www.felixcloutier.com/x86/VERR:VERW.html",
+        "text": "Verify a Segment for Reading or Writing"
+    },
+    {
+        "name": "VEXPANDPD",
+        "url": "https://www.felixcloutier.com/x86/VEXPANDPD.html",
+        "text": "Load Sparse Packed Double-Precision Floating-Point Values from Dense Memory"
+    },
+    {
+        "name": "VEXPANDPS",
+        "url": "https://www.felixcloutier.com/x86/VEXPANDPS.html",
+        "text": "Load Sparse Packed Single-Precision Floating-Point Values from Dense Memory"
+    },
+    {
+        "name": "VEXTRACTF128",
+        "url": "https://www.felixcloutier.com/x86/VEXTRACTF128:VEXTRACTF32x4:VEXTRACTF64x2:VEXTRACTF32x8:VEXTRACTF64x4.html",
+        "text": "Extra ct Packed Floating-Point Values"
+    },
+    {
+        "name": "VEXTRACTF32x4",
+        "url": "https://www.felixcloutier.com/x86/VEXTRACTF128:VEXTRACTF32x4:VEXTRACTF64x2:VEXTRACTF32x8:VEXTRACTF64x4.html",
+        "text": "Extra ct Packed Floating-Point Values"
+    },
+    {
+        "name": "VEXTRACTF32x8",
+        "url": "https://www.felixcloutier.com/x86/VEXTRACTF128:VEXTRACTF32x4:VEXTRACTF64x2:VEXTRACTF32x8:VEXTRACTF64x4.html",
+        "text": "Extra ct Packed Floating-Point Values"
+    },
+    {
+        "name": "VEXTRACTF64x2",
+        "url": "https://www.felixcloutier.com/x86/VEXTRACTF128:VEXTRACTF32x4:VEXTRACTF64x2:VEXTRACTF32x8:VEXTRACTF64x4.html",
+        "text": "Extra ct Packed Floating-Point Values"
+    },
+    {
+        "name": "VEXTRACTF64x4",
+        "url": "https://www.felixcloutier.com/x86/VEXTRACTF128:VEXTRACTF32x4:VEXTRACTF64x2:VEXTRACTF32x8:VEXTRACTF64x4.html",
+        "text": "Extra ct Packed Floating-Point Values"
+    },
+    {
+        "name": "VEXTRACTI128",
+        "url": "https://www.felixcloutier.com/x86/VEXTRACTI128:VEXTRACTI32x4:VEXTRACTI64x2:VEXTRACTI32x8:VEXTRACTI64x4.html",
+        "text": "Extract packed Integer Values"
+    },
+    {
+        "name": "VEXTRACTI32x4",
+        "url": "https://www.felixcloutier.com/x86/VEXTRACTI128:VEXTRACTI32x4:VEXTRACTI64x2:VEXTRACTI32x8:VEXTRACTI64x4.html",
+        "text": "Extract packed Integer Values"
+    },
+    {
+        "name": "VEXTRACTI32x8",
+        "url": "https://www.felixcloutier.com/x86/VEXTRACTI128:VEXTRACTI32x4:VEXTRACTI64x2:VEXTRACTI32x8:VEXTRACTI64x4.html",
+        "text": "Extract packed Integer Values"
+    },
+    {
+        "name": "VEXTRACTI64x2",
+        "url": "https://www.felixcloutier.com/x86/VEXTRACTI128:VEXTRACTI32x4:VEXTRACTI64x2:VEXTRACTI32x8:VEXTRACTI64x4.html",
+        "text": "Extract packed Integer Values"
+    },
+    {
+        "name": "VEXTRACTI64x4",
+        "url": "https://www.felixcloutier.com/x86/VEXTRACTI128:VEXTRACTI32x4:VEXTRACTI64x2:VEXTRACTI32x8:VEXTRACTI64x4.html",
+        "text": "Extract packed Integer Values"
+    },
+    {
+        "name": "VFIXUPIMMPD",
+        "url": "https://www.felixcloutier.com/x86/VFIXUPIMMPD.html",
+        "text": "Fix Up Special Packed Float64 Values"
+    },
+    {
+        "name": "VFIXUPIMMPS",
+        "url": "https://www.felixcloutier.com/x86/VFIXUPIMMPS.html",
+        "text": "Fix Up Special Packed Float32 Values"
+    },
+    {
+        "name": "VFIXUPIMMSD",
+        "url": "https://www.felixcloutier.com/x86/VFIXUPIMMSD.html",
+        "text": "Fix Up Special Scalar Float64 Value"
+    },
+    {
+        "name": "VFIXUPIMMSS",
+        "url": "https://www.felixcloutier.com/x86/VFIXUPIMMSS.html",
+        "text": "Fix Up Special Scalar Float32 Value"
+    },
+    {
+        "name": "VFMADD132PD",
+        "url": "https://www.felixcloutier.com/x86/VFMADD132PD:VFMADD213PD:VFMADD231PD.html",
+        "text": "Fused Multiply-Add of Packed Double- Precision Floating-Point Values"
+    },
+    {
+        "name": "VFMADD132PS",
+        "url": "https://www.felixcloutier.com/x86/VFMADD132PS:VFMADD213PS:VFMADD231PS.html",
+        "text": "Fused Multiply-Add of Packed Single- Precision Floating-Point Values"
+    },
+    {
+        "name": "VFMADD132SD",
+        "url": "https://www.felixcloutier.com/x86/VFMADD132SD:VFMADD213SD:VFMADD231SD.html",
+        "text": "Fused Multiply-Add of Scalar Double- Precision Floating-Point Values"
+    },
+    {
+        "name": "VFMADD132SS",
+        "url": "https://www.felixcloutier.com/x86/VFMADD132SS:VFMADD213SS:VFMADD231SS.html",
+        "text": "Fused Multiply-Add of Scalar Single-Precision Floating-Point Values"
+    },
+    {
+        "name": "VFMADD213PD",
+        "url": "https://www.felixcloutier.com/x86/VFMADD132PD:VFMADD213PD:VFMADD231PD.html",
+        "text": "Fused Multiply-Add of Packed Double- Precision Floating-Point Values"
+    },
+    {
+        "name": "VFMADD213PS",
+        "url": "https://www.felixcloutier.com/x86/VFMADD132PS:VFMADD213PS:VFMADD231PS.html",
+        "text": "Fused Multiply-Add of Packed Single- Precision Floating-Point Values"
+    },
+    {
+        "name": "VFMADD213SD",
+        "url": "https://www.felixcloutier.com/x86/VFMADD132SD:VFMADD213SD:VFMADD231SD.html",
+        "text": "Fused Multiply-Add of Scalar Double- Precision Floating-Point Values"
+    },
+    {
+        "name": "VFMADD213SS",
+        "url": "https://www.felixcloutier.com/x86/VFMADD132SS:VFMADD213SS:VFMADD231SS.html",
+        "text": "Fused Multiply-Add of Scalar Single-Precision Floating-Point Values"
+    },
+    {
+        "name": "VFMADD231PD",
+        "url": "https://www.felixcloutier.com/x86/VFMADD132PD:VFMADD213PD:VFMADD231PD.html",
+        "text": "Fused Multiply-Add of Packed Double- Precision Floating-Point Values"
+    },
+    {
+        "name": "VFMADD231PS",
+        "url": "https://www.felixcloutier.com/x86/VFMADD132PS:VFMADD213PS:VFMADD231PS.html",
+        "text": "Fused Multiply-Add of Packed Single- Precision Floating-Point Values"
+    },
+    {
+        "name": "VFMADD231SD",
+        "url": "https://www.felixcloutier.com/x86/VFMADD132SD:VFMADD213SD:VFMADD231SD.html",
+        "text": "Fused Multiply-Add of Scalar Double- Precision Floating-Point Values"
+    },
+    {
+        "name": "VFMADD231SS",
+        "url": "https://www.felixcloutier.com/x86/VFMADD132SS:VFMADD213SS:VFMADD231SS.html",
+        "text": "Fused Multiply-Add of Scalar Single-Precision Floating-Point Values"
+    },
+    {
+        "name": "VFMADDSUB132PD",
+        "url": "https://www.felixcloutier.com/x86/VFMADDSUB132PD:VFMADDSUB213PD:VFMADDSUB231PD.html",
+        "text": "Fused Multiply-Alternating Add/Subtract of Packed Double-Precision Floating-Point Values"
+    },
+    {
+        "name": "VFMADDSUB132PS",
+        "url": "https://www.felixcloutier.com/x86/VFMADDSUB132PS:VFMADDSUB213PS:VFMADDSUB231PS.html",
+        "text": "Fused Multiply-Alternating Add/Subtract of Packed Single-Precision Floating-Point Values"
+    },
+    {
+        "name": "VFMADDSUB213PD",
+        "url": "https://www.felixcloutier.com/x86/VFMADDSUB132PD:VFMADDSUB213PD:VFMADDSUB231PD.html",
+        "text": "Fused Multiply-Alternating Add/Subtract of Packed Double-Precision Floating-Point Values"
+    },
+    {
+        "name": "VFMADDSUB213PS",
+        "url": "https://www.felixcloutier.com/x86/VFMADDSUB132PS:VFMADDSUB213PS:VFMADDSUB231PS.html",
+        "text": "Fused Multiply-Alternating Add/Subtract of Packed Single-Precision Floating-Point Values"
+    },
+    {
+        "name": "VFMADDSUB231PD",
+        "url": "https://www.felixcloutier.com/x86/VFMADDSUB132PD:VFMADDSUB213PD:VFMADDSUB231PD.html",
+        "text": "Fused Multiply-Alternating Add/Subtract of Packed Double-Precision Floating-Point Values"
+    },
+    {
+        "name": "VFMADDSUB231PS",
+        "url": "https://www.felixcloutier.com/x86/VFMADDSUB132PS:VFMADDSUB213PS:VFMADDSUB231PS.html",
+        "text": "Fused Multiply-Alternating Add/Subtract of Packed Single-Precision Floating-Point Values"
+    },
+    {
+        "name": "VFMSUB132PD",
+        "url": "https://www.felixcloutier.com/x86/VFMSUB132PD:VFMSUB213PD:VFMSUB231PD.html",
+        "text": "Fused Multiply-Subtract of Packed Double- Precision Floating-Point Values"
+    },
+    {
+        "name": "VFMSUB132PS",
+        "url": "https://www.felixcloutier.com/x86/VFMSUB132PS:VFMSUB213PS:VFMSUB231PS.html",
+        "text": "Fused Multiply-Subtract of Packed Single- Precision Floating-Point Values"
+    },
+    {
+        "name": "VFMSUB132SD",
+        "url": "https://www.felixcloutier.com/x86/VFMSUB132SD:VFMSUB213SD:VFMSUB231SD.html",
+        "text": "Fused Multiply-Subtract of Scalar Double- Precision Floating-Point Values"
+    },
+    {
+        "name": "VFMSUB132SS",
+        "url": "https://www.felixcloutier.com/x86/VFMSUB132SS:VFMSUB213SS:VFMSUB231SS.html",
+        "text": "Fused Multiply-Subtract of Scalar Single- Precision Floating-Point Values"
+    },
+    {
+        "name": "VFMSUB213PD",
+        "url": "https://www.felixcloutier.com/x86/VFMSUB132PD:VFMSUB213PD:VFMSUB231PD.html",
+        "text": "Fused Multiply-Subtract of Packed Double- Precision Floating-Point Values"
+    },
+    {
+        "name": "VFMSUB213PS",
+        "url": "https://www.felixcloutier.com/x86/VFMSUB132PS:VFMSUB213PS:VFMSUB231PS.html",
+        "text": "Fused Multiply-Subtract of Packed Single- Precision Floating-Point Values"
+    },
+    {
+        "name": "VFMSUB213SD",
+        "url": "https://www.felixcloutier.com/x86/VFMSUB132SD:VFMSUB213SD:VFMSUB231SD.html",
+        "text": "Fused Multiply-Subtract of Scalar Double- Precision Floating-Point Values"
+    },
+    {
+        "name": "VFMSUB213SS",
+        "url": "https://www.felixcloutier.com/x86/VFMSUB132SS:VFMSUB213SS:VFMSUB231SS.html",
+        "text": "Fused Multiply-Subtract of Scalar Single- Precision Floating-Point Values"
+    },
+    {
+        "name": "VFMSUB231PD",
+        "url": "https://www.felixcloutier.com/x86/VFMSUB132PD:VFMSUB213PD:VFMSUB231PD.html",
+        "text": "Fused Multiply-Subtract of Packed Double- Precision Floating-Point Values"
+    },
+    {
+        "name": "VFMSUB231PS",
+        "url": "https://www.felixcloutier.com/x86/VFMSUB132PS:VFMSUB213PS:VFMSUB231PS.html",
+        "text": "Fused Multiply-Subtract of Packed Single- Precision Floating-Point Values"
+    },
+    {
+        "name": "VFMSUB231SD",
+        "url": "https://www.felixcloutier.com/x86/VFMSUB132SD:VFMSUB213SD:VFMSUB231SD.html",
+        "text": "Fused Multiply-Subtract of Scalar Double- Precision Floating-Point Values"
+    },
+    {
+        "name": "VFMSUB231SS",
+        "url": "https://www.felixcloutier.com/x86/VFMSUB132SS:VFMSUB213SS:VFMSUB231SS.html",
+        "text": "Fused Multiply-Subtract of Scalar Single- Precision Floating-Point Values"
+    },
+    {
+        "name": "VFMSUBADD132PD",
+        "url": "https://www.felixcloutier.com/x86/VFMSUBADD132PD:VFMSUBADD213PD:VFMSUBADD231PD.html",
+        "text": "Fused Multiply-Alternating Subtract/Add of Packed Double-Precision Floating-Point Values"
+    },
+    {
+        "name": "VFMSUBADD132PS",
+        "url": "https://www.felixcloutier.com/x86/VFMSUBADD132PS:VFMSUBADD213PS:VFMSUBADD231PS.html",
+        "text": "Fused Multiply-Alternating Subtract/Add of Packed Single-Precision Floating-Point Values"
+    },
+    {
+        "name": "VFMSUBADD213PD",
+        "url": "https://www.felixcloutier.com/x86/VFMSUBADD132PD:VFMSUBADD213PD:VFMSUBADD231PD.html",
+        "text": "Fused Multiply-Alternating Subtract/Add of Packed Double-Precision Floating-Point Values"
+    },
+    {
+        "name": "VFMSUBADD213PS",
+        "url": "https://www.felixcloutier.com/x86/VFMSUBADD132PS:VFMSUBADD213PS:VFMSUBADD231PS.html",
+        "text": "Fused Multiply-Alternating Subtract/Add of Packed Single-Precision Floating-Point Values"
+    },
+    {
+        "name": "VFMSUBADD231PD",
+        "url": "https://www.felixcloutier.com/x86/VFMSUBADD132PD:VFMSUBADD213PD:VFMSUBADD231PD.html",
+        "text": "Fused Multiply-Alternating Subtract/Add of Packed Double-Precision Floating-Point Values"
+    },
+    {
+        "name": "VFMSUBADD231PS",
+        "url": "https://www.felixcloutier.com/x86/VFMSUBADD132PS:VFMSUBADD213PS:VFMSUBADD231PS.html",
+        "text": "Fused Multiply-Alternating Subtract/Add of Packed Single-Precision Floating-Point Values"
+    },
+    {
+        "name": "VFNMADD132PD",
+        "url": "https://www.felixcloutier.com/x86/VFNMADD132PD:VFNMADD213PD:VFNMADD231PD.html",
+        "text": "Fused Negative Multiply-Add of Packed Double-Precision Floating-Point Values"
+    },
+    {
+        "name": "VFNMADD132PS",
+        "url": "https://www.felixcloutier.com/x86/VFNMADD132PS:VFNMADD213PS:VFNMADD231PS.html",
+        "text": "Fused Negative Multiply-Add of Packed Single-Precision Floating-Point Values"
+    },
+    {
+        "name": "VFNMADD132SD",
+        "url": "https://www.felixcloutier.com/x86/VFNMADD132SD:VFNMADD213SD:VFNMADD231SD.html",
+        "text": "Fused Negative Multiply-Add of Scalar Double-Precision Floating-Point Values"
+    },
+    {
+        "name": "VFNMADD132SS",
+        "url": "https://www.felixcloutier.com/x86/VFNMADD132SS:VFNMADD213SS:VFNMADD231SS.html",
+        "text": "Fused Negative Multiply-Add of Scalar Single-Precision Floating-Point Values"
+    },
+    {
+        "name": "VFNMADD213PD",
+        "url": "https://www.felixcloutier.com/x86/VFNMADD132PD:VFNMADD213PD:VFNMADD231PD.html",
+        "text": "Fused Negative Multiply-Add of Packed Double-Precision Floating-Point Values"
+    },
+    {
+        "name": "VFNMADD213PS",
+        "url": "https://www.felixcloutier.com/x86/VFNMADD132PS:VFNMADD213PS:VFNMADD231PS.html",
+        "text": "Fused Negative Multiply-Add of Packed Single-Precision Floating-Point Values"
+    },
+    {
+        "name": "VFNMADD213SD",
+        "url": "https://www.felixcloutier.com/x86/VFNMADD132SD:VFNMADD213SD:VFNMADD231SD.html",
+        "text": "Fused Negative Multiply-Add of Scalar Double-Precision Floating-Point Values"
+    },
+    {
+        "name": "VFNMADD213SS",
+        "url": "https://www.felixcloutier.com/x86/VFNMADD132SS:VFNMADD213SS:VFNMADD231SS.html",
+        "text": "Fused Negative Multiply-Add of Scalar Single-Precision Floating-Point Values"
+    },
+    {
+        "name": "VFNMADD231PD",
+        "url": "https://www.felixcloutier.com/x86/VFNMADD132PD:VFNMADD213PD:VFNMADD231PD.html",
+        "text": "Fused Negative Multiply-Add of Packed Double-Precision Floating-Point Values"
+    },
+    {
+        "name": "VFNMADD231PS",
+        "url": "https://www.felixcloutier.com/x86/VFNMADD132PS:VFNMADD213PS:VFNMADD231PS.html",
+        "text": "Fused Negative Multiply-Add of Packed Single-Precision Floating-Point Values"
+    },
+    {
+        "name": "VFNMADD231SD",
+        "url": "https://www.felixcloutier.com/x86/VFNMADD132SD:VFNMADD213SD:VFNMADD231SD.html",
+        "text": "Fused Negative Multiply-Add of Scalar Double-Precision Floating-Point Values"
+    },
+    {
+        "name": "VFNMADD231SS",
+        "url": "https://www.felixcloutier.com/x86/VFNMADD132SS:VFNMADD213SS:VFNMADD231SS.html",
+        "text": "Fused Negative Multiply-Add of Scalar Single-Precision Floating-Point Values"
+    },
+    {
+        "name": "VFNMSUB132PD",
+        "url": "https://www.felixcloutier.com/x86/VFNMSUB132PD:VFNMSUB213PD:VFNMSUB231PD.html",
+        "text": "Fused Negative Multiply-Subtract of Packed Double-Precision Floating-Point Values"
+    },
+    {
+        "name": "VFNMSUB132PS",
+        "url": "https://www.felixcloutier.com/x86/VFNMSUB132PS:VFNMSUB213PS:VFNMSUB231PS.html",
+        "text": "Fused Negative Multiply-Subtract of Packed Single-Precision Floating-Point Values"
+    },
+    {
+        "name": "VFNMSUB132SD",
+        "url": "https://www.felixcloutier.com/x86/VFNMSUB132SD:VFNMSUB213SD:VFNMSUB231SD.html",
+        "text": "Fused Negative Multiply-Subtract of Scalar Double-Precision Floating-Point Values"
+    },
+    {
+        "name": "VFNMSUB132SS",
+        "url": "https://www.felixcloutier.com/x86/VFNMSUB132SS:VFNMSUB213SS:VFNMSUB231SS.html",
+        "text": "Fused Negative Multiply-Subtract of Scalar Single-Precision Floating-Point Values"
+    },
+    {
+        "name": "VFNMSUB213PD",
+        "url": "https://www.felixcloutier.com/x86/VFNMSUB132PD:VFNMSUB213PD:VFNMSUB231PD.html",
+        "text": "Fused Negative Multiply-Subtract of Packed Double-Precision Floating-Point Values"
+    },
+    {
+        "name": "VFNMSUB213PS",
+        "url": "https://www.felixcloutier.com/x86/VFNMSUB132PS:VFNMSUB213PS:VFNMSUB231PS.html",
+        "text": "Fused Negative Multiply-Subtract of Packed Single-Precision Floating-Point Values"
+    },
+    {
+        "name": "VFNMSUB213SD",
+        "url": "https://www.felixcloutier.com/x86/VFNMSUB132SD:VFNMSUB213SD:VFNMSUB231SD.html",
+        "text": "Fused Negative Multiply-Subtract of Scalar Double-Precision Floating-Point Values"
+    },
+    {
+        "name": "VFNMSUB213SS",
+        "url": "https://www.felixcloutier.com/x86/VFNMSUB132SS:VFNMSUB213SS:VFNMSUB231SS.html",
+        "text": "Fused Negative Multiply-Subtract of Scalar Single-Precision Floating-Point Values"
+    },
+    {
+        "name": "VFNMSUB231PD",
+        "url": "https://www.felixcloutier.com/x86/VFNMSUB132PD:VFNMSUB213PD:VFNMSUB231PD.html",
+        "text": "Fused Negative Multiply-Subtract of Packed Double-Precision Floating-Point Values"
+    },
+    {
+        "name": "VFNMSUB231PS",
+        "url": "https://www.felixcloutier.com/x86/VFNMSUB132PS:VFNMSUB213PS:VFNMSUB231PS.html",
+        "text": "Fused Negative Multiply-Subtract of Packed Single-Precision Floating-Point Values"
+    },
+    {
+        "name": "VFNMSUB231SD",
+        "url": "https://www.felixcloutier.com/x86/VFNMSUB132SD:VFNMSUB213SD:VFNMSUB231SD.html",
+        "text": "Fused Negative Multiply-Subtract of Scalar Double-Precision Floating-Point Values"
+    },
+    {
+        "name": "VFNMSUB231SS",
+        "url": "https://www.felixcloutier.com/x86/VFNMSUB132SS:VFNMSUB213SS:VFNMSUB231SS.html",
+        "text": "Fused Negative Multiply-Subtract of Scalar Single-Precision Floating-Point Values"
+    },
+    {
+        "name": "VFPCLASSPD",
+        "url": "https://www.felixcloutier.com/x86/VFPCLASSPD.html",
+        "text": "Tests Types Of a Packed Float64 Values"
+    },
+    {
+        "name": "VFPCLASSPS",
+        "url": "https://www.felixcloutier.com/x86/VFPCLASSPS.html",
+        "text": "Tests Types Of a Packed Float32 Values"
+    },
+    {
+        "name": "VFPCLASSSD",
+        "url": "https://www.felixcloutier.com/x86/VFPCLASSSD.html",
+        "text": "Tests Types Of a Scalar Float64 Values"
+    },
+    {
+        "name": "VFPCLASSSS",
+        "url": "https://www.felixcloutier.com/x86/VFPCLASSSS.html",
+        "text": "Tests Types Of a Scalar Float32 Values"
+    },
+    {
+        "name": "VGATHERDPD",
+        "url": "https://www.felixcloutier.com/x86/VGATHERDPD:VGATHERQPD.html",
+        "text": "Gather Packed DP FP Values Using Signed Dword/Qword Indices"
+    },
+    {
+        "name": "VGATHERDPD",
+        "url": "https://www.felixcloutier.com/x86/VGATHERDPS:VGATHERDPD.html",
+        "text": "Gather Packed Single, Packed Double with Signed Dword"
+    },
+    {
+        "name": "VGATHERDPS",
+        "url": "https://www.felixcloutier.com/x86/VGATHERDPS:VGATHERQPS.html",
+        "text": "Gather Packed SP FP values Using Signed Dword/Qword Indices"
+    },
+    {
+        "name": "VGATHERDPS",
+        "url": "https://www.felixcloutier.com/x86/VGATHERDPS:VGATHERDPD.html",
+        "text": "Gather Packed Single, Packed Double with Signed Dword"
+    },
+    {
+        "name": "VGATHERQPD",
+        "url": "https://www.felixcloutier.com/x86/VGATHERDPD:VGATHERQPD.html",
+        "text": "Gather Packed DP FP Values Using Signed Dword/Qword Indices"
+    },
+    {
+        "name": "VGATHERQPD",
+        "url": "https://www.felixcloutier.com/x86/VGATHERQPS:VGATHERQPD.html",
+        "text": "Gather Packed Single, Packed Double with Signed Qword Indices"
+    },
+    {
+        "name": "VGATHERQPS",
+        "url": "https://www.felixcloutier.com/x86/VGATHERDPS:VGATHERQPS.html",
+        "text": "Gather Packed SP FP values Using Signed Dword/Qword Indices"
+    },
+    {
+        "name": "VGATHERQPS",
+        "url": "https://www.felixcloutier.com/x86/VGATHERQPS:VGATHERQPD.html",
+        "text": "Gather Packed Single, Packed Double with Signed Qword Indices"
+    },
+    {
+        "name": "VGETEXPPD",
+        "url": "https://www.felixcloutier.com/x86/VGETEXPPD.html",
+        "text": "Convert Exponents of Packed DP FP Values to DP FP Values"
+    },
+    {
+        "name": "VGETEXPPS",
+        "url": "https://www.felixcloutier.com/x86/VGETEXPPS.html",
+        "text": "Convert Exponents of Packed SP FP Values to SP FP Values"
+    },
+    {
+        "name": "VGETEXPSD",
+        "url": "https://www.felixcloutier.com/x86/VGETEXPSD.html",
+        "text": "Convert Exponents of Scalar DP FP Values to DP FP Value"
+    },
+    {
+        "name": "VGETEXPSS",
+        "url": "https://www.felixcloutier.com/x86/VGETEXPSS.html",
+        "text": "Convert Exponents of Scalar SP FP Values to SP FP Value"
+    },
+    {
+        "name": "VGETMANTPD",
+        "url": "https://www.felixcloutier.com/x86/VGETMANTPD.html",
+        "text": "Extract Float64 Vector of Normalized Mantissas from Float64 Vector"
+    },
+    {
+        "name": "VGETMANTPS",
+        "url": "https://www.felixcloutier.com/x86/VGETMANTPS.html",
+        "text": "Extract Float32 Vector of Normalized Mantissas from Float32 Vector"
+    },
+    {
+        "name": "VGETMANTSD",
+        "url": "https://www.felixcloutier.com/x86/VGETMANTSD.html",
+        "text": "Extract Float64 of Normalized Mantissas from Float64 Scalar"
+    },
+    {
+        "name": "VGETMANTSS",
+        "url": "https://www.felixcloutier.com/x86/VGETMANTSS.html",
+        "text": "Extract Float32 Vector of Normalized Mantissa from Float32 Vector"
+    },
+    {
+        "name": "VINSERTF128",
+        "url": "https://www.felixcloutier.com/x86/VINSERTF128:VINSERTF32x4:VINSERTF64x2:VINSERTF32x8:VINSERTF64x4.html",
+        "text": "Insert Packed Floating-Point Values"
+    },
+    {
+        "name": "VINSERTF32x4",
+        "url": "https://www.felixcloutier.com/x86/VINSERTF128:VINSERTF32x4:VINSERTF64x2:VINSERTF32x8:VINSERTF64x4.html",
+        "text": "Insert Packed Floating-Point Values"
+    },
+    {
+        "name": "VINSERTF32x8",
+        "url": "https://www.felixcloutier.com/x86/VINSERTF128:VINSERTF32x4:VINSERTF64x2:VINSERTF32x8:VINSERTF64x4.html",
+        "text": "Insert Packed Floating-Point Values"
+    },
+    {
+        "name": "VINSERTF64x2",
+        "url": "https://www.felixcloutier.com/x86/VINSERTF128:VINSERTF32x4:VINSERTF64x2:VINSERTF32x8:VINSERTF64x4.html",
+        "text": "Insert Packed Floating-Point Values"
+    },
+    {
+        "name": "VINSERTF64x4",
+        "url": "https://www.felixcloutier.com/x86/VINSERTF128:VINSERTF32x4:VINSERTF64x2:VINSERTF32x8:VINSERTF64x4.html",
+        "text": "Insert Packed Floating-Point Values"
+    },
+    {
+        "name": "VINSERTI128",
+        "url": "https://www.felixcloutier.com/x86/VINSERTI128:VINSERTI32x4:VINSERTI64x2:VINSERTI32x8:VINSERTI64x4.html",
+        "text": "Insert Packed Integer Values"
+    },
+    {
+        "name": "VINSERTI32x4",
+        "url": "https://www.felixcloutier.com/x86/VINSERTI128:VINSERTI32x4:VINSERTI64x2:VINSERTI32x8:VINSERTI64x4.html",
+        "text": "Insert Packed Integer Values"
+    },
+    {
+        "name": "VINSERTI32x8",
+        "url": "https://www.felixcloutier.com/x86/VINSERTI128:VINSERTI32x4:VINSERTI64x2:VINSERTI32x8:VINSERTI64x4.html",
+        "text": "Insert Packed Integer Values"
+    },
+    {
+        "name": "VINSERTI64x2",
+        "url": "https://www.felixcloutier.com/x86/VINSERTI128:VINSERTI32x4:VINSERTI64x2:VINSERTI32x8:VINSERTI64x4.html",
+        "text": "Insert Packed Integer Values"
+    },
+    {
+        "name": "VINSERTI64x4",
+        "url": "https://www.felixcloutier.com/x86/VINSERTI128:VINSERTI32x4:VINSERTI64x2:VINSERTI32x8:VINSERTI64x4.html",
+        "text": "Insert Packed Integer Values"
+    },
+    {
+        "name": "VMASKMOV",
+        "url": "https://www.felixcloutier.com/x86/VMASKMOV.html",
+        "text": "Conditional SIMD Packed Loads and Stores"
+    },
+    {
+        "name": "VMOVDQA32",
+        "url": "https://www.felixcloutier.com/x86/MOVDQA:VMOVDQA32:VMOVDQA64.html",
+        "text": "Move Aligned Packed Integer Values"
+    },
+    {
+        "name": "VMOVDQA64",
+        "url": "https://www.felixcloutier.com/x86/MOVDQA:VMOVDQA32:VMOVDQA64.html",
+        "text": "Move Aligned Packed Integer Values"
+    },
+    {
+        "name": "VMOVDQU16",
+        "url": "https://www.felixcloutier.com/x86/MOVDQU:VMOVDQU8:VMOVDQU16:VMOVDQU32:VMOVDQU64.html",
+        "text": "Move Unaligned Packed Integer Values"
+    },
+    {
+        "name": "VMOVDQU32",
+        "url": "https://www.felixcloutier.com/x86/MOVDQU:VMOVDQU8:VMOVDQU16:VMOVDQU32:VMOVDQU64.html",
+        "text": "Move Unaligned Packed Integer Values"
+    },
+    {
+        "name": "VMOVDQU64",
+        "url": "https://www.felixcloutier.com/x86/MOVDQU:VMOVDQU8:VMOVDQU16:VMOVDQU32:VMOVDQU64.html",
+        "text": "Move Unaligned Packed Integer Values"
+    },
+    {
+        "name": "VMOVDQU8",
+        "url": "https://www.felixcloutier.com/x86/MOVDQU:VMOVDQU8:VMOVDQU16:VMOVDQU32:VMOVDQU64.html",
+        "text": "Move Unaligned Packed Integer Values"
+    },
+    {
+        "name": "VPBLENDD",
+        "url": "https://www.felixcloutier.com/x86/VPBLENDD.html",
+        "text": "Blend Packed Dwords"
+    },
+    {
+        "name": "VPBLENDMB",
+        "url": "https://www.felixcloutier.com/x86/VPBLENDMB:VPBLENDMW.html",
+        "text": "Blend Byte/Word Vectors Using an Opmask Control"
+    },
+    {
+        "name": "VPBLENDMD",
+        "url": "https://www.felixcloutier.com/x86/VPBLENDMD:VPBLENDMQ.html",
+        "text": "Blend Int32/Int64 Vectors Using an OpMask Control"
+    },
+    {
+        "name": "VPBLENDMQ",
+        "url": "https://www.felixcloutier.com/x86/VPBLENDMD:VPBLENDMQ.html",
+        "text": "Blend Int32/Int64 Vectors Using an OpMask Control"
+    },
+    {
+        "name": "VPBLENDMW",
+        "url": "https://www.felixcloutier.com/x86/VPBLENDMB:VPBLENDMW.html",
+        "text": "Blend Byte/Word Vectors Using an Opmask Control"
+    },
+    {
+        "name": "VPBROADCAST",
+        "url": "https://www.felixcloutier.com/x86/VPBROADCAST.html",
+        "text": "Load Integer and Broadcast"
+    },
+    {
+        "name": "VPBROADCASTB",
+        "url": "https://www.felixcloutier.com/x86/VPBROADCASTB:VPBROADCASTW:VPBROADCASTD:VPBROADCASTQ.html",
+        "text": "Load with Broadcast Integer Data from General Purpose Register"
+    },
+    {
+        "name": "VPBROADCASTD",
+        "url": "https://www.felixcloutier.com/x86/VPBROADCASTB:VPBROADCASTW:VPBROADCASTD:VPBROADCASTQ.html",
+        "text": "Load with Broadcast Integer Data from General Purpose Register"
+    },
+    {
+        "name": "VPBROADCASTM",
+        "url": "https://www.felixcloutier.com/x86/VPBROADCASTM.html",
+        "text": "Broadcast Mask to Vector Register"
+    },
+    {
+        "name": "VPBROADCASTQ",
+        "url": "https://www.felixcloutier.com/x86/VPBROADCASTB:VPBROADCASTW:VPBROADCASTD:VPBROADCASTQ.html",
+        "text": "Load with Broadcast Integer Data from General Purpose Register"
+    },
+    {
+        "name": "VPBROADCASTW",
+        "url": "https://www.felixcloutier.com/x86/VPBROADCASTB:VPBROADCASTW:VPBROADCASTD:VPBROADCASTQ.html",
+        "text": "Load with Broadcast Integer Data from General Purpose Register"
+    },
+    {
+        "name": "VPCMPB",
+        "url": "https://www.felixcloutier.com/x86/VPCMPB:VPCMPUB.html",
+        "text": "Compare Packed Byte Values Into Mask"
+    },
+    {
+        "name": "VPCMPD",
+        "url": "https://www.felixcloutier.com/x86/VPCMPD:VPCMPUD.html",
+        "text": "Compare Packed Integer Values into Mask"
+    },
+    {
+        "name": "VPCMPQ",
+        "url": "https://www.felixcloutier.com/x86/VPCMPQ:VPCMPUQ.html",
+        "text": "Compare Packed Integer Values into Mask"
+    },
+    {
+        "name": "VPCMPUB",
+        "url": "https://www.felixcloutier.com/x86/VPCMPB:VPCMPUB.html",
+        "text": "Compare Packed Byte Values Into Mask"
+    },
+    {
+        "name": "VPCMPUD",
+        "url": "https://www.felixcloutier.com/x86/VPCMPD:VPCMPUD.html",
+        "text": "Compare Packed Integer Values into Mask"
+    },
+    {
+        "name": "VPCMPUQ",
+        "url": "https://www.felixcloutier.com/x86/VPCMPQ:VPCMPUQ.html",
+        "text": "Compare Packed Integer Values into Mask"
+    },
+    {
+        "name": "VPCMPUW",
+        "url": "https://www.felixcloutier.com/x86/VPCMPW:VPCMPUW.html",
+        "text": "Compare Packed Word Values Into Mask"
+    },
+    {
+        "name": "VPCMPW",
+        "url": "https://www.felixcloutier.com/x86/VPCMPW:VPCMPUW.html",
+        "text": "Compare Packed Word Values Into Mask"
+    },
+    {
+        "name": "VPCOMPRESSD",
+        "url": "https://www.felixcloutier.com/x86/VPCOMPRESSD.html",
+        "text": "Store Sparse Packed Doubleword Integer Values into Dense Memory/Register"
+    },
+    {
+        "name": "VPCOMPRESSQ",
+        "url": "https://www.felixcloutier.com/x86/VPCOMPRESSQ.html",
+        "text": "Store Sparse Packed Quadword Integer Values into Dense Memory/Register"
+    },
+    {
+        "name": "VPCONFLICTD",
+        "url": "https://www.felixcloutier.com/x86/VPCONFLICTD:VPCONFLICTQ.html",
+        "text": "Detect Conflicts Within a Vector of Packed Dword/Qword Values into Dense Memory/ Register"
+    },
+    {
+        "name": "VPCONFLICTQ",
+        "url": "https://www.felixcloutier.com/x86/VPCONFLICTD:VPCONFLICTQ.html",
+        "text": "Detect Conflicts Within a Vector of Packed Dword/Qword Values into Dense Memory/ Register"
+    },
+    {
+        "name": "VPERM2F128",
+        "url": "https://www.felixcloutier.com/x86/VPERM2F128.html",
+        "text": "Permute Floating-Point Values"
+    },
+    {
+        "name": "VPERM2I128",
+        "url": "https://www.felixcloutier.com/x86/VPERM2I128.html",
+        "text": "Permute Integer Values"
+    },
+    {
+        "name": "VPERMB",
+        "url": "https://www.felixcloutier.com/x86/VPERMB.html",
+        "text": "Permute Packed Bytes Elements"
+    },
+    {
+        "name": "VPERMD",
+        "url": "https://www.felixcloutier.com/x86/VPERMD:VPERMW.html",
+        "text": "Permute Packed Doublewords/Words Elements"
+    },
+    {
+        "name": "VPERMI2B",
+        "url": "https://www.felixcloutier.com/x86/VPERMI2B.html",
+        "text": "Full Permute of Bytes from Two Tables Overwriting the Index"
+    },
+    {
+        "name": "VPERMI2D",
+        "url": "https://www.felixcloutier.com/x86/VPERMI2W:VPERMI2D:VPERMI2Q:VPERMI2PS:VPERMI2PD.html",
+        "text": "Full Permute From Two Tables Overwriting the Index"
+    },
+    {
+        "name": "VPERMI2PD",
+        "url": "https://www.felixcloutier.com/x86/VPERMI2W:VPERMI2D:VPERMI2Q:VPERMI2PS:VPERMI2PD.html",
+        "text": "Full Permute From Two Tables Overwriting the Index"
+    },
+    {
+        "name": "VPERMI2PS",
+        "url": "https://www.felixcloutier.com/x86/VPERMI2W:VPERMI2D:VPERMI2Q:VPERMI2PS:VPERMI2PD.html",
+        "text": "Full Permute From Two Tables Overwriting the Index"
+    },
+    {
+        "name": "VPERMI2Q",
+        "url": "https://www.felixcloutier.com/x86/VPERMI2W:VPERMI2D:VPERMI2Q:VPERMI2PS:VPERMI2PD.html",
+        "text": "Full Permute From Two Tables Overwriting the Index"
+    },
+    {
+        "name": "VPERMI2W",
+        "url": "https://www.felixcloutier.com/x86/VPERMI2W:VPERMI2D:VPERMI2Q:VPERMI2PS:VPERMI2PD.html",
+        "text": "Full Permute From Two Tables Overwriting the Index"
+    },
+    {
+        "name": "VPERMILPD",
+        "url": "https://www.felixcloutier.com/x86/VPERMILPD.html",
+        "text": "Permute In-Lane of Pairs of Double-Precision Floating-Point Values"
+    },
+    {
+        "name": "VPERMILPS",
+        "url": "https://www.felixcloutier.com/x86/VPERMILPS.html",
+        "text": "Permute In-Lane of Quadruples of Single-Precision Floating-Point Values"
+    },
+    {
+        "name": "VPERMPD",
+        "url": "https://www.felixcloutier.com/x86/VPERMPD.html",
+        "text": "Permute Double-Precision Floating-Point Elements"
+    },
+    {
+        "name": "VPERMPS",
+        "url": "https://www.felixcloutier.com/x86/VPERMPS.html",
+        "text": "Permute Single-Precision Floating-Point Elements"
+    },
+    {
+        "name": "VPERMQ",
+        "url": "https://www.felixcloutier.com/x86/VPERMQ.html",
+        "text": "Qwords Element Permutation"
+    },
+    {
+        "name": "VPERMT2B",
+        "url": "https://www.felixcloutier.com/x86/VPERMT2B.html",
+        "text": "Full Permute of Bytes from Two Tables Overwriting a Table"
+    },
+    {
+        "name": "VPERMT2D",
+        "url": "https://www.felixcloutier.com/x86/VPERMT2W:VPERMT2D:VPERMT2Q:VPERMT2PS:VPERMT2PD.html",
+        "text": "Full Permute from Two Tables Overwriting one Table"
+    },
+    {
+        "name": "VPERMT2PD",
+        "url": "https://www.felixcloutier.com/x86/VPERMT2W:VPERMT2D:VPERMT2Q:VPERMT2PS:VPERMT2PD.html",
+        "text": "Full Permute from Two Tables Overwriting one Table"
+    },
+    {
+        "name": "VPERMT2PS",
+        "url": "https://www.felixcloutier.com/x86/VPERMT2W:VPERMT2D:VPERMT2Q:VPERMT2PS:VPERMT2PD.html",
+        "text": "Full Permute from Two Tables Overwriting one Table"
+    },
+    {
+        "name": "VPERMT2Q",
+        "url": "https://www.felixcloutier.com/x86/VPERMT2W:VPERMT2D:VPERMT2Q:VPERMT2PS:VPERMT2PD.html",
+        "text": "Full Permute from Two Tables Overwriting one Table"
+    },
+    {
+        "name": "VPERMT2W",
+        "url": "https://www.felixcloutier.com/x86/VPERMT2W:VPERMT2D:VPERMT2Q:VPERMT2PS:VPERMT2PD.html",
+        "text": "Full Permute from Two Tables Overwriting one Table"
+    },
+    {
+        "name": "VPERMW",
+        "url": "https://www.felixcloutier.com/x86/VPERMD:VPERMW.html",
+        "text": "Permute Packed Doublewords/Words Elements"
+    },
+    {
+        "name": "VPEXPANDD",
+        "url": "https://www.felixcloutier.com/x86/VPEXPANDD.html",
+        "text": "Load Sparse Packed Doubleword Integer Values from Dense Memory / Register"
+    },
+    {
+        "name": "VPEXPANDQ",
+        "url": "https://www.felixcloutier.com/x86/VPEXPANDQ.html",
+        "text": "Load Sparse Packed Quadword Integer Values from Dense Memory / Register"
+    },
+    {
+        "name": "VPGATHERDD",
+        "url": "https://www.felixcloutier.com/x86/VPGATHERDD:VPGATHERQD.html",
+        "text": "Gather Packed Dword Values Using Signed Dword/Qword Indices"
+    },
+    {
+        "name": "VPGATHERDD",
+        "url": "https://www.felixcloutier.com/x86/VPGATHERDD:VPGATHERDQ.html",
+        "text": "Gather Packed Dword, Packed Qword with Signed Dword Indices"
+    },
+    {
+        "name": "VPGATHERDQ",
+        "url": "https://www.felixcloutier.com/x86/VPGATHERDD:VPGATHERDQ.html",
+        "text": "Gather Packed Dword, Packed Qword with Signed Dword Indices"
+    },
+    {
+        "name": "VPGATHERDQ",
+        "url": "https://www.felixcloutier.com/x86/VPGATHERDQ:VPGATHERQQ.html",
+        "text": "Gather Packed Qword Values Using Signed Dword/Qword Indices"
+    },
+    {
+        "name": "VPGATHERQD",
+        "url": "https://www.felixcloutier.com/x86/VPGATHERDD:VPGATHERQD.html",
+        "text": "Gather Packed Dword Values Using Signed Dword/Qword Indices"
+    },
+    {
+        "name": "VPGATHERQD",
+        "url": "https://www.felixcloutier.com/x86/VPGATHERQD:VPGATHERQQ.html",
+        "text": "Gather Packed Dword, Packed Qword with Signed Qword Indices"
+    },
+    {
+        "name": "VPGATHERQQ",
+        "url": "https://www.felixcloutier.com/x86/VPGATHERDQ:VPGATHERQQ.html",
+        "text": "Gather Packed Qword Values Using Signed Dword/Qword Indices"
+    },
+    {
+        "name": "VPGATHERQQ",
+        "url": "https://www.felixcloutier.com/x86/VPGATHERQD:VPGATHERQQ.html",
+        "text": "Gather Packed Dword, Packed Qword with Signed Qword Indices"
+    },
+    {
+        "name": "VPLZCNTD",
+        "url": "https://www.felixcloutier.com/x86/VPLZCNTD:VPLZCNTQ.html",
+        "text": "Count the Number of Leading Zero Bits for Packed Dword, Packed Qword Values"
+    },
+    {
+        "name": "VPLZCNTQ",
+        "url": "https://www.felixcloutier.com/x86/VPLZCNTD:VPLZCNTQ.html",
+        "text": "Count the Number of Leading Zero Bits for Packed Dword, Packed Qword Values"
+    },
+    {
+        "name": "VPMADD52HUQ",
+        "url": "https://www.felixcloutier.com/x86/VPMADD52HUQ.html",
+        "text": "Packed Multiply of Unsigned 52-bit Unsigned Integers and Add High 52-bit Products to 64-bit Accumulators"
+    },
+    {
+        "name": "VPMADD52LUQ",
+        "url": "https://www.felixcloutier.com/x86/VPMADD52LUQ.html",
+        "text": "Packed Multiply of Unsigned 52-bit Integers and Add the Low 52-bit Products to Qword Accumulators"
+    },
+    {
+        "name": "VPMASKMOV",
+        "url": "https://www.felixcloutier.com/x86/VPMASKMOV.html",
+        "text": "Conditional SIMD Integer Packed Loads and Stores"
+    },
+    {
+        "name": "VPMOVB2M",
+        "url": "https://www.felixcloutier.com/x86/VPMOVB2M:VPMOVW2M:VPMOVD2M:VPMOVQ2M.html",
+        "text": "Convert a Vector Register to a Mask"
+    },
+    {
+        "name": "VPMOVD2M",
+        "url": "https://www.felixcloutier.com/x86/VPMOVB2M:VPMOVW2M:VPMOVD2M:VPMOVQ2M.html",
+        "text": "Convert a Vector Register to a Mask"
+    },
+    {
+        "name": "VPMOVDB",
+        "url": "https://www.felixcloutier.com/x86/VPMOVDB:VPMOVSDB:VPMOVUSDB.html",
+        "text": "Down Convert DWord to Byte"
+    },
+    {
+        "name": "VPMOVDW",
+        "url": "https://www.felixcloutier.com/x86/VPMOVDW:VPMOVSDW:VPMOVUSDW.html",
+        "text": "Down Convert DWord to Word"
+    },
+    {
+        "name": "VPMOVM2B",
+        "url": "https://www.felixcloutier.com/x86/VPMOVM2B:VPMOVM2W:VPMOVM2D:VPMOVM2Q.html",
+        "text": "Convert a Mask Register to a Vector Register"
+    },
+    {
+        "name": "VPMOVM2D",
+        "url": "https://www.felixcloutier.com/x86/VPMOVM2B:VPMOVM2W:VPMOVM2D:VPMOVM2Q.html",
+        "text": "Convert a Mask Register to a Vector Register"
+    },
+    {
+        "name": "VPMOVM2Q",
+        "url": "https://www.felixcloutier.com/x86/VPMOVM2B:VPMOVM2W:VPMOVM2D:VPMOVM2Q.html",
+        "text": "Convert a Mask Register to a Vector Register"
+    },
+    {
+        "name": "VPMOVM2W",
+        "url": "https://www.felixcloutier.com/x86/VPMOVM2B:VPMOVM2W:VPMOVM2D:VPMOVM2Q.html",
+        "text": "Convert a Mask Register to a Vector Register"
+    },
+    {
+        "name": "VPMOVQ2M",
+        "url": "https://www.felixcloutier.com/x86/VPMOVB2M:VPMOVW2M:VPMOVD2M:VPMOVQ2M.html",
+        "text": "Convert a Vector Register to a Mask"
+    },
+    {
+        "name": "VPMOVQB",
+        "url": "https://www.felixcloutier.com/x86/VPMOVQB:VPMOVSQB:VPMOVUSQB.html",
+        "text": "Down Convert QWord to Byte"
+    },
+    {
+        "name": "VPMOVQD",
+        "url": "https://www.felixcloutier.com/x86/VPMOVQD:VPMOVSQD:VPMOVUSQD.html",
+        "text": "Down Convert QWord to DWord"
+    },
+    {
+        "name": "VPMOVQW",
+        "url": "https://www.felixcloutier.com/x86/VPMOVQW:VPMOVSQW:VPMOVUSQW.html",
+        "text": "Down Convert QWord to Word"
+    },
+    {
+        "name": "VPMOVSDB",
+        "url": "https://www.felixcloutier.com/x86/VPMOVDB:VPMOVSDB:VPMOVUSDB.html",
+        "text": "Down Convert DWord to Byte"
+    },
+    {
+        "name": "VPMOVSDW",
+        "url": "https://www.felixcloutier.com/x86/VPMOVDW:VPMOVSDW:VPMOVUSDW.html",
+        "text": "Down Convert DWord to Word"
+    },
+    {
+        "name": "VPMOVSQB",
+        "url": "https://www.felixcloutier.com/x86/VPMOVQB:VPMOVSQB:VPMOVUSQB.html",
+        "text": "Down Convert QWord to Byte"
+    },
+    {
+        "name": "VPMOVSQD",
+        "url": "https://www.felixcloutier.com/x86/VPMOVQD:VPMOVSQD:VPMOVUSQD.html",
+        "text": "Down Convert QWord to DWord"
+    },
+    {
+        "name": "VPMOVSQW",
+        "url": "https://www.felixcloutier.com/x86/VPMOVQW:VPMOVSQW:VPMOVUSQW.html",
+        "text": "Down Convert QWord to Word"
+    },
+    {
+        "name": "VPMOVSWB",
+        "url": "https://www.felixcloutier.com/x86/VPMOVWB:VPMOVSWB:VPMOVUSWB.html",
+        "text": "Down Convert Word to Byte"
+    },
+    {
+        "name": "VPMOVUSDB",
+        "url": "https://www.felixcloutier.com/x86/VPMOVDB:VPMOVSDB:VPMOVUSDB.html",
+        "text": "Down Convert DWord to Byte"
+    },
+    {
+        "name": "VPMOVUSDW",
+        "url": "https://www.felixcloutier.com/x86/VPMOVDW:VPMOVSDW:VPMOVUSDW.html",
+        "text": "Down Convert DWord to Word"
+    },
+    {
+        "name": "VPMOVUSQB",
+        "url": "https://www.felixcloutier.com/x86/VPMOVQB:VPMOVSQB:VPMOVUSQB.html",
+        "text": "Down Convert QWord to Byte"
+    },
+    {
+        "name": "VPMOVUSQD",
+        "url": "https://www.felixcloutier.com/x86/VPMOVQD:VPMOVSQD:VPMOVUSQD.html",
+        "text": "Down Convert QWord to DWord"
+    },
+    {
+        "name": "VPMOVUSQW",
+        "url": "https://www.felixcloutier.com/x86/VPMOVQW:VPMOVSQW:VPMOVUSQW.html",
+        "text": "Down Convert QWord to Word"
+    },
+    {
+        "name": "VPMOVUSWB",
+        "url": "https://www.felixcloutier.com/x86/VPMOVWB:VPMOVSWB:VPMOVUSWB.html",
+        "text": "Down Convert Word to Byte"
+    },
+    {
+        "name": "VPMOVW2M",
+        "url": "https://www.felixcloutier.com/x86/VPMOVB2M:VPMOVW2M:VPMOVD2M:VPMOVQ2M.html",
+        "text": "Convert a Vector Register to a Mask"
+    },
+    {
+        "name": "VPMOVWB",
+        "url": "https://www.felixcloutier.com/x86/VPMOVWB:VPMOVSWB:VPMOVUSWB.html",
+        "text": "Down Convert Word to Byte"
+    },
+    {
+        "name": "VPMULTISHIFTQB",
+        "url": "https://www.felixcloutier.com/x86/VPMULTISHIFTQB.html",
+        "text": "Select Packed Unaligned Bytes from Quadword Sources"
+    },
+    {
+        "name": "VPROLD",
+        "url": "https://www.felixcloutier.com/x86/VPROLD:VPROLVD:VPROLQ:VPROLVQ.html",
+        "text": "Bit Rotate Left"
+    },
+    {
+        "name": "VPROLQ",
+        "url": "https://www.felixcloutier.com/x86/VPROLD:VPROLVD:VPROLQ:VPROLVQ.html",
+        "text": "Bit Rotate Left"
+    },
+    {
+        "name": "VPROLVD",
+        "url": "https://www.felixcloutier.com/x86/VPROLD:VPROLVD:VPROLQ:VPROLVQ.html",
+        "text": "Bit Rotate Left"
+    },
+    {
+        "name": "VPROLVQ",
+        "url": "https://www.felixcloutier.com/x86/VPROLD:VPROLVD:VPROLQ:VPROLVQ.html",
+        "text": "Bit Rotate Left"
+    },
+    {
+        "name": "VPRORD",
+        "url": "https://www.felixcloutier.com/x86/VPRORD:VPRORVD:VPRORQ:VPRORVQ.html",
+        "text": "Bit Rotate Right"
+    },
+    {
+        "name": "VPRORQ",
+        "url": "https://www.felixcloutier.com/x86/VPRORD:VPRORVD:VPRORQ:VPRORVQ.html",
+        "text": "Bit Rotate Right"
+    },
+    {
+        "name": "VPRORVD",
+        "url": "https://www.felixcloutier.com/x86/VPRORD:VPRORVD:VPRORQ:VPRORVQ.html",
+        "text": "Bit Rotate Right"
+    },
+    {
+        "name": "VPRORVQ",
+        "url": "https://www.felixcloutier.com/x86/VPRORD:VPRORVD:VPRORQ:VPRORVQ.html",
+        "text": "Bit Rotate Right"
+    },
+    {
+        "name": "VPSCATTERDD",
+        "url": "https://www.felixcloutier.com/x86/VPSCATTERDD:VPSCATTERDQ:VPSCATTERQD:VPSCATTERQQ.html",
+        "text": "Scatter Packed Dword, Packed Qword with Signed Dword, Signed Qword Indices"
+    },
+    {
+        "name": "VPSCATTERDQ",
+        "url": "https://www.felixcloutier.com/x86/VPSCATTERDD:VPSCATTERDQ:VPSCATTERQD:VPSCATTERQQ.html",
+        "text": "Scatter Packed Dword, Packed Qword with Signed Dword, Signed Qword Indices"
+    },
+    {
+        "name": "VPSCATTERQD",
+        "url": "https://www.felixcloutier.com/x86/VPSCATTERDD:VPSCATTERDQ:VPSCATTERQD:VPSCATTERQQ.html",
+        "text": "Scatter Packed Dword, Packed Qword with Signed Dword, Signed Qword Indices"
+    },
+    {
+        "name": "VPSCATTERQQ",
+        "url": "https://www.felixcloutier.com/x86/VPSCATTERDD:VPSCATTERDQ:VPSCATTERQD:VPSCATTERQQ.html",
+        "text": "Scatter Packed Dword, Packed Qword with Signed Dword, Signed Qword Indices"
+    },
+    {
+        "name": "VPSLLVD",
+        "url": "https://www.felixcloutier.com/x86/VPSLLVW:VPSLLVD:VPSLLVQ.html",
+        "text": "Variable Bit Shift Left Logical"
+    },
+    {
+        "name": "VPSLLVQ",
+        "url": "https://www.felixcloutier.com/x86/VPSLLVW:VPSLLVD:VPSLLVQ.html",
+        "text": "Variable Bit Shift Left Logical"
+    },
+    {
+        "name": "VPSLLVW",
+        "url": "https://www.felixcloutier.com/x86/VPSLLVW:VPSLLVD:VPSLLVQ.html",
+        "text": "Variable Bit Shift Left Logical"
+    },
+    {
+        "name": "VPSRAVD",
+        "url": "https://www.felixcloutier.com/x86/VPSRAVW:VPSRAVD:VPSRAVQ.html",
+        "text": "Variable Bit Shift Right Arithmetic"
+    },
+    {
+        "name": "VPSRAVQ",
+        "url": "https://www.felixcloutier.com/x86/VPSRAVW:VPSRAVD:VPSRAVQ.html",
+        "text": "Variable Bit Shift Right Arithmetic"
+    },
+    {
+        "name": "VPSRAVW",
+        "url": "https://www.felixcloutier.com/x86/VPSRAVW:VPSRAVD:VPSRAVQ.html",
+        "text": "Variable Bit Shift Right Arithmetic"
+    },
+    {
+        "name": "VPSRLVD",
+        "url": "https://www.felixcloutier.com/x86/VPSRLVW:VPSRLVD:VPSRLVQ.html",
+        "text": "Variable Bit Shift Right Logical"
+    },
+    {
+        "name": "VPSRLVQ",
+        "url": "https://www.felixcloutier.com/x86/VPSRLVW:VPSRLVD:VPSRLVQ.html",
+        "text": "Variable Bit Shift Right Logical"
+    },
+    {
+        "name": "VPSRLVW",
+        "url": "https://www.felixcloutier.com/x86/VPSRLVW:VPSRLVD:VPSRLVQ.html",
+        "text": "Variable Bit Shift Right Logical"
+    },
+    {
+        "name": "VPTERNLOGD",
+        "url": "https://www.felixcloutier.com/x86/VPTERNLOGD:VPTERNLOGQ.html",
+        "text": "Bitwise Ternary Logic"
+    },
+    {
+        "name": "VPTERNLOGQ",
+        "url": "https://www.felixcloutier.com/x86/VPTERNLOGD:VPTERNLOGQ.html",
+        "text": "Bitwise Ternary Logic"
+    },
+    {
+        "name": "VPTESTMB",
+        "url": "https://www.felixcloutier.com/x86/VPTESTMB:VPTESTMW:VPTESTMD:VPTESTMQ.html",
+        "text": "Logical AND and Set Mask"
+    },
+    {
+        "name": "VPTESTMD",
+        "url": "https://www.felixcloutier.com/x86/VPTESTMB:VPTESTMW:VPTESTMD:VPTESTMQ.html",
+        "text": "Logical AND and Set Mask"
+    },
+    {
+        "name": "VPTESTMQ",
+        "url": "https://www.felixcloutier.com/x86/VPTESTMB:VPTESTMW:VPTESTMD:VPTESTMQ.html",
+        "text": "Logical AND and Set Mask"
+    },
+    {
+        "name": "VPTESTMW",
+        "url": "https://www.felixcloutier.com/x86/VPTESTMB:VPTESTMW:VPTESTMD:VPTESTMQ.html",
+        "text": "Logical AND and Set Mask"
+    },
+    {
+        "name": "VPTESTNMB",
+        "url": "https://www.felixcloutier.com/x86/VPTESTNMB:VPTESTNMW:VPTESTNMD:VPTESTNMQ.html",
+        "text": "Logical NAND and Set"
+    },
+    {
+        "name": "VPTESTNMD",
+        "url": "https://www.felixcloutier.com/x86/VPTESTNMB:VPTESTNMW:VPTESTNMD:VPTESTNMQ.html",
+        "text": "Logical NAND and Set"
+    },
+    {
+        "name": "VPTESTNMQ",
+        "url": "https://www.felixcloutier.com/x86/VPTESTNMB:VPTESTNMW:VPTESTNMD:VPTESTNMQ.html",
+        "text": "Logical NAND and Set"
+    },
+    {
+        "name": "VPTESTNMW",
+        "url": "https://www.felixcloutier.com/x86/VPTESTNMB:VPTESTNMW:VPTESTNMD:VPTESTNMQ.html",
+        "text": "Logical NAND and Set"
+    },
+    {
+        "name": "VRANGEPD",
+        "url": "https://www.felixcloutier.com/x86/VRANGEPD.html",
+        "text": "Range Restriction Calculation For Packed Pairs of Float64 Values"
+    },
+    {
+        "name": "VRANGEPS",
+        "url": "https://www.felixcloutier.com/x86/VRANGEPS.html",
+        "text": "Range Restriction Calculation For Packed Pairs of Float32 Values"
+    },
+    {
+        "name": "VRANGESD",
+        "url": "https://www.felixcloutier.com/x86/VRANGESD.html",
+        "text": "Range Restriction Calculation From a pair of Scalar Float64 Values"
+    },
+    {
+        "name": "VRANGESS",
+        "url": "https://www.felixcloutier.com/x86/VRANGESS.html",
+        "text": "Range Restriction Calculation From a Pair of Scalar Float32 Values"
+    },
+    {
+        "name": "VRCP14PD",
+        "url": "https://www.felixcloutier.com/x86/VRCP14PD.html",
+        "text": "Compute Approximate Reciprocals of Packed Float64 Values"
+    },
+    {
+        "name": "VRCP14PS",
+        "url": "https://www.felixcloutier.com/x86/VRCP14PS.html",
+        "text": "Compute Approximate Reciprocals of Packed Float32 Values"
+    },
+    {
+        "name": "VRCP14SD",
+        "url": "https://www.felixcloutier.com/x86/VRCP14SD.html",
+        "text": "Compute Approximate Reciprocal of Scalar Float64 Value"
+    },
+    {
+        "name": "VRCP14SS",
+        "url": "https://www.felixcloutier.com/x86/VRCP14SS.html",
+        "text": "Compute Approximate Reciprocal of Scalar Float32 Value"
+    },
+    {
+        "name": "VREDUCEPD",
+        "url": "https://www.felixcloutier.com/x86/VREDUCEPD.html",
+        "text": "Perform Reduction Transformation on Packed Float64 Values"
+    },
+    {
+        "name": "VREDUCEPS",
+        "url": "https://www.felixcloutier.com/x86/VREDUCEPS.html",
+        "text": "Perform Reduction Transformation on Packed Float32 Values"
+    },
+    {
+        "name": "VREDUCESD",
+        "url": "https://www.felixcloutier.com/x86/VREDUCESD.html",
+        "text": "Perform a Reduction Transformation on a Scalar Float64 Value"
+    },
+    {
+        "name": "VREDUCESS",
+        "url": "https://www.felixcloutier.com/x86/VREDUCESS.html",
+        "text": "Perform a Reduction Transformation on a Scalar Float32 Value"
+    },
+    {
+        "name": "VRNDSCALEPD",
+        "url": "https://www.felixcloutier.com/x86/VRNDSCALEPD.html",
+        "text": "Round Packed Float64 Values To Include A Given Number Of Fraction Bits"
+    },
+    {
+        "name": "VRNDSCALEPS",
+        "url": "https://www.felixcloutier.com/x86/VRNDSCALEPS.html",
+        "text": "Round Packed Float32 Values To Include A Given Number Of Fraction Bits"
+    },
+    {
+        "name": "VRNDSCALESD",
+        "url": "https://www.felixcloutier.com/x86/VRNDSCALESD.html",
+        "text": "Round Scalar Float64 Value To Include A Given Number Of Fraction Bits"
+    },
+    {
+        "name": "VRNDSCALESS",
+        "url": "https://www.felixcloutier.com/x86/VRNDSCALESS.html",
+        "text": "Round Scalar Float32 Value To Include A Given Number Of Fraction Bits"
+    },
+    {
+        "name": "VRSQRT14PD",
+        "url": "https://www.felixcloutier.com/x86/VRSQRT14PD.html",
+        "text": "Compute Approximate Reciprocals of Square Roots of Packed Float64 Values"
+    },
+    {
+        "name": "VRSQRT14PS",
+        "url": "https://www.felixcloutier.com/x86/VRSQRT14PS.html",
+        "text": "Compute Approximate Reciprocals of Square Roots of Packed Float32 Values"
+    },
+    {
+        "name": "VRSQRT14SD",
+        "url": "https://www.felixcloutier.com/x86/VRSQRT14SD.html",
+        "text": "Compute Approximate Reciprocal of Square Root of Scalar Float64 Value"
+    },
+    {
+        "name": "VRSQRT14SS",
+        "url": "https://www.felixcloutier.com/x86/VRSQRT14SS.html",
+        "text": "Compute Approximate Reciprocal of Square Root of Scalar Float32 Value"
+    },
+    {
+        "name": "VSCALEFPD",
+        "url": "https://www.felixcloutier.com/x86/VSCALEFPD.html",
+        "text": "Scale Packed Float64 Values With Float64 Values"
+    },
+    {
+        "name": "VSCALEFPS",
+        "url": "https://www.felixcloutier.com/x86/VSCALEFPS.html",
+        "text": "Scale Packed Float32 Values With Float32 Values"
+    },
+    {
+        "name": "VSCALEFSD",
+        "url": "https://www.felixcloutier.com/x86/VSCALEFSD.html",
+        "text": "Scale Scalar Float64 Values With Float64 Values"
+    },
+    {
+        "name": "VSCALEFSS",
+        "url": "https://www.felixcloutier.com/x86/VSCALEFSS.html",
+        "text": "Scale Scalar Float32 Value With Float32 Value"
+    },
+    {
+        "name": "VSCATTERDPD",
+        "url": "https://www.felixcloutier.com/x86/VSCATTERDPS:VSCATTERDPD:VSCATTERQPS:VSCATTERQPD.html",
+        "text": "Scatter Packed Single, Packed Double with Signed Dword and Qword Indices"
+    },
+    {
+        "name": "VSCATTERDPS",
+        "url": "https://www.felixcloutier.com/x86/VSCATTERDPS:VSCATTERDPD:VSCATTERQPS:VSCATTERQPD.html",
+        "text": "Scatter Packed Single, Packed Double with Signed Dword and Qword Indices"
+    },
+    {
+        "name": "VSCATTERQPD",
+        "url": "https://www.felixcloutier.com/x86/VSCATTERDPS:VSCATTERDPD:VSCATTERQPS:VSCATTERQPD.html",
+        "text": "Scatter Packed Single, Packed Double with Signed Dword and Qword Indices"
+    },
+    {
+        "name": "VSCATTERQPS",
+        "url": "https://www.felixcloutier.com/x86/VSCATTERDPS:VSCATTERDPD:VSCATTERQPS:VSCATTERQPD.html",
+        "text": "Scatter Packed Single, Packed Double with Signed Dword and Qword Indices"
+    },
+    {
+        "name": "VSHUFF32x4",
+        "url": "https://www.felixcloutier.com/x86/VSHUFF32x4:VSHUFF64x2:VSHUFI32x4:VSHUFI64x2.html",
+        "text": "Shuffle Packed Values at 128-bit Granularity"
+    },
+    {
+        "name": "VSHUFF64x2",
+        "url": "https://www.felixcloutier.com/x86/VSHUFF32x4:VSHUFF64x2:VSHUFI32x4:VSHUFI64x2.html",
+        "text": "Shuffle Packed Values at 128-bit Granularity"
+    },
+    {
+        "name": "VSHUFI32x4",
+        "url": "https://www.felixcloutier.com/x86/VSHUFF32x4:VSHUFF64x2:VSHUFI32x4:VSHUFI64x2.html",
+        "text": "Shuffle Packed Values at 128-bit Granularity"
+    },
+    {
+        "name": "VSHUFI64x2",
+        "url": "https://www.felixcloutier.com/x86/VSHUFF32x4:VSHUFF64x2:VSHUFI32x4:VSHUFI64x2.html",
+        "text": "Shuffle Packed Values at 128-bit Granularity"
+    },
+    {
+        "name": "VTESTPD",
+        "url": "https://www.felixcloutier.com/x86/VTESTPD:VTESTPS.html",
+        "text": "Packed Bit Test"
+    },
+    {
+        "name": "VTESTPS",
+        "url": "https://www.felixcloutier.com/x86/VTESTPD:VTESTPS.html",
+        "text": "Packed Bit Test"
+    },
+    {
+        "name": "VZEROALL",
+        "url": "https://www.felixcloutier.com/x86/VZEROALL.html",
+        "text": "Zero All YMM Registers"
+    },
+    {
+        "name": "VZEROUPPER",
+        "url": "https://www.felixcloutier.com/x86/VZEROUPPER.html",
+        "text": "Zero Upper Bits of YMM Registers"
+    },
+    {
+        "name": "WAIT",
+        "url": "https://www.felixcloutier.com/x86/WAIT:FWAIT.html",
+        "text": "Wait"
+    },
+    {
+        "name": "WBINVD",
+        "url": "https://www.felixcloutier.com/x86/WBINVD.html",
+        "text": "Write Back and Invalidate Cache"
+    },
+    {
+        "name": "WRFSBASE",
+        "url": "https://www.felixcloutier.com/x86/WRFSBASE:WRGSBASE.html",
+        "text": "Write FS/GS Segment Base"
+    },
+    {
+        "name": "WRGSBASE",
+        "url": "https://www.felixcloutier.com/x86/WRFSBASE:WRGSBASE.html",
+        "text": "Write FS/GS Segment Base"
+    },
+    {
+        "name": "WRMSR",
+        "url": "https://www.felixcloutier.com/x86/WRMSR.html",
+        "text": "Write to Model Specific Register"
+    },
+    {
+        "name": "WRPKRU",
+        "url": "https://www.felixcloutier.com/x86/WRPKRU.html",
+        "text": "Write Data to User Page Key Register"
+    },
+    {
+        "name": "XABORT",
+        "url": "https://www.felixcloutier.com/x86/XABORT.html",
+        "text": "Transactional Abort"
+    },
+    {
+        "name": "XACQUIRE",
+        "url": "https://www.felixcloutier.com/x86/XACQUIRE:XRELEASE.html",
+        "text": "Hardware Lock Elision Prefix Hints"
+    },
+    {
+        "name": "XADD",
+        "url": "https://www.felixcloutier.com/x86/XADD.html",
+        "text": "Exchange and Add"
+    },
+    {
+        "name": "XBEGIN",
+        "url": "https://www.felixcloutier.com/x86/XBEGIN.html",
+        "text": "Transactional Begin"
+    },
+    {
+        "name": "XCHG",
+        "url": "https://www.felixcloutier.com/x86/XCHG.html",
+        "text": "Exchange Register/Memory with Register"
+    },
+    {
+        "name": "XEND",
+        "url": "https://www.felixcloutier.com/x86/XEND.html",
+        "text": "Transactional End"
+    },
+    {
+        "name": "XGETBV",
+        "url": "https://www.felixcloutier.com/x86/XGETBV.html",
+        "text": "Get Value of Extended Control Register"
+    },
+    {
+        "name": "XLAT",
+        "url": "https://www.felixcloutier.com/x86/XLAT:XLATB.html",
+        "text": "Table Look-up Translation"
+    },
+    {
+        "name": "XLATB",
+        "url": "https://www.felixcloutier.com/x86/XLAT:XLATB.html",
+        "text": "Table Look-up Translation"
+    },
+    {
+        "name": "XOR",
+        "url": "https://www.felixcloutier.com/x86/XOR.html",
+        "text": "Logical Exclusive OR"
+    },
+    {
+        "name": "XORPD",
+        "url": "https://www.felixcloutier.com/x86/XORPD.html",
+        "text": "Bitwise Logical XOR of Packed Double Precision Floating-Point Values"
+    },
+    {
+        "name": "XORPS",
+        "url": "https://www.felixcloutier.com/x86/XORPS.html",
+        "text": "Bitwise Logical XOR of Packed Single Precision Floating-Point Values"
+    },
+    {
+        "name": "XRELEASE",
+        "url": "https://www.felixcloutier.com/x86/XACQUIRE:XRELEASE.html",
+        "text": "Hardware Lock Elision Prefix Hints"
+    },
+    {
+        "name": "XRSTOR",
+        "url": "https://www.felixcloutier.com/x86/XRSTOR.html",
+        "text": "Restore Processor Extended States"
+    },
+    {
+        "name": "XRSTORS",
+        "url": "https://www.felixcloutier.com/x86/XRSTORS.html",
+        "text": "Restore Processor Extended States Supervisor"
+    },
+    {
+        "name": "XSAVE",
+        "url": "https://www.felixcloutier.com/x86/XSAVE.html",
+        "text": "Save Processor Extended States"
+    },
+    {
+        "name": "XSAVEC",
+        "url": "https://www.felixcloutier.com/x86/XSAVEC.html",
+        "text": "Save Processor Extended States with Compaction"
+    },
+    {
+        "name": "XSAVEOPT",
+        "url": "https://www.felixcloutier.com/x86/XSAVEOPT.html",
+        "text": "Save Processor Extended States Optimized"
+    },
+    {
+        "name": "XSAVES",
+        "url": "https://www.felixcloutier.com/x86/XSAVES.html",
+        "text": "Save Processor Extended States Supervisor"
+    },
+    {
+        "name": "XSETBV",
+        "url": "https://www.felixcloutier.com/x86/XSETBV.html",
+        "text": "Set Extended Control Register"
+    },
+    {
+        "name": "XTEST",
+        "url": "https://www.felixcloutier.com/x86/XTEST.html",
+        "text": "Test If In Transactional Execution"
+    },
+    {
+        "name": "ENCLS",
+        "url": "https://www.felixcloutier.com/x86/ENCLS.html",
+        "text": "Execute an Enclave System Function of Specified Leaf Number"
+    },
+    {
+        "name": "ENCLS[EADD]",
+        "url": "https://www.felixcloutier.com/x86/EADD.html",
+        "text": "Add a Page to an Uninitialized Enclave"
+    },
+    {
+        "name": "ENCLS[EAUG]",
+        "url": "https://www.felixcloutier.com/x86/EAUG.html",
+        "text": "Add a Page to an Initialized Enclave"
+    },
+    {
+        "name": "ENCLS[EBLOCK]",
+        "url": "https://www.felixcloutier.com/x86/EBLOCK.html",
+        "text": "Mark a page in EPC as Blocked"
+    },
+    {
+        "name": "ENCLS[ECREATE]",
+        "url": "https://www.felixcloutier.com/x86/ECREATE.html",
+        "text": "Create an SECS page in the Enclave Page Cache"
+    },
+    {
+        "name": "ENCLS[EDBGRD]",
+        "url": "https://www.felixcloutier.com/x86/EDBGRD.html",
+        "text": "Read From a Debug Enclave"
+    },
+    {
+        "name": "ENCLS[EDBGWR]",
+        "url": "https://www.felixcloutier.com/x86/EDBGWR.html",
+        "text": "Write to a Debug Enclave"
+    },
+    {
+        "name": "ENCLS[EEXTEND]",
+        "url": "https://www.felixcloutier.com/x86/EEXTEND.html",
+        "text": "Extend Uninitialized Enclave Measurement by 256 Bytes"
+    },
+    {
+        "name": "ENCLS[EINIT]",
+        "url": "https://www.felixcloutier.com/x86/EINIT.html",
+        "text": "Initialize an Enclave for Execution"
+    },
+    {
+        "name": "ENCLS[ELBUC]",
+        "url": "https://www.felixcloutier.com/x86/ELDB:ELDU:ELDBC:ELBUC.html",
+        "text": "Load an EPC Page and Mark its State"
+    },
+    {
+        "name": "ENCLS[ELDBC]",
+        "url": "https://www.felixcloutier.com/x86/ELDB:ELDU:ELDBC:ELBUC.html",
+        "text": "Load an EPC Page and Mark its State"
+    },
+    {
+        "name": "ENCLS[ELDB]",
+        "url": "https://www.felixcloutier.com/x86/ELDB:ELDU:ELDBC:ELBUC.html",
+        "text": "Load an EPC Page and Mark its State"
+    },
+    {
+        "name": "ENCLS[ELDU]",
+        "url": "https://www.felixcloutier.com/x86/ELDB:ELDU:ELDBC:ELBUC.html",
+        "text": "Load an EPC Page and Mark its State"
+    },
+    {
+        "name": "ENCLS[EMODPR]",
+        "url": "https://www.felixcloutier.com/x86/EMODPR.html",
+        "text": "Restrict the Permissions of an EPC Page"
+    },
+    {
+        "name": "ENCLS[EMODT]",
+        "url": "https://www.felixcloutier.com/x86/EMODT.html",
+        "text": "Change the Type of an EPC Page"
+    },
+    {
+        "name": "ENCLS[EPA]",
+        "url": "https://www.felixcloutier.com/x86/EPA.html",
+        "text": "Add Version Array"
+    },
+    {
+        "name": "ENCLS[ERDINFO]",
+        "url": "https://www.felixcloutier.com/x86/ERDINFO.html",
+        "text": "Read Type and Status Information About an EPC Page"
+    },
+    {
+        "name": "ENCLS[EREMOVE]",
+        "url": "https://www.felixcloutier.com/x86/EREMOVE.html",
+        "text": "Remove a page from the EPC"
+    },
+    {
+        "name": "ENCLS[ETRACKC]",
+        "url": "https://www.felixcloutier.com/x86/ETRACKC.html",
+        "text": "Activates EBLOCK Checks"
+    },
+    {
+        "name": "ENCLS[ETRACK]",
+        "url": "https://www.felixcloutier.com/x86/ETRACK.html",
+        "text": "Activates EBLOCK Checks"
+    },
+    {
+        "name": "ENCLS[EWB]",
+        "url": "https://www.felixcloutier.com/x86/EWB.html",
+        "text": "Invalidate an EPC Page and Write out to Main Memory"
+    },
+    {
+        "name": "ENCLU",
+        "url": "https://www.felixcloutier.com/x86/ENCLU.html",
+        "text": "Execute an Enclave User Function of Specified Leaf Number"
+    },
+    {
+        "name": "ENCLU[EACCEPTCOPY]",
+        "url": "https://www.felixcloutier.com/x86/EACCEPTCOPY.html",
+        "text": "Initialize a Pending Page"
+    },
+    {
+        "name": "ENCLU[EACCEPT]",
+        "url": "https://www.felixcloutier.com/x86/EACCEPT.html",
+        "text": "Accept Changes to an EPC Page"
+    },
+    {
+        "name": "ENCLU[EENTER]",
+        "url": "https://www.felixcloutier.com/x86/EENTER.html",
+        "text": "Enters an Enclave"
+    },
+    {
+        "name": "ENCLU[EEXIT]",
+        "url": "https://www.felixcloutier.com/x86/EEXIT.html",
+        "text": "Exits an Enclave"
+    },
+    {
+        "name": "ENCLU[EGETKEY]",
+        "url": "https://www.felixcloutier.com/x86/EGETKEY.html",
+        "text": "Retrieves a Cryptographic Key"
+    },
+    {
+        "name": "ENCLU[EMODPE]",
+        "url": "https://www.felixcloutier.com/x86/EMODPE.html",
+        "text": "Extend an EPC Page Permissions"
+    },
+    {
+        "name": "ENCLU[EREPORT]",
+        "url": "https://www.felixcloutier.com/x86/EREPORT.html",
+        "text": "Create a Cryptographic Report of the Enclave"
+    },
+    {
+        "name": "ENCLU[ERESUME]",
+        "url": "https://www.felixcloutier.com/x86/ERESUME.html",
+        "text": "Re-Enters an Enclave"
+    },
+    {
+        "name": "ENCLV",
+        "url": "https://www.felixcloutier.com/x86/ENCLV.html",
+        "text": "Execute an Enclave VMM Function of Specified Leaf Number"
+    },
+    {
+        "name": "ENCLV[EDECVIRTCHILD]",
+        "url": "https://www.felixcloutier.com/x86/EDECVIRTCHILD.html",
+        "text": "Decrement VIRTCHILDCNT in SECS"
+    },
+    {
+        "name": "ENCLV[EINCVIRTCHILD]",
+        "url": "https://www.felixcloutier.com/x86/EINCVIRTCHILD.html",
+        "text": "Increment VIRTCHILDCNT in SECS"
+    },
+    {
+        "name": "ENCLV[ESETCONTEXT]",
+        "url": "https://www.felixcloutier.com/x86/ESETCONTEXT.html",
+        "text": "Set the ENCLAVECONTEXT Field in SECS"
+    },
+    {
+        "name": "GETSEC[CAPABILITIES]",
+        "url": "https://www.felixcloutier.com/x86/CAPABILITIES.html",
+        "text": "Report the SMX Capabilities"
+    },
+    {
+        "name": "GETSEC[ENTERACCS]",
+        "url": "https://www.felixcloutier.com/x86/ENTERACCS.html",
+        "text": "Execute Authenticated Chipset Code"
+    },
+    {
+        "name": "GETSEC[EXITAC]",
+        "url": "https://www.felixcloutier.com/x86/EXITAC.html",
+        "text": "Exit Authenticated Code Execution Mode"
+    },
+    {
+        "name": "GETSEC[PARAMETERS]",
+        "url": "https://www.felixcloutier.com/x86/PARAMETERS.html",
+        "text": "Report the SMX Parameters"
+    },
+    {
+        "name": "GETSEC[SENTER]",
+        "url": "https://www.felixcloutier.com/x86/SENTER.html",
+        "text": "Enter a Measured Environment"
+    },
+    {
+        "name": "GETSEC[SEXIT]",
+        "url": "https://www.felixcloutier.com/x86/SEXIT.html",
+        "text": "Exit Measured Environment"
+    },
+    {
+        "name": "GETSEC[SMCTRL]",
+        "url": "https://www.felixcloutier.com/x86/SMCTRL.html",
+        "text": "SMX Mode Control"
+    },
+    {
+        "name": "GETSEC[WAKEUP]",
+        "url": "https://www.felixcloutier.com/x86/WAKEUP.html",
+        "text": "Wake up sleeping processors in measured environment"
+    },
+    {
+        "name": "INVEPT",
+        "url": "https://www.felixcloutier.com/x86/INVEPT.html",
+        "text": "Invalidate Translations Derived from EPT"
+    },
+    {
+        "name": "INVVPID",
+        "url": "https://www.felixcloutier.com/x86/INVVPID.html",
+        "text": "Invalidate Translations Based on VPID"
+    },
+    {
+        "name": "VMCALL",
+        "url": "https://www.felixcloutier.com/x86/VMCALL.html",
+        "text": "Call to VM Monitor"
+    },
+    {
+        "name": "VMCLEAR",
+        "url": "https://www.felixcloutier.com/x86/VMCLEAR.html",
+        "text": "Clear Virtual-Machine Control Structure"
+    },
+    {
+        "name": "VMFUNC",
+        "url": "https://www.felixcloutier.com/x86/VMFUNC.html",
+        "text": "Invoke VM function"
+    },
+    {
+        "name": "VMLAUNCH",
+        "url": "https://www.felixcloutier.com/x86/VMLAUNCH:VMRESUME.html",
+        "text": "Launch/Resume Virtual Machine"
+    },
+    {
+        "name": "VMPTRLD",
+        "url": "https://www.felixcloutier.com/x86/VMPTRLD.html",
+        "text": "Load Pointer to Virtual-Machine Control Structure"
+    },
+    {
+        "name": "VMPTRST",
+        "url": "https://www.felixcloutier.com/x86/VMPTRST.html",
+        "text": "Store Pointer to Virtual-Machine Control Structure"
+    },
+    {
+        "name": "VMREAD",
+        "url": "https://www.felixcloutier.com/x86/VMREAD.html",
+        "text": "Read Field from Virtual-Machine Control Structure"
+    },
+    {
+        "name": "VMRESUME",
+        "url": "https://www.felixcloutier.com/x86/VMLAUNCH:VMRESUME.html",
+        "text": "Launch/Resume Virtual Machine"
+    },
+    {
+        "name": "VMRESUME",
+        "url": "https://www.felixcloutier.com/x86/VMRESUME.html",
+        "text": "Resume Virtual Machine"
+    },
+    {
+        "name": "VMWRITE",
+        "url": "https://www.felixcloutier.com/x86/VMWRITE.html",
+        "text": "Write Field to Virtual-Machine Control Structure"
+    },
+    {
+        "name": "VMXOFF",
+        "url": "https://www.felixcloutier.com/x86/VMXOFF.html",
+        "text": "Leave VMX Operation"
+    },
+    {
+        "name": "VMXON",
+        "url": "https://www.felixcloutier.com/x86/VMXON.html",
+        "text": "Enter VMX Operation"
+    },
+    {
+        "name": "PREFETCHWT1",
+        "url": "https://www.felixcloutier.com/x86/PREFETCHWT1.html",
+        "text": "Prefetch Vector Data Into Caches with Intent to Write and T1 Hint"
+    },
+    {
+        "name": "V4FMADDPS",
+        "url": "https://www.felixcloutier.com/x86/V4FMADDPS:V4FNMADDPS.html",
+        "text": "Packed Single-Precision Floating-Point Fused Multiply-Add (4-iterations)"
+    },
+    {
+        "name": "V4FMADDSS",
+        "url": "https://www.felixcloutier.com/x86/V4FMADDSS:V4FNMADDSS.html",
+        "text": "Scalar Single-Precision Floating-Point Fused Multiply-Add (4-iterations)"
+    },
+    {
+        "name": "V4FNMADDPS",
+        "url": "https://www.felixcloutier.com/x86/V4FMADDPS:V4FNMADDPS.html",
+        "text": "Packed Single-Precision Floating-Point Fused Multiply-Add (4-iterations)"
+    },
+    {
+        "name": "V4FNMADDSS",
+        "url": "https://www.felixcloutier.com/x86/V4FMADDSS:V4FNMADDSS.html",
+        "text": "Scalar Single-Precision Floating-Point Fused Multiply-Add (4-iterations)"
+    },
+    {
+        "name": "VEXP2PD",
+        "url": "https://www.felixcloutier.com/x86/VEXP2PD.html",
+        "text": "Approximation to the Exponential 2^x of Packed Double-Precision Floating-Point Values with Less Than 2^-23 Relative Error"
+    },
+    {
+        "name": "VEXP2PS",
+        "url": "https://www.felixcloutier.com/x86/VEXP2PS.html",
+        "text": "Approximation to the Exponential 2^x of Packed Single-Precision Floating-Point Values with Less Than 2^-23 Relative Error"
+    },
+    {
+        "name": "VGATHERPF0DPD",
+        "url": "https://www.felixcloutier.com/x86/VGATHERPF0DPS:VGATHERPF0QPS:VGATHERPF0DPD:VGATHERPF0QPD.html",
+        "text": "Sparse Prefetch Packed SP/DP Data Values with Signed Dword, Signed Qword Indices Using T0 Hint"
+    },
+    {
+        "name": "VGATHERPF0DPS",
+        "url": "https://www.felixcloutier.com/x86/VGATHERPF0DPS:VGATHERPF0QPS:VGATHERPF0DPD:VGATHERPF0QPD.html",
+        "text": "Sparse Prefetch Packed SP/DP Data Values with Signed Dword, Signed Qword Indices Using T0 Hint"
+    },
+    {
+        "name": "VGATHERPF0QPD",
+        "url": "https://www.felixcloutier.com/x86/VGATHERPF0DPS:VGATHERPF0QPS:VGATHERPF0DPD:VGATHERPF0QPD.html",
+        "text": "Sparse Prefetch Packed SP/DP Data Values with Signed Dword, Signed Qword Indices Using T0 Hint"
+    },
+    {
+        "name": "VGATHERPF0QPS",
+        "url": "https://www.felixcloutier.com/x86/VGATHERPF0DPS:VGATHERPF0QPS:VGATHERPF0DPD:VGATHERPF0QPD.html",
+        "text": "Sparse Prefetch Packed SP/DP Data Values with Signed Dword, Signed Qword Indices Using T0 Hint"
+    },
+    {
+        "name": "VGATHERPF1DPD",
+        "url": "https://www.felixcloutier.com/x86/VGATHERPF1DPS:VGATHERPF1QPS:VGATHERPF1DPD:VGATHERPF1QPD.html",
+        "text": "Sparse Prefetch Packed SP/DP Data Values with Signed Dword, Signed Qword Indices Using T1 Hint"
+    },
+    {
+        "name": "VGATHERPF1DPS",
+        "url": "https://www.felixcloutier.com/x86/VGATHERPF1DPS:VGATHERPF1QPS:VGATHERPF1DPD:VGATHERPF1QPD.html",
+        "text": "Sparse Prefetch Packed SP/DP Data Values with Signed Dword, Signed Qword Indices Using T1 Hint"
+    },
+    {
+        "name": "VGATHERPF1QPD",
+        "url": "https://www.felixcloutier.com/x86/VGATHERPF1DPS:VGATHERPF1QPS:VGATHERPF1DPD:VGATHERPF1QPD.html",
+        "text": "Sparse Prefetch Packed SP/DP Data Values with Signed Dword, Signed Qword Indices Using T1 Hint"
+    },
+    {
+        "name": "VGATHERPF1QPS",
+        "url": "https://www.felixcloutier.com/x86/VGATHERPF1DPS:VGATHERPF1QPS:VGATHERPF1DPD:VGATHERPF1QPD.html",
+        "text": "Sparse Prefetch Packed SP/DP Data Values with Signed Dword, Signed Qword Indices Using T1 Hint"
+    },
+    {
+        "name": "VP4DPWSSD",
+        "url": "https://www.felixcloutier.com/x86/VP4DPWSSD.html",
+        "text": "Dot Product of Signed Words with Dword Accumulation (4-iterations)"
+    },
+    {
+        "name": "VP4DPWSSDS",
+        "url": "https://www.felixcloutier.com/x86/VP4DPWSSDS.html",
+        "text": "Dot Product of Signed Words with Dword Accumulation and Saturation (4-iterations)"
+    },
+    {
+        "name": "VRCP28PD",
+        "url": "https://www.felixcloutier.com/x86/VRCP28PD.html",
+        "text": "Approximation to the Reciprocal of Packed Double-Precision Floating-Point Values with Less Than 2^-28 Relative Error"
+    },
+    {
+        "name": "VRCP28PS",
+        "url": "https://www.felixcloutier.com/x86/VRCP28PS.html",
+        "text": "Approximation to the Reciprocal of Packed Single-Precision Floating-Point Values with Less Than 2^-28 Relative Error"
+    },
+    {
+        "name": "VRCP28SD",
+        "url": "https://www.felixcloutier.com/x86/VRCP28SD.html",
+        "text": "Approximation to the Reciprocal of Scalar Double-Precision Floating-Point Value with Less Than 2^-28 Relative Error"
+    },
+    {
+        "name": "VRCP28SS",
+        "url": "https://www.felixcloutier.com/x86/VRCP28SS.html",
+        "text": "Approximation to the Reciprocal of Scalar Single-Precision Floating-Point Value with Less Than 2^-28 Relative Error"
+    },
+    {
+        "name": "VRSQRT28PD",
+        "url": "https://www.felixcloutier.com/x86/VRSQRT28PD.html",
+        "text": "Approximation to the Reciprocal Square Root of Packed Double-Precision Floating-Point Values with Less Than 2^-28 Relative Error"
+    },
+    {
+        "name": "VRSQRT28PS",
+        "url": "https://www.felixcloutier.com/x86/VRSQRT28PS.html",
+        "text": "Approximation to the Reciprocal Square Root of Packed Single-Precision Floating-Point Values with Less Than 2^-28 Relative Error"
+    },
+    {
+        "name": "VRSQRT28SD",
+        "url": "https://www.felixcloutier.com/x86/VRSQRT28SD.html",
+        "text": "Approximation to the Reciprocal Square Root of Scalar Double-Precision Floating-Point Value with Less Than 2^-28 Relative Error"
+    },
+    {
+        "name": "VRSQRT28SS",
+        "url": "https://www.felixcloutier.com/x86/VRSQRT28SS.html",
+        "text": "Approximation to the Reciprocal Square Root of Scalar Single-Precision Floating- Point Value with Less Than 2^-28 Relative Error"
+    },
+    {
+        "name": "VSCATTERPF0DPD",
+        "url": "https://www.felixcloutier.com/x86/VSCATTERPF0DPS:VSCATTERPF0QPS:VSCATTERPF0DPD:VSCATTERPF0QPD.html",
+        "text": "Sparse Prefetch Packed SP/DP Data Values with Signed Dword, Signed Qword Indices Using T0 Hint with Intent to Write"
+    },
+    {
+        "name": "VSCATTERPF0DPS",
+        "url": "https://www.felixcloutier.com/x86/VSCATTERPF0DPS:VSCATTERPF0QPS:VSCATTERPF0DPD:VSCATTERPF0QPD.html",
+        "text": "Sparse Prefetch Packed SP/DP Data Values with Signed Dword, Signed Qword Indices Using T0 Hint with Intent to Write"
+    },
+    {
+        "name": "VSCATTERPF0QPD",
+        "url": "https://www.felixcloutier.com/x86/VSCATTERPF0DPS:VSCATTERPF0QPS:VSCATTERPF0DPD:VSCATTERPF0QPD.html",
+        "text": "Sparse Prefetch Packed SP/DP Data Values with Signed Dword, Signed Qword Indices Using T0 Hint with Intent to Write"
+    },
+    {
+        "name": "VSCATTERPF0QPS",
+        "url": "https://www.felixcloutier.com/x86/VSCATTERPF0DPS:VSCATTERPF0QPS:VSCATTERPF0DPD:VSCATTERPF0QPD.html",
+        "text": "Sparse Prefetch Packed SP/DP Data Values with Signed Dword, Signed Qword Indices Using T0 Hint with Intent to Write"
+    },
+    {
+        "name": "VSCATTERPF1DPD",
+        "url": "https://www.felixcloutier.com/x86/VSCATTERPF1DPS:VSCATTERPF1QPS:VSCATTERPF1DPD:VSCATTERPF1QPD.html",
+        "text": "Sparse Prefetch Packed SP/DP Data Values with Signed Dword, Signed Qword Indices Using T1 Hint with Intent to Write"
+    },
+    {
+        "name": "VSCATTERPF1DPS",
+        "url": "https://www.felixcloutier.com/x86/VSCATTERPF1DPS:VSCATTERPF1QPS:VSCATTERPF1DPD:VSCATTERPF1QPD.html",
+        "text": "Sparse Prefetch Packed SP/DP Data Values with Signed Dword, Signed Qword Indices Using T1 Hint with Intent to Write"
+    },
+    {
+        "name": "VSCATTERPF1QPD",
+        "url": "https://www.felixcloutier.com/x86/VSCATTERPF1DPS:VSCATTERPF1QPS:VSCATTERPF1DPD:VSCATTERPF1QPD.html",
+        "text": "Sparse Prefetch Packed SP/DP Data Values with Signed Dword, Signed Qword Indices Using T1 Hint with Intent to Write"
+    },
+    {
+        "name": "VSCATTERPF1QPS",
+        "url": "https://www.felixcloutier.com/x86/VSCATTERPF1DPS:VSCATTERPF1QPS:VSCATTERPF1DPD:VSCATTERPF1QPD.html",
+        "text": "Sparse Prefetch Packed SP/DP Data Values with Signed Dword, Signed Qword Indices Using T1 Hint with Intent to Write"
+    }
+]

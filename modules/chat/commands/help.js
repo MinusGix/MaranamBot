@@ -1,7 +1,7 @@
 module.exports = {
     name: "chat:help",
     init (MS, moduleName, filename) {
-        MS.moduleDecl.chat.commands.help = function (data, location) {
+        MS.moduleDecl.chat.commands.help = function (location, data) {
             if (data.stext.length === 1) {
                 let text = 'Help:\n';
                 let prefix = MS.moduleData.chat.commandPrefix;

@@ -68,7 +68,10 @@ let MS = {
     controls: Object.create(null),
     run (controlName, ...args) {
         if (typeof(this.controls[controlName]) === 'function') {
-            this.controls[controlName](...args);
+            return this.controls[controlName](...args);
+        } else {
+            MS.log.warn("Attempted to run non-existant control by the name of: '" + controlName + "'.");
+            return undefined;
         }
     },
 

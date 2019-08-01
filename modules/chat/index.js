@@ -20,12 +20,10 @@ module.exports.init = function (MS, moduleName, filename) {
     MS.initModuleData('chat', {});
 
     // Register yourself as a chat controller, give it an event for functions to call when something happens
-    MS.addControl("chat-register", (modName, event) => {
-        registrar[modName] = event;
-
-        if (!event.send) event.send = (location, data) => {};
+    MS.addControl("chat-register", (modName, data) => {
+        registrar[modName] = data;
     });
-    MS.addControl("chat-receive-text", (modName, text, location, ...eargs) => {
+    MS.addControl("chat-receive-text", (modName, text, location, eargs={}) => {
         location.mod = modName;
 
         // Do command parsing.
@@ -40,8 +38,10 @@ module.exports.init = function (MS, moduleName, filename) {
                 stext: stext,
             };
 
+            data.identifier = MS.run("chat-get-identifier", location, data);
+
             if (commands[command]) {
-                commands[command](data, location);
+                commands[command](location, data);
             }
         } else {
             // Ignore
@@ -53,18 +53,22 @@ module.exports.init = function (MS, moduleName, filename) {
         }
 
         if (hasRegistrar(location.mod)) {
-            registrar[location.mod].send(location, data);
+            return MS.run("chat-" + location.mod + "-send", location, data);
         } else {
             MS.log.warn("Received chat reply for location which does not have a registered handler: ", location.mod, data);
         }
     });
-    MS.addControl("send", (data, location) => {
-        if (hasRegistrar(mod)) {
-            registrar[mod].send(mod, data, location);
-        } else {
-            MS.log.warn("Attempting to send data over a mod which doesn't exist.", mod);
+    MS.addControl("chat-get-identifier", (location, data) => {
+        if (location === undefined || data === undefined) {
+            throw new Error("chat-reply, location or data were undefined. Not allowed.");
         }
-    });
+
+        if (hasRegistrar(location.mod)) {
+            return MS.run("chat-" + location.mod + "-getIdentifier", location, data);
+        } else {
+            MS.log.warn("Received chat reply for location which does not have a registered handler: ", location.mod, data);
+        }
+    })
 
     MS.loadModules(path.dirname(filename) + "/commands/");
 }

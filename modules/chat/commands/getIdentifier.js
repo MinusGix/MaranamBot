@@ -1,10 +1,10 @@
 module.exports = {
-    name: "chat:test",
+    name: "chat:getIdentifier",
     init (MS, moduleName, filename) {
-        MS.moduleDecl.chat.commands.test = function (location, data) {
+        MS.moduleDecl.chat.commands.getIdentifier = function (location, data) {
             MS.run("chat-reply", location, {
                 type: "text",
-                text: "I LOVE YOU"
+                text: "Ident: " + data.identifier
             });
         }
     }
