@@ -66,9 +66,9 @@ let MS = {
         delete this.controls[name];
     },
     controls: Object.create(null),
-    run (controlName, ...args) {
+    async run (controlName, ...args) {
         if (typeof(this.controls[controlName]) === 'function') {
-            return this.controls[controlName](...args);
+            return await this.controls[controlName](...args);
         } else {
             MS.log.warn("Attempted to run non-existant control by the name of: '" + controlName + "'.");
             return undefined;
@@ -106,7 +106,7 @@ let MS = {
 console.log(chalk.cyan("[] MainState initialized. Module Path: " + MS.MODULE_PATH));
 
 
-MS.loadFileModule = function (filename) {
+MS.loadFileModule = async function (filename) {
     let data = require(filename);
     let moduleName = "[UNNAMED] " + filename;
 
@@ -125,11 +125,11 @@ MS.loadFileModule = function (filename) {
     moduleName = moduleName.replace(/\..+$/, '');
 
     if (typeof(data.init) === 'function') {
-        data.init(MS, moduleName, filename);
+        await data.init(MS, moduleName, filename);
     }
 }
 
-MS.loadModules = function (baseDirectory) {
+MS.loadModules = async function (baseDirectory) {
     MS.log.info("Loading modules in: " + baseDirectory);
     let files = fs.readdirSync(baseDirectory);
     MS.log.info("Found " + files.length + " files.");
@@ -138,14 +138,14 @@ MS.loadModules = function (baseDirectory) {
         let rootStat = fs.lstatSync(filename);
 
         if (rootStat.isFile()) {
-            MS.loadFileModule(filename);
+           await MS.loadFileModule(filename);
         } else if (rootStat.isDirectory()) {
             let subFilename = filename + "/" + config.getConfigOption("moduleMainFile");
             if (fs.existsSync(subFilename)) {
                 let indexStat = fs.lstatSync(subFilename);
 
                 if (indexStat.isFile()) {
-                    MS.loadFileModule(subFilename);
+                    await MS.loadFileModule(subFilename);
                 } else {
                     MS.log.warn("There is a non-file named the same as the set main fle for a module. Ignoring it, but this might be a mistake.");
                 }
@@ -155,7 +155,7 @@ MS.loadModules = function (baseDirectory) {
             if (fs.existsSync(subModules)) {
                 let modStat = fs.lstatSync(subModules);
                 if (modStat.isDirectory) {
-                    MS.loadModules(subModules);
+                    await MS.loadModules(subModules);
                 } else {
                     MS.log.warn("There is a non-folder named the same as the set name for submodules. Ignoring it, but this might be a mistake.");
                 }

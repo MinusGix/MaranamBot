@@ -114,18 +114,18 @@ let characters = [
 
 module.exports = {
     name: "chat:hiragana",
-    init(MS, moduleName, filename) {
-        MS.moduleDecl.chat.commands.hiragana = function (location, data) {
+    async init(MS, moduleName, filename) {
+        MS.moduleDecl.chat.commands.hiragana = async function (location, data) {
             let text = data.stext.map(x => x.toLowerCase());
 
             if (text.length === 1) {
-                MS.run("chat-reply", location, {
+                await MS.run("chat-reply", location, {
                     type: "text",
                     text: `This is a command to convert to romaji from hiragana, and to hiragana from romaji. Does not support small characters, nor does it support the special つ (tsu) consonant expansion.\n${data.stext[0]} to [romaji text]\n${data.stext[0]} from [hiragana]`
                 });
                 return;
             } else if (text.length === 2) {
-                MS.run("chat-reply", location, {
+                await MS.run("chat-reply", location, {
                     type: "text",
                     text: "You used the command incorrectly. Use the command without any arguments to see the help."
                 });
@@ -140,7 +140,7 @@ module.exports = {
             } else if (text[1] === "from") {
                 symIndex = 1;
             } else {
-                MS.run("chat-reply", location, {
+                await MS.run("chat-reply", location, {
                     type: "text",
                     text: "You used the command incorrectly. First argument (after command) must be 'to' or 'from'"
                 });
@@ -174,7 +174,7 @@ module.exports = {
                 }
             }
 
-            MS.run("chat-reply", location, {
+            await MS.run("chat-reply", location, {
                 type: "text",
                 text: "Output: " + output.join("")
             });

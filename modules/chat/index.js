@@ -10,20 +10,20 @@ function hasRegistrar (modName) {
     return registrar[modName] !== undefined;
 }
 
-module.exports.init = function (MS, moduleName, filename) {
+module.exports.init = async function (MS, moduleName, filename) {
     setupModuleData(MS, moduleName, filename);
 
     MS.moduleDecl.chat = {};
     MS.moduleDecl.chat.commands = {};
     let commands = MS.moduleDecl.chat.commands; // just an easier way to refer to it
 
-    MS.initModuleData('chat', {});
+    await MS.initModuleData('chat', {});
 
     // Register yourself as a chat controller, give it an event for functions to call when something happens
-    MS.addControl("chat-register", (modName, data) => {
+    await MS.addControl("chat-register", (modName, data) => {
         registrar[modName] = data;
     });
-    MS.addControl("chat-receive-text", (modName, text, location, eargs={}) => {
+    await MS.addControl("chat-receive-text", async (modName, text, location, eargs={}) => {
         location.mod = modName;
 
         // Do command parsing.
@@ -38,39 +38,39 @@ module.exports.init = function (MS, moduleName, filename) {
                 stext: stext,
             };
 
-            data.identifier = MS.run("chat-get-identifier", location, data);
+            data.identifier = await MS.run("chat-get-identifier", location, data);
 
             if (commands[command]) {
-                commands[command](location, data);
+                await commands[command](location, data);
             }
         } else {
             // Ignore
         }
     });
-    MS.addControl("chat-reply", (location, data) => {
+    MS.addControl("chat-reply", async (location, data) => {
         if (location === undefined || data === undefined) {
             throw new Error("chat-reply, location or data were undefined. Not allowed.");
         }
 
         if (hasRegistrar(location.mod)) {
-            return MS.run("chat-" + location.mod + "-send", location, data);
+            return await MS.run("chat-" + location.mod + "-send", location, data);
         } else {
             MS.log.warn("Received chat reply for location which does not have a registered handler: ", location.mod, data);
         }
     });
-    MS.addControl("chat-get-identifier", (location, data) => {
+    MS.addControl("chat-get-identifier", async (location, data) => {
         if (location === undefined || data === undefined) {
             throw new Error("chat-reply, location or data were undefined. Not allowed.");
         }
 
         if (hasRegistrar(location.mod)) {
-            return MS.run("chat-" + location.mod + "-getIdentifier", location, data);
+            return await MS.run("chat-" + location.mod + "-getIdentifier", location, data);
         } else {
             MS.log.warn("Received chat reply for location which does not have a registered handler: ", location.mod, data);
         }
     })
 
-    MS.loadModules(path.dirname(filename) + "/commands/");
+    await MS.loadModules(path.dirname(filename) + "/commands/");
 }
 
 function setupModuleData (MS, moduleName, filename) {

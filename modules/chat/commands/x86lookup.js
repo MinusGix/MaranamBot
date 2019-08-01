@@ -143,7 +143,7 @@ function findInstruction (data, oinstr) {
 
 module.exports = {
     name: "chat:x86",
-    init (MS, moduleName, filename) {
+    async init (MS, moduleName, filename) {
         let x86data = null;
         let hadError = false;
 
@@ -161,9 +161,9 @@ module.exports = {
             MS.log.info("[chat] [x86lookup] Data loaded. Took: " + (Date.now() - startTime) + "ms");
         });
 
-        MS.moduleDecl.chat.commands.x86 = function (location, data) {
+        MS.moduleDecl.chat.commands.x86 = async function (location, data) {
             if (data.stext.length === 1 || data.stext.length > 2) {
-                MS.run("chat-reply", location, {
+                await MS.run("chat-reply", location, {
                     type: "text",
                     text: "This command outputs a small description of an x86 command and a link to a page describing it."
                 });
@@ -172,12 +172,12 @@ module.exports = {
 
             if (x86data === null) {
                 if (hadError) {
-                    MS.run("chat-reply", location, {
+                    await MS.run("chat-reply", location, {
                         type: "text",
                         text: "Bot had issue loading x86 info from file at startup. Command is disabled."
                     });
                 } else {
-                    MS.run("chat-reply", location, {
+                    await MS.run("chat-reply", location, {
                         type: "text",
                         text: "x86 data hasn't yet loaded."
                     });
@@ -190,12 +190,12 @@ module.exports = {
             let foundInstr = findInstruction(x86data, instr);
 
             if (foundInstr) {
-                MS.run("chat-reply", location, {
+                await MS.run("chat-reply", location, {
                     type: "text",
                     text: foundInstr.name + "\n" + foundInstr.url + "\n" + foundInstr.text + (foundInstr.note ? "\n"+foundInstr.note:"")
                 });
             } else {
-                MS.run("chat-reply", location, {
+                await MS.run("chat-reply", location, {
                     type: "text",
                     text: "I couldn't find that instruction :("
                 });

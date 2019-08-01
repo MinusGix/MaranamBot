@@ -14,8 +14,8 @@ function send (socket, data) {
     }
 }
 
-module.exports.init = function (MS, moduleName) {
-    MS.initModuleData('hackchat', {});
+module.exports.init = async function (MS, moduleName) {
+    await MS.initModuleData('hackchat', {});
 
     function combineUserEntries (cindex) {
         if (!channels[cindex]) {
@@ -330,7 +330,7 @@ module.exports.init = function (MS, moduleName) {
             });
         });
 
-        socket.on("message", (data) => {
+        socket.on("message", async (data) => {
             let pdata;
             try {
                 pdata = JSON.parse(data);
@@ -350,7 +350,7 @@ module.exports.init = function (MS, moduleName) {
                     pdata.admin === undefined ? false : pdata.admin,
                     pdata.mod === undefined ? false : pdata.mod
                 );
-                MS.run("chat-receive-text", "hackchat", pdata.text, {index: index}, {
+                await MS.run("chat-receive-text", "hackchat", pdata.text, {index: index}, {
                     data: pdata
                 });
             } else if (pdata.cmd === "onlineAdd") {
@@ -434,10 +434,7 @@ module.exports.init = function (MS, moduleName) {
         }
     });
 
-    MS.run("chat-register", "hackchat", {});
+    await MS.run("chat-register", "hackchat", {});
 
-
-
-
-    MS.run("hackchat-connect", "Xd", "Maranam", "fuckwit");
+    await MS.run("hackchat-connect", "Xd", "Maranam", "fuckwit");
 };
