@@ -1,5 +1,3 @@
-const ws = require('ws');
-
 module.exports = {
     name: "hackchat",
 };
@@ -15,6 +13,14 @@ function send (socket, data) {
 }
 
 module.exports.init = async function (MS, moduleName) {
+    let ws;
+    try {
+        ws = require('ws');
+    } catch (err) {
+        MS.log.info("[hackchat] NOT launching due to not findg ws module that is required.");
+        return false;
+    }
+
     await MS.initModuleData('hackchat', {});
 
     function combineUserEntries (cindex) {

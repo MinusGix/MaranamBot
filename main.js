@@ -125,7 +125,11 @@ MS.loadFileModule = async function (filename) {
     moduleName = moduleName.replace(/\..+$/, '');
 
     if (typeof(data.init) === 'function') {
-        await data.init(MS, moduleName, filename);
+        let value = await data.init(MS, moduleName, filename);
+        if (value === false) { // Failed to initialize, but it doesn't want us to error
+            // We don't do anything, but we handle it here so that if we do later do something with what they return, we consider this to be a 'failed-to-launch'
+        }
+        // TODO: add a way to tell us that it needs to abort because of some more catastrophic error.
     }
 }
 

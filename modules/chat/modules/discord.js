@@ -1,11 +1,18 @@
-const discord = require('discord.js');
-const fs = require('fs');
-
 module.exports = {
     name: "discordchat",
 };
 
 module.exports.init = async function (MS, moduleName) {
+    let discord;
+    try {
+        discord = require('discord.js');
+    } catch (err) {
+        MS.log.info("[chat] [discord] NOT Launching, due to missing discord.js module.");
+        return false;
+    }
+
+    const fs = require('fs');
+
     let config = null;
 
     try {
