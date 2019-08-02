@@ -1,1 +1,5 @@
 node_modules/
+# Ignore modified jsons because they might have sensitive data
+# We keep the example configs.
+modules/chat/config/discord.json
+modules/chat/config/hackchat.json
