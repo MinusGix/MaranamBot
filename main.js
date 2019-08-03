@@ -62,6 +62,9 @@ let MS = {
         }
         this.controls[name] = func;
     },
+    hasControl (name) {
+        return !!this.controls[name];
+    },
     removeControl (name) {
         delete this.controls[name];
     },
@@ -72,6 +75,15 @@ let MS = {
         } else {
             MS.log.warn("Attempted to run non-existant control by the name of: '" + controlName + "'.");
             return undefined;
+        }
+    },
+    // Runs the control if it exists, otherwise doesn't
+    // Returns [bool could_run_control, returned_data | null]
+    async runIf (controlName, ...args) {
+        if (this.hasControl(controlName)) {
+            return [true, await this.run(controlName, ...args)];
+        } else {
+            return [false, null];
         }
     },
 
