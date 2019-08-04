@@ -1,0 +1,3 @@
+To add a module simply create a module in the modules folder (or perhaps one of the sub folders), and name it.  
+Modules that have submodules or more data can be in a folder, but must be named index.js  
+When you add a module, if it has files (such as configs) that might have sensitive data or shouldn't be put on git, then make it hidden in gitignore and make an example file that your module auto-loads if it can't find a normal one. Example: Open `config.json`, fail due to it not existing, try `config-example.json` which is already a default, it succeeds and you operate on whatever is in there. Makes it a bit more of a pain to update configs, but makes so you also don't have to reset it before you use git.

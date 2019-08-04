@@ -74,9 +74,6 @@ module.exports.init = async function (MS, moduleName, filename) {
 }
 
 function setupModuleData (MS, moduleName, filename) {
-    if (MS.moduleData.chat === undefined) {
-        MS.moduleData.chat = {};
-    }
-
+    MS.initModuleData("chat", {});
     if (!MS.moduleData.chat.commandPrefix) MS.moduleData.chat.commandPrefix = ",";
 }

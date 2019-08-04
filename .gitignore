@@ -3,3 +3,5 @@ node_modules/
 # We keep the example configs.
 modules/chat/config/discord.json
 modules/chat/config/hackchat.json
+modules/image-uploader/config/config.json
+modules/image-uploader/uploaders/*/config/config.json
